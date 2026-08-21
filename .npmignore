@@ -1,0 +1,12 @@
+node_modules
+src
+.test-build
+test
+coverage
+*.log
+.vscode
+.npmrc
+CLAUDE.md
+tsconfig*.json
+tsup.config.ts
+eslint.config.mjs

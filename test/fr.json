@@ -1,0 +1,2398 @@
+[
+	[
+		"Le script s'exécute sans erreur.",
+		"declarative"
+	],
+	[
+		"Peux-tu corriger cette fonction ?",
+		"interrogative"
+	],
+	[
+		"Quel code illisible !",
+		"exclamatory"
+	],
+	[
+		"Pourquoi le serveur renvoie-t-il une erreur 500 ?",
+		"interrogative"
+	],
+	[
+		"Quelle erreur stupide !",
+		"exclamatory"
+	],
+	[
+		"La fonction renvoie un tableau vide.",
+		"declarative"
+	],
+	[
+		"Enfin le test passe !",
+		"exclamatory"
+	],
+	[
+		"J'ai corrigé la boucle infinie.",
+		"declarative"
+	],
+	[
+		"Comment installer cette dépendance ?",
+		"interrogative"
+	],
+	[
+		"Ce fichier contient les données de test.",
+		"declarative"
+	],
+	[
+		"Quel gain de temps incroyable !",
+		"exclamatory"
+	],
+	[
+		"Où se trouve le fichier de configuration ?",
+		"interrogative"
+	],
+	[
+		"Quelle est la différence entre let et var ?",
+		"interrogative"
+	],
+	[
+		"L'API répond en moins de deux cents millisecondes.",
+		"declarative"
+	],
+	[
+		"Comme ce framework est puissant !",
+		"exclamatory"
+	],
+	[
+		"Quelle réponse rapide !",
+		"exclamatory"
+	],
+	[
+		"Est-ce que ce code est compatible avec Node 18 ?",
+		"interrogative"
+	],
+	[
+		"Nous utilisons React pour l'interface.",
+		"declarative"
+	],
+	[
+		"Le bug vient d'une variable non initialisée.",
+		"declarative"
+	],
+	[
+		"As-tu testé la route avec Postman ?",
+		"interrogative"
+	],
+	[
+		"Quelle librairie géniale !",
+		"exclamatory"
+	],
+	[
+		"Combien de temps prend la compilation ?",
+		"interrogative"
+	],
+	[
+		"Quel bug frustrant !",
+		"exclamatory"
+	],
+	[
+		"Je préfère TypeScript pour ce projet.",
+		"declarative"
+	],
+	[
+		"Bravo pour cette solution élégante !",
+		"exclamatory"
+	],
+	[
+		"La documentation est à jour.",
+		"declarative"
+	],
+	[
+		"Le correctif est-il disponible ?",
+		"interrogative"
+	],
+	[
+		"Le déploiement est prévu vendredi.",
+		"declarative"
+	],
+	[
+		"Quelle excellente question !",
+		"exclamatory"
+	],
+	[
+		"Faut-il ajouter un index sur cette colonne ?",
+		"interrogative"
+	],
+	[
+		"Qu'est-ce qui provoque cette fuite de mémoire ?",
+		"interrogative"
+	],
+	[
+		"L'utilisateur doit confirmer son adresse email.",
+		"declarative"
+	],
+	[
+		"Comme ce serveur est rapide !",
+		"exclamatory"
+	],
+	[
+		"Quel message d'erreur incompréhensible !",
+		"exclamatory"
+	],
+	[
+		"Quel est le rôle de ce middleware ?",
+		"interrogative"
+	],
+	[
+		"Cette requête modifie la base de données.",
+		"declarative"
+	],
+	[
+		"Le serveur de développement tourne sur le port trois mille.",
+		"declarative"
+	],
+	[
+		"Comment puis-je annuler la dernière migration ?",
+		"interrogative"
+	],
+	[
+		"Quelle belle interface !",
+		"exclamatory"
+	],
+	[
+		"La base de données est-elle sauvegardée automatiquement ?",
+		"interrogative"
+	],
+	[
+		"Mon navigateur bloque les cookies tiers.",
+		"declarative"
+	],
+	[
+		"Que cette explication est précieuse !",
+		"exclamatory"
+	],
+	[
+		"Où dois-je stocker les clés API ?",
+		"interrogative"
+	],
+	[
+		"Je vais factoriser cette partie du code.",
+		"declarative"
+	],
+	[
+		"Quel travail remarquable !",
+		"exclamatory"
+	],
+	[
+		"Quelle bibliothèque recommandes-tu pour la validation ?",
+		"interrogative"
+	],
+	[
+		"Le test unitaire échoue à cause d'une faute de frappe.",
+		"declarative"
+	],
+	[
+		"Comme ce code est bien structuré !",
+		"exclamatory"
+	],
+	[
+		"Le serveur accepte-t-il les requêtes HTTP ?",
+		"interrogative"
+	],
+	[
+		"Pourquoi la requête SQL renvoie-t-elle zéro ligne ?",
+		"interrogative"
+	],
+	[
+		"La base de données est sauvegardée chaque nuit.",
+		"declarative"
+	],
+	[
+		"Quelle fonctionnalité impressionnante !",
+		"exclamatory"
+	],
+	[
+		"Quand le déploiement est-il prévu ?",
+		"interrogative"
+	],
+	[
+		"Le chatbot génère des réponses cohérentes.",
+		"declarative"
+	],
+	[
+		"Quel soulagement de voir ce test réussir !",
+		"exclamatory"
+	],
+	[
+		"Est-ce que le cache est vidé après chaque mise à jour ?",
+		"interrogative"
+	],
+	[
+		"On peut utiliser une expression régulière pour valider l'entrée.",
+		"declarative"
+	],
+	[
+		"Quelle idée brillante !",
+		"exclamatory"
+	],
+	[
+		"Comment configurer un certificat SSL local ?",
+		"interrogative"
+	],
+	[
+		"Le commit précédent a introduit une régression.",
+		"declarative"
+	],
+	[
+		"Comme le chargement est lent !",
+		"exclamatory"
+	],
+	[
+		"Quelles sont les étapes pour reproduire ce bug ?",
+		"interrogative"
+	],
+	[
+		"Le paquet est-il publié sur npm ?",
+		"interrogative"
+	],
+	[
+		"La page se charge en moins d'une seconde.",
+		"declarative"
+	],
+	[
+		"Quel temps de réponse exceptionnel !",
+		"exclamatory"
+	],
+	[
+		"Avec quel outil puis-je formater ce code ?",
+		"interrogative"
+	],
+	[
+		"Le mot de passe doit contenir au moins huit caractères.",
+		"declarative"
+	],
+	[
+		"Quelle documentation détaillée !",
+		"exclamatory"
+	],
+	[
+		"La route protégée exige-t-elle un jeton valide ?",
+		"interrogative"
+	],
+	[
+		"Je vais séparer la logique métier de la couche présentation.",
+		"declarative"
+	],
+	[
+		"Que ce résultat est surprenant !",
+		"exclamatory"
+	],
+	[
+		"Où se trouve le journal des erreurs ?",
+		"interrogative"
+	],
+	[
+		"Le compilateur affiche un avertissement sur la dépréciation.",
+		"declarative"
+	],
+	[
+		"Quel bug tenace !",
+		"exclamatory"
+	],
+	[
+		"Comment désactiver le mode strict ?",
+		"interrogative"
+	],
+	[
+		"Que renvoie cette fonction si l'argument est nul ?",
+		"interrogative"
+	],
+	[
+		"Cette bibliothèque facilite la gestion des dates.",
+		"declarative"
+	],
+	[
+		"Comme cette API est simple à utiliser !",
+		"exclamatory"
+	],
+	[
+		"Le test échoue-t-il encore après la correction ?",
+		"interrogative"
+	],
+	[
+		"Le module d'authentification est opérationnel.",
+		"declarative"
+	],
+	[
+		"Quelle erreur de syntaxe exaspérante !",
+		"exclamatory"
+	],
+	[
+		"Pourquoi le module ne se charge-t-il pas dans le navigateur ?",
+		"interrogative"
+	],
+	[
+		"L'utilisateur a perdu sa session après la mise à jour.",
+		"declarative"
+	],
+	[
+		"Quel exemple parfait !",
+		"exclamatory"
+	],
+	[
+		"Combien de requêtes par seconde le serveur supporte-t-il ?",
+		"interrogative"
+	],
+	[
+		"Je consulte la documentation officielle de Python.",
+		"declarative"
+	],
+	[
+		"Comme cette librairie est légère !",
+		"exclamatory"
+	],
+	[
+		"Est-ce que tu peux expliquer cette expression régulière ?",
+		"interrogative"
+	],
+	[
+		"Quelle commande permet de lister les processus actifs ?",
+		"interrogative"
+	],
+	[
+		"Le tableau de bord affiche les indicateurs en temps réel.",
+		"declarative"
+	],
+	[
+		"Quelle performance remarquable !",
+		"exclamatory"
+	],
+	[
+		"Le fichier .env est-il inclus dans le dépôt ?",
+		"interrogative"
+	],
+	[
+		"Nous devons renouveler le certificat SSL avant lundi.",
+		"declarative"
+	],
+	[
+		"Que ce code est élégant !",
+		"exclamatory"
+	],
+	[
+		"Comment mettre à jour toutes les dépendances ?",
+		"interrogative"
+	],
+	[
+		"La requête SQL renvoie les clients actifs.",
+		"declarative"
+	],
+	[
+		"Quel déploiement réussi !",
+		"exclamatory"
+	],
+	[
+		"Où puis-je voir la documentation de cette API ?",
+		"interrogative"
+	],
+	[
+		"Le service de messagerie est temporairement indisponible.",
+		"declarative"
+	],
+	[
+		"Quelle mise en page soignée !",
+		"exclamatory"
+	],
+	[
+		"Qu'est-ce qu'un webhook ?",
+		"interrogative"
+	],
+	[
+		"La session expire-t-elle après trente minutes ?",
+		"interrogative"
+	],
+	[
+		"Le parseur JSON accepte les commentaires.",
+		"declarative"
+	],
+	[
+		"Comme ce tutoriel est clair !",
+		"exclamatory"
+	],
+	[
+		"Quelle est la meilleure pratique pour structurer ce projet ?",
+		"interrogative"
+	],
+	[
+		"J'ai ajouté une vérification des types à l'entrée.",
+		"declarative"
+	],
+	[
+		"Quel gain de productivité !",
+		"exclamatory"
+	],
+	[
+		"Le code de déploiement arrête-t-il le service ?",
+		"interrogative"
+	],
+	[
+		"La commande npm install a restauré les dépendances.",
+		"declarative"
+	],
+	[
+		"Quelle régression inattendue !",
+		"exclamatory"
+	],
+	[
+		"Pourquoi la page met-elle autant de temps à charger ?",
+		"interrogative"
+	],
+	[
+		"Le fichier de configuration utilise le format YAML.",
+		"declarative"
+	],
+	[
+		"Que cette réponse est complète !",
+		"exclamatory"
+	],
+	[
+		"Comment ajouter une colonne à cette table ?",
+		"interrogative"
+	],
+	[
+		"As-tu un exemple de test unitaire pour ce composant ?",
+		"interrogative"
+	],
+	[
+		"Le routeur redirige les requêtes vers le bon contrôleur.",
+		"declarative"
+	],
+	[
+		"Quel correctif efficace !",
+		"exclamatory"
+	],
+	[
+		"Le chatbot utilise-t-il un modèle local ?",
+		"interrogative"
+	],
+	[
+		"Cette fonction asynchrone attend la promesse avant de continuer.",
+		"declarative"
+	],
+	[
+		"Comme ce composant est réutilisable !",
+		"exclamatory"
+	],
+	[
+		"Que signifie cette alerte de compilation ?",
+		"interrogative"
+	],
+	[
+		"Le cache réduit le nombre de requêtes vers l'API.",
+		"declarative"
+	],
+	[
+		"Quelle idée astucieuse !",
+		"exclamatory"
+	],
+	[
+		"Est-ce que le formulaire valide les champs côté client ?",
+		"interrogative"
+	],
+	[
+		"Le journal d'erreurs contient une trace complète.",
+		"declarative"
+	],
+	[
+		"Quel message de succès encourageant !",
+		"exclamatory"
+	],
+	[
+		"Comment protéger une route dans Express ?",
+		"interrogative"
+	],
+	[
+		"Où se trouve le dossier des assets ?",
+		"interrogative"
+	],
+	[
+		"Le projet respecte les normes d'accessibilité.",
+		"declarative"
+	],
+	[
+		"Comme ce serveur est stable !",
+		"exclamatory"
+	],
+	[
+		"Quelle est la version stable de ce framework ?",
+		"interrogative"
+	],
+	[
+		"La version mobile du site est responsive.",
+		"declarative"
+	],
+	[
+		"Quelle simplicité déconcertante !",
+		"exclamatory"
+	],
+	[
+		"Le serveur de test est-il accessible depuis l'extérieur ?",
+		"interrogative"
+	],
+	[
+		"Le client demande un export au format CSV.",
+		"declarative"
+	],
+	[
+		"Que ce code est compact !",
+		"exclamatory"
+	],
+	[
+		"Comment exécuter un seul test avec Jest ?",
+		"interrogative"
+	],
+	[
+		"J'utilise un éditeur avec coloration syntaxique.",
+		"declarative"
+	],
+	[
+		"Quel succès éclatant !",
+		"exclamatory"
+	],
+	[
+		"Quel est le statut HTTP approprié pour une création ?",
+		"interrogative"
+	],
+	[
+		"La clé API doit-elle rester secrète ?",
+		"interrogative"
+	],
+	[
+		"Le gestionnaire de versions conserve l'historique complet.",
+		"declarative"
+	],
+	[
+		"Quelle avancée spectaculaire !",
+		"exclamatory"
+	],
+	[
+		"Pourquoi le déploiement échoue-t-il à l'étape de build ?",
+		"interrogative"
+	],
+	[
+		"La correction du bug sera livrée dans la prochaine version.",
+		"declarative"
+	],
+	[
+		"Comme cette documentation est pauvre !",
+		"exclamatory"
+	],
+	[
+		"Peux-tu vérifier la syntaxe de ce script ?",
+		"interrogative"
+	],
+	[
+		"Le serveur accepte les connexions en HTTPS uniquement.",
+		"declarative"
+	],
+	[
+		"Quel effort collectif impressionnant !",
+		"exclamatory"
+	],
+	[
+		"Combien de sauvegardes sont conservées ?",
+		"interrogative"
+	],
+	[
+		"Le script de déploiement arrête le service avant la mise à jour.",
+		"declarative"
+	],
+	[
+		"Quelle compatibilité parfaite !",
+		"exclamatory"
+	],
+	[
+		"Est-ce que le pare-feu bloque les connexions entrantes ?",
+		"interrogative"
+	],
+	[
+		"Comment rétablir une version précédente du code ?",
+		"interrogative"
+	],
+	[
+		"La validation du formulaire s'effectue côté client et côté serveur.",
+		"declarative"
+	],
+	[
+		"Que cette requête est optimisée !",
+		"exclamatory"
+	],
+	[
+		"Où sont stockées les sessions utilisateur ?",
+		"interrogative"
+	],
+	[
+		"Le taux de rebond a diminué après la refonte.",
+		"declarative"
+	],
+	[
+		"Quel affichage magnifique !",
+		"exclamatory"
+	],
+	[
+		"Quelle est la différence entre une méthode GET et POST ?",
+		"interrogative"
+	],
+	[
+		"Les tests automatisés couvrent quatre-vingt pour cent du code.",
+		"declarative"
+	],
+	[
+		"Comme ce système est robuste !",
+		"exclamatory"
+	],
+	[
+		"Le routeur redirige-t-il les anciennes URLs ?",
+		"interrogative"
+	],
+	[
+		"Le code source est hébergé sur un dépôt privé.",
+		"declarative"
+	],
+	[
+		"Quelle lenteur insupportable !",
+		"exclamatory"
+	],
+	[
+		"Pourquoi le certificat SSL est-il refusé ?",
+		"interrogative"
+	],
+	[
+		"Comment générer un jeton d'authentification ?",
+		"interrogative"
+	],
+	[
+		"La base de données relationnelle garantit l'intégrité référentielle.",
+		"declarative"
+	],
+	[
+		"Quel test rigoureux !",
+		"exclamatory"
+	],
+	[
+		"Quel est le format de date attendu par l'API ?",
+		"interrogative"
+	],
+	[
+		"Je vais écrire un test pour reproduire le problème.",
+		"declarative"
+	],
+	[
+		"Quelle solution bien pensée !",
+		"exclamatory"
+	],
+	[
+		"Le service de messagerie est-il opérationnel ?",
+		"interrogative"
+	],
+	[
+		"Le site utilise un thème sombre par défaut.",
+		"declarative"
+	],
+	[
+		"Que cette erreur est fréquente !",
+		"exclamatory"
+	],
+	[
+		"As-tu besoin du code complet ou d'un extrait ?",
+		"interrogative"
+	],
+	[
+		"L'extension de navigateur bloque les publicités intrusives.",
+		"declarative"
+	],
+	[
+		"Quel chargement fulgurant !",
+		"exclamatory"
+	],
+	[
+		"Combien de temps faut-il pour traiter une requête ?",
+		"interrogative"
+	],
+	[
+		"Où puis-je modifier les paramètres de langue ?",
+		"interrogative"
+	],
+	[
+		"Le webhook transmet les événements de paiement.",
+		"declarative"
+	],
+	[
+		"Comme ce format de réponse est pratique !",
+		"exclamatory"
+	],
+	[
+		"Quelle commande supprime une branche locale ?",
+		"interrogative"
+	],
+	[
+		"La session expire après trente minutes d'inactivité.",
+		"declarative"
+	],
+	[
+		"Quelle transition fluide !",
+		"exclamatory"
+	],
+	[
+		"Le script de sauvegarde compresse-t-il les fichiers ?",
+		"interrogative"
+	],
+	[
+		"Le serveur de test est isolé du réseau de production.",
+		"declarative"
+	],
+	[
+		"Quel exemple concret !",
+		"exclamatory"
+	],
+	[
+		"Est-ce que le site fonctionne sur mobile ?",
+		"interrogative"
+	],
+	[
+		"Cette approche simplifie la maintenance du code.",
+		"declarative"
+	],
+	[
+		"Quelle architecture impeccable !",
+		"exclamatory"
+	],
+	[
+		"Comment faire une requête avec fetch ?",
+		"interrogative"
+	],
+	[
+		"Pourquoi le composant ne se met-il pas à jour ?",
+		"interrogative"
+	],
+	[
+		"J'ai divisé le composant en plusieurs sous-composants.",
+		"declarative"
+	],
+	[
+		"Que ce journal est détaillé !",
+		"exclamatory"
+	],
+	[
+		"Quel est l'avantage d'utiliser TypeScript ?",
+		"interrogative"
+	],
+	[
+		"Le fournisseur d'identité valide les jetons signés.",
+		"declarative"
+	],
+	[
+		"Quel outil précieux !",
+		"exclamatory"
+	],
+	[
+		"La base de données supporte-t-elle les transactions ?",
+		"interrogative"
+	],
+	[
+		"La commande git rebase réécrit l'historique local.",
+		"declarative"
+	],
+	[
+		"Comme ce script est court !",
+		"exclamatory"
+	],
+	[
+		"Où se trouve la feuille de style principale ?",
+		"interrogative"
+	],
+	[
+		"Le fichier .env contient des secrets locaux.",
+		"declarative"
+	],
+	[
+		"Quelle requête complexe !",
+		"exclamatory"
+	],
+	[
+		"Comment écrire un test de non-régression ?",
+		"interrogative"
+	],
+	[
+		"Quelle est la capacité de stockage actuelle ?",
+		"interrogative"
+	],
+	[
+		"Le paquet est publié sur le registre public npm.",
+		"declarative"
+	],
+	[
+		"Quel module fantastique !",
+		"exclamatory"
+	],
+	[
+		"Le serveur envoie-t-il des en-têtes de sécurité ?",
+		"interrogative"
+	],
+	[
+		"La feuille de style définit les couleurs de la marque.",
+		"declarative"
+	],
+	[
+		"Quelle mise à jour bienvenue !",
+		"exclamatory"
+	],
+	[
+		"Peux-tu corriger l'orthographe de ce texte ?",
+		"interrogative"
+	],
+	[
+		"Le routeur affiche une page 404 pour les liens cassés.",
+		"declarative"
+	],
+	[
+		"Que ce correctif est rapide !",
+		"exclamatory"
+	],
+	[
+		"Combien de dossiers ce script va-t-il traiter ?",
+		"interrogative"
+	],
+	[
+		"Le chatbot apprend de chaque conversation.",
+		"declarative"
+	],
+	[
+		"Quel élan créatif !",
+		"exclamatory"
+	],
+	[
+		"Est-ce que le système de cache réduit la latence ?",
+		"interrogative"
+	],
+	[
+		"Comment configurer le formatage automatique ?",
+		"interrogative"
+	],
+	[
+		"La réponse du modèle contient des exemples concrets.",
+		"declarative"
+	],
+	[
+		"Comme ce tableau de bord est lisible !",
+		"exclamatory"
+	],
+	[
+		"Quel est le statut de la base de données ?",
+		"interrogative"
+	],
+	[
+		"J'ai restructuré le projet en modules indépendants.",
+		"declarative"
+	],
+	[
+		"Quelle sécurité renforcée !",
+		"exclamatory"
+	],
+	[
+		"Pourquoi le fichier CSV n'est-il pas importé ?",
+		"interrogative"
+	],
+	[
+		"La file d'attente traite les tâches dans l'ordre.",
+		"declarative"
+	],
+	[
+		"Quel accès simplifié !",
+		"exclamatory"
+	],
+	[
+		"Où se trouve le point d'entrée de l'application ?",
+		"interrogative"
+	],
+	[
+		"Le moniteur de performances affiche une fuite de mémoire.",
+		"declarative"
+	],
+	[
+		"Quelle cohérence parfaite !",
+		"exclamatory"
+	],
+	[
+		"La bibliothèque est-elle compatible avec la version actuelle ?",
+		"interrogative"
+	],
+	[
+		"Comment lancer le serveur en mode développement ?",
+		"interrogative"
+	],
+	[
+		"L'outil de formatage applique les conventions du projet.",
+		"declarative"
+	],
+	[
+		"Que cette validation est stricte !",
+		"exclamatory"
+	],
+	[
+		"Quelles sont les permissions requises pour ce script ?",
+		"interrogative"
+	],
+	[
+		"Le endpoint renvoie un statut 201 après la création.",
+		"declarative"
+	],
+	[
+		"Quel résultat encourageant !",
+		"exclamatory"
+	],
+	[
+		"Le mot de passe est-il chiffré dans la base ?",
+		"interrogative"
+	],
+	[
+		"La clé API doit rester confidentielle.",
+		"declarative"
+	],
+	[
+		"Comme cette refonte est réussie !",
+		"exclamatory"
+	],
+	[
+		"Est-ce que ce code gère les erreurs réseau ?",
+		"interrogative"
+	],
+	[
+		"Le tableau croisé dynamique résume les ventes par région.",
+		"declarative"
+	],
+	[
+		"Quelle explosion de fonctionnalités !",
+		"exclamatory"
+	],
+	[
+		"Comment séparer la logique métier de l'accès aux données ?",
+		"interrogative"
+	],
+	[
+		"Quel module gère l'authentification ?",
+		"interrogative"
+	],
+	[
+		"La notification par email est envoyée après la commande.",
+		"declarative"
+	],
+	[
+		"Quel code propre !",
+		"exclamatory"
+	],
+	[
+		"Pourquoi la requête renvoie-t-elle un tableau vide ?",
+		"interrogative"
+	],
+	[
+		"Le système de permissions restreint l'accès aux administrateurs.",
+		"declarative"
+	],
+	[
+		"Quelle navigation intuitive !",
+		"exclamatory"
+	],
+	[
+		"Où puis-je voir les indicateurs de performance ?",
+		"interrogative"
+	],
+	[
+		"J'ai remplacé les callbacks par des promesses.",
+		"declarative"
+	],
+	[
+		"Que ce formulaire est simple !",
+		"exclamatory"
+	],
+	[
+		"La fenêtre modale se ferme-t-elle automatiquement ?",
+		"interrogative"
+	],
+	[
+		"Le graphique illustre la progression du trafic.",
+		"declarative"
+	],
+	[
+		"Quel écosystème dynamique !",
+		"exclamatory"
+	],
+	[
+		"Combien de tentatives de connexion sont autorisées ?",
+		"interrogative"
+	],
+	[
+		"Peux-tu générer un jeu de données de test ?",
+		"interrogative"
+	],
+	[
+		"La méthode POST envoie les données dans le corps de la requête.",
+		"declarative"
+	],
+	[
+		"Comme cette réponse est naturelle !",
+		"exclamatory"
+	],
+	[
+		"Est-ce que la réponse du chatbot est déterministe ?",
+		"interrogative"
+	],
+	[
+		"Le pare-feu bloque les adresses IP suspectes.",
+		"declarative"
+	],
+	[
+		"Quelle synchronisation parfaite !",
+		"exclamatory"
+	],
+	[
+		"Comment résoudre un conflit de fusion ?",
+		"interrogative"
+	],
+	[
+		"La sauvegarde incrémentale économise de l'espace disque.",
+		"declarative"
+	],
+	[
+		"Quel trafic impressionnant !",
+		"exclamatory"
+	],
+	[
+		"Quel est le bon format pour un identifiant unique ?",
+		"interrogative"
+	],
+	[
+		"Le test de charge simule mille utilisateurs simultanés.",
+		"declarative"
+	],
+	[
+		"Quelle fiabilité exemplaire !",
+		"exclamatory"
+	],
+	[
+		"Le service de notifications fonctionne-t-il ?",
+		"interrogative"
+	],
+	[
+		"Pourquoi le paquet ne s'installe-t-il pas ?",
+		"interrogative"
+	],
+	[
+		"Le serveur renvoie les en-têtes de sécurité attendus.",
+		"declarative"
+	],
+	[
+		"Que ce processus est rapide !",
+		"exclamatory"
+	],
+	[
+		"Où se trouve la configuration de webpack ?",
+		"interrogative"
+	],
+	[
+		"La documentation du SDK manque d'exemples.",
+		"declarative"
+	],
+	[
+		"Quel environnement bien configuré !",
+		"exclamatory"
+	],
+	[
+		"Comment ajouter un middleware dans cette application ?",
+		"interrogative"
+	],
+	[
+		"J'utilise une variable d'environnement pour la configuration.",
+		"declarative"
+	],
+	[
+		"Comme cette interface est agréable !",
+		"exclamatory"
+	],
+	[
+		"Quelle est la fréquence de sauvegarde ?",
+		"interrogative"
+	],
+	[
+		"Le débogueur s'arrête sur le point d'arrêt.",
+		"declarative"
+	],
+	[
+		"Quelle précision remarquable !",
+		"exclamatory"
+	],
+	[
+		"Le système de connexion accepte-t-il l'authentification multifacteur ?",
+		"interrogative"
+	],
+	[
+		"Est-ce que le code est couvert par des tests ?",
+		"interrogative"
+	],
+	[
+		"La page de connexion accepte les identifiants valides.",
+		"declarative"
+	],
+	[
+		"Quel débogage efficace !",
+		"exclamatory"
+	],
+	[
+		"Comment déboguer une requête réseau ?",
+		"interrogative"
+	],
+	[
+		"Le processus de build échoue à cause d'un import introuvable.",
+		"declarative"
+	],
+	[
+		"Quelle clarté exceptionnelle !",
+		"exclamatory"
+	],
+	[
+		"Quelles données sont collectées par le formulaire ?",
+		"interrogative"
+	],
+	[
+		"La fonction de rappel est exécutée après le tri.",
+		"declarative"
+	],
+	[
+		"Que ce système est flexible !",
+		"exclamatory"
+	],
+	[
+		"Le serveur de production est-il stable ?",
+		"interrogative"
+	],
+	[
+		"Le format JSON assure l'échange de données structurées.",
+		"declarative"
+	],
+	[
+		"Quel rendu visuel superbe !",
+		"exclamatory"
+	],
+	[
+		"Pourquoi l'image ne se charge-t-elle pas ?",
+		"interrogative"
+	],
+	[
+		"Peux-tu expliquer ce message d'erreur ?",
+		"interrogative"
+	],
+	[
+		"Le script de migration ajoute une colonne à la table.",
+		"declarative"
+	],
+	[
+		"Comme cette installation est facile !",
+		"exclamatory"
+	],
+	[
+		"Combien de requêtes le cache peut-il stocker ?",
+		"interrogative"
+	],
+	[
+		"L'interface utilisateur est intuitive et rapide.",
+		"declarative"
+	],
+	[
+		"Quelle extension incontournable !",
+		"exclamatory"
+	],
+	[
+		"Où se trouve la documentation de l'API ?",
+		"interrogative"
+	],
+	[
+		"Le système de recommandation analyse l'historique de navigation.",
+		"declarative"
+	],
+	[
+		"Quel stockage généreux !",
+		"exclamatory"
+	],
+	[
+		"Comment valider une adresse email ?",
+		"interrogative"
+	],
+	[
+		"L'application mobile nécessite la permission de localisation.",
+		"declarative"
+	],
+	[
+		"Quelle compatibilité ascendante !",
+		"exclamatory"
+	],
+	[
+		"Quel est le type de retour de cette méthode ?",
+		"interrogative"
+	],
+	[
+		"La page de connexion est-elle sécurisée ?",
+		"interrogative"
+	],
+	[
+		"Le gestionnaire de paquets résout les conflits de versions.",
+		"declarative"
+	],
+	[
+		"Que cette sauvegarde est précieuse !",
+		"exclamatory"
+	],
+	[
+		"Est-ce que le certificat a été renouvelé ?",
+		"interrogative"
+	],
+	[
+		"Le code mort augmente la complexité inutilement.",
+		"declarative"
+	],
+	[
+		"Quel excellent réflexe !",
+		"exclamatory"
+	],
+	[
+		"Comment annuler le dernier commit sans perdre les modifications ?",
+		"interrogative"
+	],
+	[
+		"Je vais rédiger un rapport de bug détaillé.",
+		"declarative"
+	],
+	[
+		"Comme ce projet est ambitieux !",
+		"exclamatory"
+	],
+	[
+		"Pourquoi le test de charge échoue-t-il ?",
+		"interrogative"
+	],
+	[
+		"Le service de stockage conserve les fichiers pendant trente jours.",
+		"declarative"
+	],
+	[
+		"Quelle belle surprise !",
+		"exclamatory"
+	],
+	[
+		"Quelle est la limite de taille pour un fichier ?",
+		"interrogative"
+	],
+	[
+		"Le serveur de sauvegarde est-il redondant ?",
+		"interrogative"
+	],
+	[
+		"La session de débogage a révélé une mauvaise conversion de type.",
+		"declarative"
+	],
+	[
+		"Quel échec frustrant !",
+		"exclamatory"
+	],
+	[
+		"Où se trouve le fichier de traduction ?",
+		"interrogative"
+	],
+	[
+		"Le site est déployé sur un réseau de diffusion de contenu.",
+		"declarative"
+	],
+	[
+		"Quelle relance réussie !",
+		"exclamatory"
+	],
+	[
+		"Comment configurer le mode sombre ?",
+		"interrogative"
+	],
+	[
+		"Le bouton de soumission reste désactivé tant que le formulaire est invalide.",
+		"declarative"
+	],
+	[
+		"Que ce processeur est puissant !",
+		"exclamatory"
+	],
+	[
+		"Quel est le statut du déploiement ?",
+		"interrogative"
+	],
+	[
+		"Le code est commenté en français.",
+		"declarative"
+	],
+	[
+		"Quel réseau rapide !",
+		"exclamatory"
+	],
+	[
+		"Peux-tu rédiger une requête SQL pour cette table ?",
+		"interrogative"
+	],
+	[
+		"Est-ce que le paquet de langue est installé ?",
+		"interrogative"
+	],
+	[
+		"La réponse de l'API contient des métadonnées de pagination.",
+		"declarative"
+	],
+	[
+		"Comme ce code est réutilisable !",
+		"exclamatory"
+	],
+	[
+		"Comment mettre à jour le fichier de configuration ?",
+		"interrogative"
+	],
+	[
+		"Le système de journalisation enregistre le niveau de gravité.",
+		"declarative"
+	],
+	[
+		"Quelle protection efficace !",
+		"exclamatory"
+	],
+	[
+		"Pourquoi le webhook ne reçoit-il aucun événement ?",
+		"interrogative"
+	],
+	[
+		"La requête de recherche utilise un index plein texte.",
+		"declarative"
+	],
+	[
+		"Quel accueil chaleureux !",
+		"exclamatory"
+	],
+	[
+		"Quelles sont les variables d'environnement nécessaires ?",
+		"interrogative"
+	],
+	[
+		"Le composant se met à jour lorsque la prop change.",
+		"declarative"
+	],
+	[
+		"Quelle transition sans accroc !",
+		"exclamatory"
+	],
+	[
+		"Le serveur bloque-t-il les adresses IP suspectes ?",
+		"interrogative"
+	],
+	[
+		"Où puis-je consulter les journaux d'audit ?",
+		"interrogative"
+	],
+	[
+		"Le protocole OAuth sécurise l'accès aux ressources protégées.",
+		"declarative"
+	],
+	[
+		"Que ce rapport est clair !",
+		"exclamatory"
+	],
+	[
+		"Comment définir un type dans TypeScript ?",
+		"interrogative"
+	],
+	[
+		"La tâche planifiée s'exécute toutes les heures.",
+		"declarative"
+	],
+	[
+		"Quel outil de diagnostic redoutable !",
+		"exclamatory"
+	],
+	[
+		"Quel est l'objectif de cette migration ?",
+		"interrogative"
+	],
+	[
+		"Le fichier de verrouillage garantit des installations reproductibles.",
+		"declarative"
+	],
+	[
+		"Comme cette commande est utile !",
+		"exclamatory"
+	],
+	[
+		"La session est-elle persistante après redémarrage ?",
+		"interrogative"
+	],
+	[
+		"L'application web progressive fonctionne hors ligne.",
+		"declarative"
+	],
+	[
+		"Quelle amélioration notable !",
+		"exclamatory"
+	],
+	[
+		"Peux-tu améliorer la lisibilité de ce code ?",
+		"interrogative"
+	],
+	[
+		"Combien de temps dure la validité du jeton ?",
+		"interrogative"
+	],
+	[
+		"Le serveur de messagerie utilise le chiffrement TLS.",
+		"declarative"
+	],
+	[
+		"Quel niveau de détail !",
+		"exclamatory"
+	],
+	[
+		"Est-ce que la base de données est répliquée ?",
+		"interrogative"
+	],
+	[
+		"La librairie de composants fournit des éléments accessibles.",
+		"declarative"
+	],
+	[
+		"Quelle simplicité géniale !",
+		"exclamatory"
+	],
+	[
+		"Comment configurer un serveur mandataire ?",
+		"interrogative"
+	],
+	[
+		"Le code de vérification expire après dix minutes.",
+		"declarative"
+	],
+	[
+		"Que ce système de cache est efficace !",
+		"exclamatory"
+	],
+	[
+		"Pourquoi la page renvoie-t-elle une erreur 404 ?",
+		"interrogative"
+	],
+	[
+		"Le tableau de bord permet de filtrer par date.",
+		"declarative"
+	],
+	[
+		"Quel taux de réussite !",
+		"exclamatory"
+	],
+	[
+		"Où se trouve le composant de navigation ?",
+		"interrogative"
+	],
+	[
+		"Quelle commande affiche les dépendances obsolètes ?",
+		"interrogative"
+	],
+	[
+		"La migration des données a pris moins d'une heure.",
+		"declarative"
+	],
+	[
+		"Comme ce module est bien conçu !",
+		"exclamatory"
+	],
+	[
+		"Le serveur de développement est-il en cours d'exécution ?",
+		"interrogative"
+	],
+	[
+		"Le widget météo affiche les prévisions sur cinq jours.",
+		"declarative"
+	],
+	[
+		"Quelle expérience fluide !",
+		"exclamatory"
+	],
+	[
+		"Est-ce que le fichier de verrouillage est à jour ?",
+		"interrogative"
+	],
+	[
+		"Le système de panier conserve les articles sélectionnés.",
+		"declarative"
+	],
+	[
+		"Quel soutien réactif !",
+		"exclamatory"
+	],
+	[
+		"Comment nettoyer le cache du navigateur ?",
+		"interrogative"
+	],
+	[
+		"La base de données NoSQL stocke des documents JSON.",
+		"declarative"
+	],
+	[
+		"Quelle correction minutieuse !",
+		"exclamatory"
+	],
+	[
+		"Quel est le niveau de journalisation recommandé ?",
+		"interrogative"
+	],
+	[
+		"La validation du numéro de téléphone est-elle stricte ?",
+		"interrogative"
+	],
+	[
+		"Le fournisseur de cloud facture à l'usage.",
+		"declarative"
+	],
+	[
+		"Que cette page est rapide !",
+		"exclamatory"
+	],
+	[
+		"Pourquoi l'outil de formatage modifie-t-il ce fichier ?",
+		"interrogative"
+	],
+	[
+		"Le code est passé en revue par deux développeurs.",
+		"declarative"
+	],
+	[
+		"Quel avertissement pertinent !",
+		"exclamatory"
+	],
+	[
+		"Peux-tu détailler les étapes de cette procédure ?",
+		"interrogative"
+	],
+	[
+		"La réponse du chatbot est fluide et naturelle.",
+		"declarative"
+	],
+	[
+		"Comme cette fenêtre est intuitive !",
+		"exclamatory"
+	],
+	[
+		"Où puis-je modifier le thème du site ?",
+		"interrogative"
+	],
+	[
+		"Le site respecte le règlement général sur la protection des données.",
+		"declarative"
+	],
+	[
+		"Quelle disponibilité exemplaire !",
+		"exclamatory"
+	],
+	[
+		"Comment limiter le débit des requêtes ?",
+		"interrogative"
+	],
+	[
+		"Quelle est la date d'expiration de la clé API ?",
+		"interrogative"
+	],
+	[
+		"Le jeton d'accès est stocké dans la mémoire sécurisée.",
+		"declarative"
+	],
+	[
+		"Quel écosystème riche !",
+		"exclamatory"
+	],
+	[
+		"Le système de commentaires filtre-t-il les spams ?",
+		"interrogative"
+	],
+	[
+		"La commande curl teste le endpoint sans navigateur.",
+		"declarative"
+	],
+	[
+		"Quelle réponse détaillée !",
+		"exclamatory"
+	],
+	[
+		"Est-ce que le fichier est accessible en lecture seule ?",
+		"interrogative"
+	],
+	[
+		"Le paquet de langue ajoute la prise en charge du français.",
+		"declarative"
+	],
+	[
+		"Que cette fonction est puissante !",
+		"exclamatory"
+	],
+	[
+		"Comment créer un composant réutilisable ?",
+		"interrogative"
+	],
+	[
+		"Le serveur de préproduction reproduit les conditions réelles.",
+		"declarative"
+	],
+	[
+		"Quel code compact !",
+		"exclamatory"
+	],
+	[
+		"Pourquoi le serveur renvoie-t-il un statut 429 ?",
+		"interrogative"
+	],
+	[
+		"Quel est le meilleur moyen de stocker les préférences ?",
+		"interrogative"
+	],
+	[
+		"La requête de mise à jour modifie uniquement les champs fournis.",
+		"declarative"
+	],
+	[
+		"Comme cette librairie est complète !",
+		"exclamatory"
+	],
+	[
+		"La commande de build génère-t-elle un rapport ?",
+		"interrogative"
+	],
+	[
+		"Le journal d'audit trace les actions des utilisateurs.",
+		"declarative"
+	],
+	[
+		"Quelle sécurité impeccable !",
+		"exclamatory"
+	],
+	[
+		"Où se trouve le script de migration ?",
+		"interrogative"
+	],
+	[
+		"Le framework impose une structure de dossiers précise.",
+		"declarative"
+	],
+	[
+		"Quel avantage concurrentiel !",
+		"exclamatory"
+	],
+	[
+		"Comment tester une API sans interface ?",
+		"interrogative"
+	],
+	[
+		"La corbeille permet de restaurer les fichiers supprimés.",
+		"declarative"
+	],
+	[
+		"Quelle gestion de projet efficace !",
+		"exclamatory"
+	],
+	[
+		"Quels sont les champs obligatoires du formulaire ?",
+		"interrogative"
+	],
+	[
+		"Le service de stockage conserve-t-il les fichiers trente jours ?",
+		"interrogative"
+	],
+	[
+		"Le mode sombre réduit la fatigue visuelle.",
+		"declarative"
+	],
+	[
+		"Que ce graphique est parlant !",
+		"exclamatory"
+	],
+	[
+		"Peux-tu analyser ce message d'erreur ?",
+		"interrogative"
+	],
+	[
+		"La synchronisation se fait en arrière-plan.",
+		"declarative"
+	],
+	[
+		"Quel assistant compétent !",
+		"exclamatory"
+	],
+	[
+		"Est-ce que le site respecte les normes d'accessibilité ?",
+		"interrogative"
+	],
+	[
+		"Le fournisseur de services de courrier envoie des messages transactionnels.",
+		"declarative"
+	],
+	[
+		"Comme ce bug est difficile à reproduire !",
+		"exclamatory"
+	],
+	[
+		"Comment sauvegarder une base de données ?",
+		"interrogative"
+	],
+	[
+		"La base de données est répliquée sur trois serveurs.",
+		"declarative"
+	],
+	[
+		"Quelle analyse pertinente !",
+		"exclamatory"
+	],
+	[
+		"Pourquoi le chatbot répond-il à côté ?",
+		"interrogative"
+	],
+	[
+		"Quelle est la différence entre un cookie et un jeton ?",
+		"interrogative"
+	],
+	[
+		"Le test de non-régression vérifie les anciennes fonctionnalités.",
+		"declarative"
+	],
+	[
+		"Quel formidable outil !",
+		"exclamatory"
+	],
+	[
+		"Le serveur de test exécute-t-il les tests automatiquement ?",
+		"interrogative"
+	],
+	[
+		"La documentation décrit les étapes d'installation.",
+		"declarative"
+	],
+	[
+		"Quelle interface épurée !",
+		"exclamatory"
+	],
+	[
+		"Où se trouve le fichier de styles de l'application ?",
+		"interrogative"
+	],
+	[
+		"Le client de messagerie classe les courriels par priorité.",
+		"declarative"
+	],
+	[
+		"Que cette requête est rapide !",
+		"exclamatory"
+	],
+	[
+		"Comment obtenir la trace complète d'une exception ?",
+		"interrogative"
+	],
+	[
+		"La clé étrangère maintient la cohérence entre les tables.",
+		"declarative"
+	],
+	[
+		"Quel bond de performance !",
+		"exclamatory"
+	],
+	[
+		"Quel est le quota de requêtes autorisé ?",
+		"interrogative"
+	],
+	[
+		"La page de profil affiche-t-elle les informations à jour ?",
+		"interrogative"
+	],
+	[
+		"Le script de sauvegarde compresse les fichiers avant le transfert.",
+		"declarative"
+	],
+	[
+		"Comme ce code est lisible !",
+		"exclamatory"
+	],
+	[
+		"Peux-tu écrire un commentaire pour cette fonction ?",
+		"interrogative"
+	],
+	[
+		"Le délai de réponse du serveur est stable.",
+		"declarative"
+	],
+	[
+		"Quelle personnalisation poussée !",
+		"exclamatory"
+	],
+	[
+		"Combien de lignes de code contient ce fichier ?",
+		"interrogative"
+	],
+	[
+		"La fonction de hachage protège les mots de passe.",
+		"declarative"
+	],
+	[
+		"Quel niveau de qualité !",
+		"exclamatory"
+	],
+	[
+		"Est-ce que la bibliothèque de validation est légère ?",
+		"interrogative"
+	],
+	[
+		"Le calendrier partagé envoie des rappels automatiques.",
+		"declarative"
+	],
+	[
+		"Quelle synchronisation rapide !",
+		"exclamatory"
+	],
+	[
+		"Comment mettre en cache les réponses de l'API ?",
+		"interrogative"
+	],
+	[
+		"Pourquoi la commande git rebase est-elle bloquée ?",
+		"interrogative"
+	],
+	[
+		"Le code source est formaté avant chaque fusion.",
+		"declarative"
+	],
+	[
+		"Que cette réponse est bien formulée !",
+		"exclamatory"
+	],
+	[
+		"Où se trouve le fichier de configuration du déploiement ?",
+		"interrogative"
+	],
+	[
+		"Le moteur de recherche classe les résultats par pertinence.",
+		"declarative"
+	],
+	[
+		"Quel énorme gain de temps !",
+		"exclamatory"
+	],
+	[
+		"Quelle est la structure attendue du JSON ?",
+		"interrogative"
+	],
+	[
+		"Le stockage local conserve les préférences de l'utilisateur.",
+		"declarative"
+	],
+	[
+		"Comme cette documentation est accessible !",
+		"exclamatory"
+	],
+	[
+		"Le serveur de fichiers accepte-t-il les envois volumineux ?",
+		"interrogative"
+	],
+	[
+		"Le réseau de distribution accélère le chargement des images.",
+		"declarative"
+	],
+	[
+		"Quelle robustesse exceptionnelle !",
+		"exclamatory"
+	],
+	[
+		"Comment personnaliser le message d'erreur ?",
+		"interrogative"
+	],
+	[
+		"Quel est le temps de réponse moyen ?",
+		"interrogative"
+	],
+	[
+		"La commande de build génère un dossier de production.",
+		"declarative"
+	],
+	[
+		"Quel exemple éclairant !",
+		"exclamatory"
+	],
+	[
+		"La notification par email est-elle activée ?",
+		"interrogative"
+	],
+	[
+		"Le correctif de sécurité est urgent.",
+		"declarative"
+	],
+	[
+		"Quelle polyvalence incroyable !",
+		"exclamatory"
+	],
+	[
+		"Peux-tu convertir ce code en JavaScript moderne ?",
+		"interrogative"
+	],
+	[
+		"La barre de progression indique l'état du téléchargement.",
+		"declarative"
+	],
+	[
+		"Que ce déploiement est rapide !",
+		"exclamatory"
+	],
+	[
+		"Est-ce que le module de paiement est sécurisé ?",
+		"interrogative"
+	],
+	[
+		"Le système de commentaires modère les messages automatiquement.",
+		"declarative"
+	],
+	[
+		"Quel affichage net !",
+		"exclamatory"
+	],
+	[
+		"Comment utiliser une variable d'environnement ?",
+		"interrogative"
+	],
+	[
+		"Pourquoi le tableau de bord n'affiche-t-il aucune donnée ?",
+		"interrogative"
+	],
+	[
+		"La page de profil affiche les informations du compte.",
+		"declarative"
+	],
+	[
+		"Comme cette configuration est simple !",
+		"exclamatory"
+	],
+	[
+		"Où se trouve le fichier de routes ?",
+		"interrogative"
+	],
+	[
+		"Le journal système enregistre les redémarrages.",
+		"declarative"
+	],
+	[
+		"Quelle recherche rapide !",
+		"exclamatory"
+	],
+	[
+		"Quelle commande vérifie la syntaxe du code ?",
+		"interrogative"
+	],
+	[
+		"La base vectorielle indexe les documents par similarité.",
+		"declarative"
+	],
+	[
+		"Quel service impeccable !",
+		"exclamatory"
+	],
+	[
+		"Le jeton d'accès est-il expiré ?",
+		"interrogative"
+	],
+	[
+		"Le format de date dépend de la langue de l'utilisateur.",
+		"declarative"
+	],
+	[
+		"Quelle fonctionnalité révolutionnaire !",
+		"exclamatory"
+	],
+	[
+		"Comment configurer le pare-feu pour ce service ?",
+		"interrogative"
+	],
+	[
+		"Quelles sont les options de tri disponibles ?",
+		"interrogative"
+	],
+	[
+		"Le routeur protégé redirige les visiteurs non connectés.",
+		"declarative"
+	],
+	[
+		"Que ce test est complet !",
+		"exclamatory"
+	],
+	[
+		"Le serveur de secours prend-il le relais automatiquement ?",
+		"interrogative"
+	],
+	[
+		"La bibliothèque de tests simule les interactions utilisateur.",
+		"declarative"
+	],
+	[
+		"Quel encodage parfait !",
+		"exclamatory"
+	],
+	[
+		"Peux-tu vérifier la cohérence des données ?",
+		"interrogative"
+	],
+	[
+		"Le serveur de fichiers limite la taille des envois.",
+		"declarative"
+	],
+	[
+		"Comme ce serveur est réactif !",
+		"exclamatory"
+	],
+	[
+		"Est-ce que le code source est versionné ?",
+		"interrogative"
+	],
+	[
+		"La validation du numéro de téléphone utilise une expression régulière.",
+		"declarative"
+	],
+	[
+		"Quelle interface claire !",
+		"exclamatory"
+	],
+	[
+		"Comment installer une version précise du paquet ?",
+		"interrogative"
+	],
+	[
+		"Pourquoi le graphique ne se met-il pas à jour ?",
+		"interrogative"
+	],
+	[
+		"Le tableau de bord affiche une alerte en cas de panne.",
+		"declarative"
+	],
+	[
+		"Quel diagnostic rapide !",
+		"exclamatory"
+	],
+	[
+		"Où se trouve la documentation interactive ?",
+		"interrogative"
+	],
+	[
+		"La restauration de la base de données a réussi.",
+		"declarative"
+	],
+	[
+		"Quelle gestion des erreurs exemplaire !",
+		"exclamatory"
+	],
+	[
+		"Quelle est la prochaine étape du projet ?",
+		"interrogative"
+	],
+	[
+		"Le code de l'application est compilé en JavaScript.",
+		"declarative"
+	],
+	[
+		"Que ce code est maintenable !",
+		"exclamatory"
+	],
+	[
+		"Le processus de paiement redirige vers une page sécurisée.",
+		"declarative"
+	],
+	[
+		"Quel confort d'utilisation !",
+		"exclamatory"
+	],
+	[
+		"Le chatbot fournit des réponses sourcées.",
+		"declarative"
+	],
+	[
+		"Comme cette correction est élégante !",
+		"exclamatory"
+	],
+	[
+		"La commande git status affiche les fichiers modifiés.",
+		"declarative"
+	],
+	[
+		"Quelle volumétrie impressionnante !",
+		"exclamatory"
+	],
+	[
+		"Le système de connexion accepte l'authentification multifacteur.",
+		"declarative"
+	],
+	[
+		"Quel niveau de sécurité !",
+		"exclamatory"
+	],
+	[
+		"La page de statistiques agrège les données par mois.",
+		"declarative"
+	],
+	[
+		"Quelle fluidité remarquable !",
+		"exclamatory"
+	],
+	[
+		"Le serveur d'intégration continue exécute les tests à chaque commit.",
+		"declarative"
+	],
+	[
+		"Que ce module est bien documenté !",
+		"exclamatory"
+	],
+	[
+		"Le contrat d'interface définit la forme des réponses.",
+		"declarative"
+	],
+	[
+		"Quel anti-pattern flagrant !",
+		"exclamatory"
+	],
+	[
+		"La file de messages dissocie les producteurs des consommateurs.",
+		"declarative"
+	],
+	[
+		"Comme ce déploiement est fluide !",
+		"exclamatory"
+	],
+	[
+		"Le certificat numérique expire dans trois mois.",
+		"declarative"
+	],
+	[
+		"Quelle intégration réussie !",
+		"exclamatory"
+	],
+	[
+		"Le code de démarrage initialise la connexion à la base.",
+		"declarative"
+	],
+	[
+		"Quel éclairage précieux !",
+		"exclamatory"
+	],
+	[
+		"La fenêtre modale s'ouvre après le clic.",
+		"declarative"
+	],
+	[
+		"Quelle sobriété efficace !",
+		"exclamatory"
+	],
+	[
+		"Le plan du projet liste les livrables attendus.",
+		"declarative"
+	],
+	[
+		"Que ce formulaire est accessible !",
+		"exclamatory"
+	],
+	[
+		"Le serveur de cache conserve les réponses pendant une heure.",
+		"declarative"
+	],
+	[
+		"Quel temps de démarrage record !",
+		"exclamatory"
+	],
+	[
+		"La documentation interactive propose des essais en direct.",
+		"declarative"
+	],
+	[
+		"Comme cette librairie est fiable !",
+		"exclamatory"
+	],
+	[
+		"Le système de notification regroupe les alertes par canal.",
+		"declarative"
+	],
+	[
+		"Quelle organisation exemplaire !",
+		"exclamatory"
+	],
+	[
+		"La commande de débogage affiche l'état de la mémoire.",
+		"declarative"
+	],
+	[
+		"Quel confort de lecture !",
+		"exclamatory"
+	],
+	[
+		"Le fichier de police améliore le rendu typographique.",
+		"declarative"
+	],
+	[
+		"Quelle redondance rassurante !",
+		"exclamatory"
+	],
+	[
+		"Le widget de chat accepte les messages en plusieurs langues.",
+		"declarative"
+	],
+	[
+		"Que ce code est expressif !",
+		"exclamatory"
+	],
+	[
+		"Le code de réponse 204 indique une réussite sans contenu.",
+		"declarative"
+	],
+	[
+		"Quel saut qualitatif !",
+		"exclamatory"
+	],
+	[
+		"La base de données restore les transactions interrompues.",
+		"declarative"
+	],
+	[
+		"Comme cette API est cohérente !",
+		"exclamatory"
+	],
+	[
+		"Le serveur mandataire filtre le trafic entrant.",
+		"declarative"
+	],
+	[
+		"Quelle contribution précieuse !",
+		"exclamatory"
+	],
+	[
+		"La bibliothèque de validation renvoie des messages clairs.",
+		"declarative"
+	],
+	[
+		"Quel équilibre parfait !",
+		"exclamatory"
+	],
+	[
+		"Le paquet de dépendances est signé numériquement.",
+		"declarative"
+	],
+	[
+		"Quelle belle démonstration !",
+		"exclamatory"
+	],
+	[
+		"Le système de réservation envoie une confirmation par SMS.",
+		"declarative"
+	],
+	[
+		"Que ce composant est flexible !",
+		"exclamatory"
+	],
+	[
+		"Le graphique en courbes montre l'évolution du chiffre d'affaires.",
+		"declarative"
+	],
+	[
+		"Quel signal fort !",
+		"exclamatory"
+	],
+	[
+		"La commande de publication déclenche le déploiement.",
+		"declarative"
+	],
+	[
+		"Comme ce site est rapide !",
+		"exclamatory"
+	],
+	[
+		"Le serveur de développement recharge les modules à chaud.",
+		"declarative"
+	],
+	[
+		"Quelle belle refonte !",
+		"exclamatory"
+	],
+	[
+		"Le fichier de configuration est versionné.",
+		"declarative"
+	],
+	[
+		"Quel traitement efficace !",
+		"exclamatory"
+	],
+	[
+		"La fenêtre de discussion conserve l'historique.",
+		"declarative"
+	],
+	[
+		"Quelle productivité débordante !",
+		"exclamatory"
+	],
+	[
+		"Le programme affiche un message de bienvenue au démarrage.",
+		"declarative"
+	],
+	[
+		"Que ce serveur est fiable !",
+		"exclamatory"
+	],
+	[
+		"Le module de paiement accepte les cartes bancaires.",
+		"declarative"
+	],
+	[
+		"Quel niveau d'expertise !",
+		"exclamatory"
+	],
+	[
+		"La table de hachage accélère les recherches.",
+		"declarative"
+	],
+	[
+		"Comme ce guide est pratique !",
+		"exclamatory"
+	],
+	[
+		"Le système de sauvegarde conserve sept versions quotidiennes.",
+		"declarative"
+	],
+	[
+		"Quelle compatibilité impressionnante !",
+		"exclamatory"
+	],
+	[
+		"La page de récupération de mot de passe envoie un lien par email.",
+		"declarative"
+	],
+	[
+		"Quel retour instantané !",
+		"exclamatory"
+	],
+	[
+		"Le code de conduite s'applique à tous les contributeurs.",
+		"declarative"
+	],
+	[
+		"Quelle propreté exemplaire !",
+		"exclamatory"
+	],
+	[
+		"La librairie de gestion d'état centralise les données.",
+		"declarative"
+	],
+	[
+		"Que ce chatbot est doué !",
+		"exclamatory"
+	],
+	[
+		"Le serveur est opérationnel depuis trois jours.",
+		"declarative"
+	]
+]

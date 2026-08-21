@@ -1,0 +1,2394 @@
+[
+	[
+		"El script de Python se ejecutó sin errores.",
+		"declarative"
+	],
+	[
+		"¡Qué algoritmo tan eficiente!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo declaro una variable constante en JavaScript?",
+		"interrogative"
+	],
+	[
+		"La variable local no está definida en este ámbito.",
+		"declarative"
+	],
+	[
+		"¡Por fin funciona la conexión a la base de datos!",
+		"exclamatory"
+	],
+	[
+		"¿Cuál es la diferencia entre let y var?",
+		"interrogative"
+	],
+	[
+		"Actualicé la biblioteca de Node a la última versión.",
+		"declarative"
+	],
+	[
+		"¡Qué solución tan brillante para este bug!",
+		"exclamatory"
+	],
+	[
+		"¿Puedes explicar el concepto de asincronía en Python?",
+		"interrogative"
+	],
+	[
+		"El algoritmo ordena los elementos en orden descendente.",
+		"declarative"
+	],
+	[
+		"¡La aplicación carga rapidísimo!",
+		"exclamatory"
+	],
+	[
+		"¿Qué método se usa para añadir un elemento al final de un arreglo?",
+		"interrogative"
+	],
+	[
+		"La función retorna un objeto con tres propiedades.",
+		"declarative"
+	],
+	[
+		"¡Qué maravilloso es este framework!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo itero sobre las propiedades de un objeto en JavaScript?",
+		"interrogative"
+	],
+	[
+		"Comenté las líneas de código que causaban el conflicto.",
+		"declarative"
+	],
+	[
+		"¡El rendimiento del servidor mejoró muchísimo!",
+		"exclamatory"
+	],
+	[
+		"¿En qué se diferencian SQL y NoSQL?",
+		"interrogative"
+	],
+	[
+		"El compilador mostró una advertencia sobre el tipo de dato.",
+		"declarative"
+	],
+	[
+		"¡Qué elegante quedó la refactorización!",
+		"exclamatory"
+	],
+	[
+		"¿Qué significa el error de tipado en TypeScript?",
+		"interrogative"
+	],
+	[
+		"Necesito refactorizar este componente de React.",
+		"declarative"
+	],
+	[
+		"¡La API responde de forma inmediata!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo instalo una librería de terceros usando npm?",
+		"interrogative"
+	],
+	[
+		"El repositorio tiene varias ramas inactivas.",
+		"declarative"
+	],
+	[
+		"¡Qué buen diseño de arquitectura!",
+		"exclamatory"
+	],
+	[
+		"¿Cuál es la estructura correcta de un documento HTML?",
+		"interrogative"
+	],
+	[
+		"La integración continua falló en el último commit.",
+		"declarative"
+	],
+	[
+		"¡El script automatizó todo el proceso!",
+		"exclamatory"
+	],
+	[
+		"¿Puedes mostrar un ejemplo de una función flecha?",
+		"interrogative"
+	],
+	[
+		"El endpoint de la API acepta parámetros en formato JSON.",
+		"declarative"
+	],
+	[
+		"¡Qué sintaxis más limpia tiene este lenguaje!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo hago una petición GET con fetch?",
+		"interrogative"
+	],
+	[
+		"Agregué una nueva dependencia al archivo de configuración.",
+		"declarative"
+	],
+	[
+		"¡El despliegue en producción fue un éxito!",
+		"exclamatory"
+	],
+	[
+		"¿Qué algoritmo de ordenación es más eficiente?",
+		"interrogative"
+	],
+	[
+		"El bucle recorre la lista hasta encontrar una coincidencia.",
+		"declarative"
+	],
+	[
+		"¡Qué documentación tan completa!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo manejo las excepciones en un bloque try-catch?",
+		"interrogative"
+	],
+	[
+		"La conexión a la base de datos se cerró correctamente.",
+		"declarative"
+	],
+	[
+		"¡El componente de React quedó perfecto!",
+		"exclamatory"
+	],
+	[
+		"¿Qué hace el método map en un arreglo?",
+		"interrogative"
+	],
+	[
+		"El servidor local corre en el puerto tres mil.",
+		"declarative"
+	],
+	[
+		"¡Qué increíble velocidad de procesamiento!",
+		"exclamatory"
+	],
+	[
+		"¿Cuál es la diferencia entre == y === en JavaScript?",
+		"interrogative"
+	],
+	[
+		"El archivo de registro contiene todos los eventos del sistema.",
+		"declarative"
+	],
+	[
+		"¡La lógica de negocio funciona de maravilla!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo centralizo el estado en una aplicación de React?",
+		"interrogative"
+	],
+	[
+		"La clase hereda los métodos de su clase padre.",
+		"declarative"
+	],
+	[
+		"¡Qué maravilla de función de callback!",
+		"exclamatory"
+	],
+	[
+		"¿Qué comando utilizo para clonar un repositorio de Git?",
+		"interrogative"
+	],
+	[
+		"Asigné el valor nulo a la variable de entorno.",
+		"declarative"
+	],
+	[
+		"¡El estilo CSS le da un toque profesional!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo configuro las variables de entorno en un proyecto de Node?",
+		"interrogative"
+	],
+	[
+		"El formato de fecha no coincide con el esperado.",
+		"declarative"
+	],
+	[
+		"¡Qué buen manejo de excepciones!",
+		"exclamatory"
+	],
+	[
+		"¿Qué patrón de diseño es mejor para este problema?",
+		"interrogative"
+	],
+	[
+		"El comando de terminal borró los archivos temporales.",
+		"declarative"
+	],
+	[
+		"¡Qué texto tan bien redactado!",
+		"exclamatory"
+	],
+	[
+		"¿Puedes redactar un correo formal para mi jefe?",
+		"interrogative"
+	],
+	[
+		"El ensayo tiene una introducción clara y concisa.",
+		"declarative"
+	],
+	[
+		"¡La introducción es cautivadora!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo mejoro la coherencia entre estos dos párrafos?",
+		"interrogative"
+	],
+	[
+		"El párrafo final resume los puntos principales.",
+		"declarative"
+	],
+	[
+		"¡Qué metáfora tan hermosa!",
+		"exclamatory"
+	],
+	[
+		"¿Qué sinónimos puedo usar para la palabra importante?",
+		"interrogative"
+	],
+	[
+		"La gramática del texto necesita algunas correcciones.",
+		"declarative"
+	],
+	[
+		"¡El ensayo tiene una estructura impecable!",
+		"exclamatory"
+	],
+	[
+		"¿Cuál es la mejor forma de concluir un ensayo académico?",
+		"interrogative"
+	],
+	[
+		"El tono del artículo es muy formal.",
+		"declarative"
+	],
+	[
+		"¡Qué prosa tan elegante y fluida!",
+		"exclamatory"
+	],
+	[
+		"¿Puedes revisar la ortografía de este texto?",
+		"interrogative"
+	],
+	[
+		"Reemplacé varias palabras por sinónimos adecuados.",
+		"declarative"
+	],
+	[
+		"¡La conclusión cierra con muchísima fuerza!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo se estructura un artículo de opinión?",
+		"interrogative"
+	],
+	[
+		"El informe tiene un total de quince páginas.",
+		"declarative"
+	],
+	[
+		"¡Qué historia tan conmovedora!",
+		"exclamatory"
+	],
+	[
+		"¿Qué tono debo usar para dirigirme a un cliente?",
+		"interrogative"
+	],
+	[
+		"La conclusión presenta una reflexión interesante.",
+		"declarative"
+	],
+	[
+		"¡El artículo de opinión es muy persuasivo!",
+		"exclamatory"
+	],
+	[
+		"¿Cuántos caracteres debe tener un titular de prensa?",
+		"interrogative"
+	],
+	[
+		"La estructura del poema sigue una rima consonante.",
+		"declarative"
+	],
+	[
+		"¡Qué vocabulario tan rico y variado!",
+		"exclamatory"
+	],
+	[
+		"¿Puedes traducir este fragmento al inglés británico?",
+		"interrogative"
+	],
+	[
+		"El título del capítulo captura la atención del lector.",
+		"declarative"
+	],
+	[
+		"¡La traducción captura perfectamente el sentido!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo evito repetir tantas veces la palabra proyecto?",
+		"interrogative"
+	],
+	[
+		"La traducción del documento mantiene el significado original.",
+		"declarative"
+	],
+	[
+		"¡El poema tiene una rima preciosa!",
+		"exclamatory"
+	],
+	[
+		"¿Qué reglas de puntuación debo aplicar en una enumeración?",
+		"interrogative"
+	],
+	[
+		"El correo electrónico tiene un asunto descriptivo.",
+		"declarative"
+	],
+	[
+		"¡Qué título tan llamativo para el libro!",
+		"exclamatory"
+	],
+	[
+		"¿Cuál es la estructura del soneto clásico?",
+		"interrogative"
+	],
+	[
+		"La carta de presentación destaca mis habilidades relevantes.",
+		"declarative"
+	],
+	[
+		"¡El guion cinematográfico es fascinante!",
+		"exclamatory"
+	],
+	[
+		"¿Puedes resumir este artículo en cien palabras?",
+		"interrogative"
+	],
+	[
+		"El cuento corto tiene un final inesperado.",
+		"declarative"
+	],
+	[
+		"¡Qué excelente uso de los signos de puntuación!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo se citan las fuentes en formato APA?",
+		"interrogative"
+	],
+	[
+		"La biografía del autor aparece al final del libro.",
+		"declarative"
+	],
+	[
+		"¡El informe es extremadamente claro!",
+		"exclamatory"
+	],
+	[
+		"¿Qué tipo de lenguaje es apropiado para un ensayo argumentativo?",
+		"interrogative"
+	],
+	[
+		"El guion cinematográfico sigue el formato estándar.",
+		"declarative"
+	],
+	[
+		"¡Qué carta de presentación tan convincente!",
+		"exclamatory"
+	],
+	[
+		"¿Cuándo debo usar punto y coma en una oración?",
+		"interrogative"
+	],
+	[
+		"El artículo de opinión genera debate entre los lectores.",
+		"declarative"
+	],
+	[
+		"¡La sinopsis dejó con muchas ganas de leer!",
+		"exclamatory"
+	],
+	[
+		"¿Puedes generar una idea para el inicio de mi cuento?",
+		"interrogative"
+	],
+	[
+		"La sinopsis de la película revela la trama principal.",
+		"declarative"
+	],
+	[
+		"¡Qué buen tono mantiene el narrador!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo redacto una carta de presentación para un empleo?",
+		"interrogative"
+	],
+	[
+		"La tesis de grado necesita una revisión bibliográfica.",
+		"declarative"
+	],
+	[
+		"¡El resumen ejecutivo es muy conciso!",
+		"exclamatory"
+	],
+	[
+		"¿Qué tipo de metáforas funcionan en poesía moderna?",
+		"interrogative"
+	],
+	[
+		"El resumen ejecutivo presenta las métricas financieras.",
+		"declarative"
+	],
+	[
+		"¡Qué capacidad para crear imágenes mentales!",
+		"exclamatory"
+	],
+	[
+		"¿Cuál es el objetivo principal de un texto persuasivo?",
+		"interrogative"
+	],
+	[
+		"La redacción del informe es muy precisa.",
+		"declarative"
+	],
+	[
+		"¡Por fin encontré el maldito bug!",
+		"exclamatory"
+	],
+	[
+		"¿Por qué el servidor devuelve un error quinientos?",
+		"interrogative"
+	],
+	[
+		"El error de segmentación ocurre en la línea cuarenta.",
+		"declarative"
+	],
+	[
+		"¡Qué error de sintaxis tan absurdo!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo soluciono el error de variable no definida?",
+		"interrogative"
+	],
+	[
+		"La excepción de puntero nulo rompe la aplicación.",
+		"declarative"
+	],
+	[
+		"¡El bucle infinito colgó el navegador por completo!",
+		"exclamatory"
+	],
+	[
+		"¿Qué significa el mensaje de excepción de puntero nulo?",
+		"interrogative"
+	],
+	[
+		"El desbordamiento de búfer corrompe la memoria.",
+		"declarative"
+	],
+	[
+		"¡Qué excepción tan extraña lanza el compilador!",
+		"exclamatory"
+	],
+	[
+		"¿Por qué la función me devuelve un resultado indefinido?",
+		"interrogative"
+	],
+	[
+		"La condición lógica evalúa falso cuando debería ser verdadera.",
+		"declarative"
+	],
+	[
+		"¡El desbordamiento de búfer rompió la memoria!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo depuro este código línea por línea?",
+		"interrogative"
+	],
+	[
+		"El formato del archivo no es válido para el parser.",
+		"declarative"
+	],
+	[
+		"¡Qué inyección de SQL tan peligrosa!",
+		"exclamatory"
+	],
+	[
+		"¿Por qué el ciclo infinito bloquea el navegador?",
+		"interrogative"
+	],
+	[
+		"El conflicto de fusión bloquea el despliegue.",
+		"declarative"
+	],
+	[
+		"¡El conflicto de fusión es un dolor de cabeza!",
+		"exclamatory"
+	],
+	[
+		"¿Qué causa el desbordamiento de la pila en este programa?",
+		"interrogative"
+	],
+	[
+		"El cierre inesperado del proceso provocó pérdida de datos.",
+		"declarative"
+	],
+	[
+		"¡Qué fuga de memoria tan grave sufrimos!",
+		"exclamatory"
+	],
+	[
+		"¿Por qué no se actualiza el estado de mi componente?",
+		"interrogative"
+	],
+	[
+		"La consulta SQL tarda demasiado en ejecutarse.",
+		"declarative"
+	],
+	[
+		"¡El certificado SSL venció anoche!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo resuelvo un conflicto de fusión en Git?",
+		"interrogative"
+	],
+	[
+		"El certificado SSL expiró la semana pasada.",
+		"declarative"
+	],
+	[
+		"¡Qué problema tan frustrante con la caché!",
+		"exclamatory"
+	],
+	[
+		"¿Por qué el tipo de dato no coincide con el esquema?",
+		"interrogative"
+	],
+	[
+		"La caché del navegador muestra la versión antigua del sitio.",
+		"declarative"
+	],
+	[
+		"¡El servidor se cayó de forma inesperada!",
+		"exclamatory"
+	],
+	[
+		"¿Qué debo hacer si la base de datos rechaza la conexión?",
+		"interrogative"
+	],
+	[
+		"La inyección de SQL expuso la base de datos.",
+		"declarative"
+	],
+	[
+		"¡Qué advertencia tan molesta muestra el sistema!",
+		"exclamatory"
+	],
+	[
+		"¿Por qué el estilo CSS no se aplica al botón?",
+		"interrogative"
+	],
+	[
+		"El bucle infinito congela la interfaz de usuario.",
+		"declarative"
+	],
+	[
+		"¡El índice del arreglo estaba fuera de rango!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo encuentro la fuga de memoria en esta aplicación?",
+		"interrogative"
+	],
+	[
+		"La variable no se inicializó antes de usarse.",
+		"declarative"
+	],
+	[
+		"¡Qué error tan tonto tenía en la variable!",
+		"exclamatory"
+	],
+	[
+		"¿Por qué el módulo no se importa correctamente?",
+		"interrogative"
+	],
+	[
+		"El índice está fuera de los límites del arreglo.",
+		"declarative"
+	],
+	[
+		"¡La consulta SQL tardó una eternidad!",
+		"exclamatory"
+	],
+	[
+		"¿Por qué se produce este error de sintaxis inesperado?",
+		"interrogative"
+	],
+	[
+		"La fuga de memoria agota los recursos del servidor.",
+		"declarative"
+	],
+	[
+		"¡Qué lío con los permisos de escritura!",
+		"exclamatory"
+	],
+	[
+		"¿Por qué la caché muestra la versión antigua del archivo?",
+		"interrogative"
+	],
+	[
+		"El error de permisos impide la escritura en el disco.",
+		"declarative"
+	],
+	[
+		"¡El tipo de dato no encaja para nada!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo leo el registro de errores del sistema operativo?",
+		"interrogative"
+	],
+	[
+		"La respuesta del servidor llega vacía.",
+		"declarative"
+	],
+	[
+		"¡Qué caos genera este error de tipado!",
+		"exclamatory"
+	],
+	[
+		"¿Por qué la petición tarda tanto en recibir respuesta?",
+		"interrogative"
+	],
+	[
+		"El tipo de dato no coincide con el esquema.",
+		"declarative"
+	],
+	[
+		"¡La función callback se ejecutó en el orden equivocado!",
+		"exclamatory"
+	],
+	[
+		"¿Qué permisos faltan para ejecutar el script de bash?",
+		"interrogative"
+	],
+	[
+		"La función de callback no se ejecuta en el orden correcto.",
+		"declarative"
+	],
+	[
+		"¡Qué problema tan raro con la configuración del entorno!",
+		"exclamatory"
+	],
+	[
+		"¿Por qué el bucle se rompe antes de tiempo?",
+		"interrogative"
+	],
+	[
+		"El archivo de configuración tiene un error de sintaxis.",
+		"declarative"
+	],
+	[
+		"¡Aprendí muchísimo con esta clase!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo se calcula la derivada de una función compuesta?",
+		"interrogative"
+	],
+	[
+		"Aprendí a resolver ecuaciones de segundo grado.",
+		"declarative"
+	],
+	[
+		"¡Qué explicación tan clara sobre el sistema solar!",
+		"exclamatory"
+	],
+	[
+		"¿Qué eventos marcaron el inicio de la Primera Guerra Mundial?",
+		"interrogative"
+	],
+	[
+		"La historia universal abarca desde la prehistoria hasta hoy.",
+		"declarative"
+	],
+	[
+		"¡La teoría de la relatividad es fascinante!",
+		"exclamatory"
+	],
+	[
+		"¿Cuáles son las partes de una célula eucariota?",
+		"interrogative"
+	],
+	[
+		"El sistema solar tiene ocho planetas.",
+		"declarative"
+	],
+	[
+		"¡Qué interesante es el ciclo del agua!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo funciona el proceso de fotosíntesis en las plantas?",
+		"interrogative"
+	],
+	[
+		"La fotosíntesis convierte la luz solar en energía.",
+		"declarative"
+	],
+	[
+		"¡La historia universal apasiona sobremanera!",
+		"exclamatory"
+	],
+	[
+		"¿Qué diferencia hay entre masa y peso?",
+		"interrogative"
+	],
+	[
+		"El código binario usa ceros y unos.",
+		"declarative"
+	],
+	[
+		"¡Qué asombroso es el funcionamiento del corazón!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo se clasifican los números reales en matemáticas?",
+		"interrogative"
+	],
+	[
+		"El sistema circulatorio transporta oxígeno por el cuerpo.",
+		"declarative"
+	],
+	[
+		"¡La tabla periódica es un caos absoluto!",
+		"exclamatory"
+	],
+	[
+		"¿Qué causó la caída del Imperio Romano de Occidente?",
+		"interrogative"
+	],
+	[
+		"La teoría de la relatividad cambió la física.",
+		"declarative"
+	],
+	[
+		"¡Qué difícil es entender la física cuántica!",
+		"exclamatory"
+	],
+	[
+		"¿Cuáles son las propiedades de los metales alcalinos?",
+		"interrogative"
+	],
+	[
+		"El adjetivo modifica al sustantivo en la oración.",
+		"declarative"
+	],
+	[
+		"¡La revolución francesa cambió el mundo por completo!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo se forma un huracán en el océano?",
+		"interrogative"
+	],
+	[
+		"La célula es la unidad básica de la vida.",
+		"declarative"
+	],
+	[
+		"¡Qué increíble es el lenguaje de programación binario!",
+		"exclamatory"
+	],
+	[
+		"¿Qué es la teoría de la evolución de Darwin?",
+		"interrogative"
+	],
+	[
+		"El mapa conceptual organiza la información visualmente.",
+		"declarative"
+	],
+	[
+		"¡La fotosíntesis es un proceso milagroso!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo se conjugan los verbos irregulares en pasado?",
+		"interrogative"
+	],
+	[
+		"La revolución francesa ocurrió en el siglo dieciocho.",
+		"declarative"
+	],
+	[
+		"¡Qué complicados son los adjetivos en español!",
+		"exclamatory"
+	],
+	[
+		"¿Qué teorema relaciona los lados de un triángulo rectángulo?",
+		"interrogative"
+	],
+	[
+		"La tabla periódica clasifica los elementos químicos.",
+		"declarative"
+	],
+	[
+		"¡La biología celular guarda secretos asombrosos!",
+		"exclamatory"
+	],
+	[
+		"¿Cuáles son las causas de la Revolución Industrial?",
+		"interrogative"
+	],
+	[
+		"El desarrollo cognitivo tiene varias etapas.",
+		"declarative"
+	],
+	[
+		"¡Qué desafiante resultó el examen de geometría!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo se divide la historia de la humanidad?",
+		"interrogative"
+	],
+	[
+		"La geometría estudia las propiedades de las figuras.",
+		"declarative"
+	],
+	[
+		"¡La segunda guerra mundial fue terriblemente destructiva!",
+		"exclamatory"
+	],
+	[
+		"¿Qué es una elipse en geometría analítica?",
+		"interrogative"
+	],
+	[
+		"El idioma inglés tiene raíces germánicas.",
+		"declarative"
+	],
+	[
+		"¡Qué fabuloso es el sistema inmunológico humano!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo se produce la energía nuclear?",
+		"interrogative"
+	],
+	[
+		"La segunda guerra mundial terminó en mil novecientos cuarenta y cinco.",
+		"declarative"
+	],
+	[
+		"¡La gramática latina tiene muchísimas reglas!",
+		"exclamatory"
+	],
+	[
+		"¿Qué es un agujero negro en astronomía?",
+		"interrogative"
+	],
+	[
+		"El ciclo del agua garantiza la vida en la Tierra.",
+		"declarative"
+	],
+	[
+		"¡Qué intrincado es el mapa conceptual!",
+		"exclamatory"
+	],
+	[
+		"¿Cuáles son los ríos más largos de Sudamérica?",
+		"interrogative"
+	],
+	[
+		"La Constitución establece los derechos fundamentales.",
+		"declarative"
+	],
+	[
+		"¡La teoría celular abrió un universo de conocimiento!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo se redacta un mapa conceptual correctamente?",
+		"interrogative"
+	],
+	[
+		"El lenguaje de programación C es de bajo nivel.",
+		"declarative"
+	],
+	[
+		"¡Qué asombroso es el proceso de reproducción celular!",
+		"exclamatory"
+	],
+	[
+		"¿Qué representa el símbolo de integral en cálculo?",
+		"interrogative"
+	],
+	[
+		"La teoría celular fue propuesta en el siglo diecinueve.",
+		"declarative"
+	],
+	[
+		"¡Qué viaje tan espectacular estamos planeando!",
+		"exclamatory"
+	],
+	[
+		"¿Qué días tenemos disponibles para la reunión?",
+		"interrogative"
+	],
+	[
+		"El proyecto se dividirá en tres fases principales.",
+		"declarative"
+	],
+	[
+		"¡El presupuesto para el evento es enorme!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo organizo la ruta del viaje por carretera?",
+		"interrogative"
+	],
+	[
+		"La reunión de equipo está programada para mañana.",
+		"declarative"
+	],
+	[
+		"¡Qué emocionante será la boda de mi hermana!",
+		"exclamatory"
+	],
+	[
+		"¿Cuál es el presupuesto estimado para el evento?",
+		"interrogative"
+	],
+	[
+		"El presupuesto mensual incluye gastos de alojamiento.",
+		"declarative"
+	],
+	[
+		"¡El itinerario del tour es agotador pero genial!",
+		"exclamatory"
+	],
+	[
+		"¿Qué restaurantes ofrecen menú vegetariano cerca de aquí?",
+		"interrogative"
+	],
+	[
+		"El viaje de negocios dura cuatro días completos.",
+		"declarative"
+	],
+	[
+		"¡Qué maravilloso plan de negocios presentaste!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo distribuyo el tiempo de estudio para el examen?",
+		"interrogative"
+	],
+	[
+		"La campaña de marketing se lanza el próximo lunes.",
+		"declarative"
+	],
+	[
+		"¡El horario de verano es ideal para descansar!",
+		"exclamatory"
+	],
+	[
+		"¿Qué ropa debo llevar para un viaje de nieve?",
+		"interrogative"
+	],
+	[
+		"El horario de trabajo permite flexibilidad los viernes.",
+		"declarative"
+	],
+	[
+		"¡Qué excelente idea organizar una campaña solidaria!",
+		"exclamatory"
+	],
+	[
+		"¿Cuál es la mejor época para visitar Japón?",
+		"interrogative"
+	],
+	[
+		"La entrega final del producto se realiza en diciembre.",
+		"declarative"
+	],
+	[
+		"¡El calendario de lanzamiento apunta a un rotundo éxito!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo se planifica una campaña de redes sociales?",
+		"interrogative"
+	],
+	[
+		"El plan de estudios incluye cinco materias obligatorias.",
+		"declarative"
+	],
+	[
+		"¡Qué megaevento de marketing tenemos entre manos!",
+		"exclamatory"
+	],
+	[
+		"¿Qué tareas prioritarias deben completarse esta semana?",
+		"interrogative"
+	],
+	[
+		"La dieta semanal consiste en comidas bajas en carbohidratos.",
+		"declarative"
+	],
+	[
+		"¡El plan de dieta es bastante estricto!",
+		"exclamatory"
+	],
+	[
+		"¿Cuál es la duración del vuelo a Buenos Aires?",
+		"interrogative"
+	],
+	[
+		"La boda se celebrará en una hacienda privada.",
+		"declarative"
+	],
+	[
+		"¡Qué increíbles destinos turísticos elegiste!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo reservo las entradas para el concierto?",
+		"interrogative"
+	],
+	[
+		"El itinerario del vuelo incluye una escala en Madrid.",
+		"declarative"
+	],
+	[
+		"¡El proyecto de mudanza está saliendo perfecto!",
+		"exclamatory"
+	],
+	[
+		"¿Qué pasos debo seguir para mudarme de ciudad?",
+		"interrogative"
+	],
+	[
+		"La mudanza al nuevo apartamento está planificada para el sábado.",
+		"declarative"
+	],
+	[
+		"¡Qué pésima planificación de tiempos tuvimos!",
+		"exclamatory"
+	],
+	[
+		"¿Cuál es el itinerario sugerido para el tour de museos?",
+		"interrogative"
+	],
+	[
+		"El objetivo principal es aumentar las ventas un diez por ciento.",
+		"declarative"
+	],
+	[
+		"¡El horario de atención al cliente es terriblemente corto!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo gestionamos el presupuesto mensual de la empresa?",
+		"interrogative"
+	],
+	[
+		"La nueva política de la empresa entrará en vigor pronto.",
+		"declarative"
+	],
+	[
+		"¡Qué enorme listado de invitados manejamos!",
+		"exclamatory"
+	],
+	[
+		"¿Qué canales de comunicación usaremos durante el proyecto?",
+		"interrogative"
+	],
+	[
+		"El horario de atención al público es de nueve a cinco.",
+		"declarative"
+	],
+	[
+		"¡El entrenamiento físico será brutal!",
+		"exclamatory"
+	],
+	[
+		"¿Cuál es la fecha límite para entregar el informe?",
+		"interrogative"
+	],
+	[
+		"La reserva del restaurante es para ocho personas.",
+		"declarative"
+	],
+	[
+		"¡Qué fantástico plan de estudios diseñaron!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo creo un horario de trabajo flexible?",
+		"interrogative"
+	],
+	[
+		"El calendario de lanzamiento se ajustó a la fecha global.",
+		"declarative"
+	],
+	[
+		"¡El proyecto requiere muchísimo esfuerzo!",
+		"exclamatory"
+	],
+	[
+		"¿Qué objetivos planteamos para el próximo trimestre?",
+		"interrogative"
+	],
+	[
+		"La compra de los boletos debe hacerse con anticipación.",
+		"declarative"
+	],
+	[
+		"¡Qué meta tan ambiciosa nos pusimos!",
+		"exclamatory"
+	],
+	[
+		"¿Cuál es la capacidad máxima del salón de conferencias?",
+		"interrogative"
+	],
+	[
+		"El entrenamiento físico requiere una rutina constante.",
+		"declarative"
+	],
+	[
+		"¡El boleto del concierto costó una fortuna!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo coordinamos la logística de la boda?",
+		"interrogative"
+	],
+	[
+		"La lista de invitados supera los cien nombres.",
+		"declarative"
+	],
+	[
+		"¡Qué sorpresa tan enorme me diste!",
+		"exclamatory"
+	],
+	[
+		"¿Te pareció interesante la película de anoche?",
+		"interrogative"
+	],
+	[
+		"Me parece una decisión muy acertada.",
+		"declarative"
+	],
+	[
+		"¡La noticia me dejó sin palabras!",
+		"exclamatory"
+	],
+	[
+		"¿Qué opinas sobre la nueva política de la empresa?",
+		"interrogative"
+	],
+	[
+		"La respuesta del soporte técnico fue rápida.",
+		"declarative"
+	],
+	[
+		"¡Qué decisión tan acertada tomó la directiva!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo te sentiste al recibir la noticia?",
+		"interrogative"
+	],
+	[
+		"El diseño de la interfaz luce moderno y limpio.",
+		"declarative"
+	],
+	[
+		"¡El diseño de la interfaz es una auténtica obra de arte!",
+		"exclamatory"
+	],
+	[
+		"¿Te gustó el diseño de la nueva interfaz?",
+		"interrogative"
+	],
+	[
+		"La noticia sobre la empresa me sorprendió mucho.",
+		"declarative"
+	],
+	[
+		"¡Qué rápido respondió el soporte técnico!",
+		"exclamatory"
+	],
+	[
+		"¿Qué te pareció la comida del restaurante italiano?",
+		"interrogative"
+	],
+	[
+		"El cambio de directiva afecta a todos los empleados.",
+		"declarative"
+	],
+	[
+		"¡El cambio de precio es un completo despropósito!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo notas el cambio de temperatura en la oficina?",
+		"interrogative"
+	],
+	[
+		"La propuesta del cliente es viable financieramente.",
+		"declarative"
+	],
+	[
+		"¡Qué velocidad de conexión tan increíble tengo!",
+		"exclamatory"
+	],
+	[
+		"¿Te llamó la atención el artículo del periódico?",
+		"interrogative"
+	],
+	[
+		"El precio del producto subió considerablemente.",
+		"declarative"
+	],
+	[
+		"¡La calidad del audio de la llamada es pésima!",
+		"exclamatory"
+	],
+	[
+		"¿Qué piensas hacer respecto a ese comentario?",
+		"interrogative"
+	],
+	[
+		"La velocidad de la conexión mejoró notablemente.",
+		"declarative"
+	],
+	[
+		"¡Qué interpretación tan magistral del actor!",
+		"exclamatory"
+	],
+	[
+		"¿Te causó una buena impresión el candidato?",
+		"interrogative"
+	],
+	[
+		"La calidad del audio en la llamada es excelente.",
+		"declarative"
+	],
+	[
+		"¡El menú del restaurante luce fantástico!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo valoras el resultado del proyecto?",
+		"interrogative"
+	],
+	[
+		"El ajuste de la pantalla es adecuado para mis ojos.",
+		"declarative"
+	],
+	[
+		"¡Qué agradable temperatura hace en la sala!",
+		"exclamatory"
+	],
+	[
+		"¿Te agradó la presentación del director general?",
+		"interrogative"
+	],
+	[
+		"La interpretación del actor fue muy convincente.",
+		"declarative"
+	],
+	[
+		"¡El retraso del vuelo es inaceptable!",
+		"exclamatory"
+	],
+	[
+		"¿Qué reacción tuviste al ver el error en pantalla?",
+		"interrogative"
+	],
+	[
+		"El menú del restaurante incluye opciones vegetarianas.",
+		"declarative"
+	],
+	[
+		"¡Qué presentación de producto tan espectacular!",
+		"exclamatory"
+	],
+	[
+		"¿Te convenció la propuesta de marketing?",
+		"interrogative"
+	],
+	[
+		"La temperatura de la sala es bastante agradable.",
+		"declarative"
+	],
+	[
+		"¡El sonido del motor indica un fallo gravísimo!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo calificarías la atención al cliente de hoy?",
+		"interrogative"
+	],
+	[
+		"El retraso del vuelo causó varios inconvenientes.",
+		"declarative"
+	],
+	[
+		"¡Qué aburrida resultó la trama de la película!",
+		"exclamatory"
+	],
+	[
+		"¿Te satisfizo la respuesta del soporte técnico?",
+		"interrogative"
+	],
+	[
+		"La presentación del nuevo teléfono fue espectacular.",
+		"declarative"
+	],
+	[
+		"¡El volumen de la música es ensordecedor!",
+		"exclamatory"
+	],
+	[
+		"¿Qué sientes al escuchar esta melodía?",
+		"interrogative"
+	],
+	[
+		"El sonido del motor indica un posible fallo.",
+		"declarative"
+	],
+	[
+		"¡Qué organización tan impecable del evento!",
+		"exclamatory"
+	],
+	[
+		"¿Te sorprendió la calidad de la imagen?",
+		"interrogative"
+	],
+	[
+		"La trama de la película resulta predecible.",
+		"declarative"
+	],
+	[
+		"¡El texto del anuncio es verdaderamente creativo!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo percibes el cambio de actitud del equipo?",
+		"interrogative"
+	],
+	[
+		"El volumen de la música es demasiado alto.",
+		"declarative"
+	],
+	[
+		"¡Qué ajuste tan perfecto de pantalla!",
+		"exclamatory"
+	],
+	[
+		"¿Te pareció correcta la decisión del jurado?",
+		"interrogative"
+	],
+	[
+		"La organziación del evento fue impecable.",
+		"declarative"
+	],
+	[
+		"¡La propuesta del cliente es financieramente brillante!",
+		"exclamatory"
+	],
+	[
+		"¿Qué piensas de la decoración de la sala?",
+		"interrogative"
+	],
+	[
+		"El texto del anuncio requiere más creatividad.",
+		"declarative"
+	],
+	[
+		"¡Qué clima tan perfecto para pasear!",
+		"exclamatory"
+	],
+	[
+		"¿Qué planes tienes para este fin de semana?",
+		"interrogative"
+	],
+	[
+		"El clima de hoy es ideal para caminar.",
+		"declarative"
+	],
+	[
+		"¡Mi gato es un dormilón incorregible!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo está el clima en tu ciudad hoy?",
+		"interrogative"
+	],
+	[
+		"Mi gato duerme en el sofá todo el día.",
+		"declarative"
+	],
+	[
+		"¡Qué taza de café tan necesaria esta mañana!",
+		"exclamatory"
+	],
+	[
+		"¿Sabes a qué hora empieza el partido de fútbol?",
+		"interrogative"
+	],
+	[
+		"La taza de café de la mañana es indispensable.",
+		"declarative"
+	],
+	[
+		"¡El vecino nuevo es extremadamente amable!",
+		"exclamatory"
+	],
+	[
+		"¿Qué libro estás leyendo actualmente?",
+		"interrogative"
+	],
+	[
+		"El vecino nuevo es muy amable con todos.",
+		"declarative"
+	],
+	[
+		"¡Qué libro tan aburrido leí anoche!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo se llama tu perro recién adoptado?",
+		"interrogative"
+	],
+	[
+		"El libro que leí anoche era muy aburrido.",
+		"declarative"
+	],
+	[
+		"¡La película de anoche terminó tardísimo!",
+		"exclamatory"
+	],
+	[
+		"¿Te gustaría salir a dar un paseo por el parque?",
+		"interrogative"
+	],
+	[
+		"La película de anoche terminó muy tarde.",
+		"declarative"
+	],
+	[
+		"¡Qué parque tan lleno de niños jugando!",
+		"exclamatory"
+	],
+	[
+		"¿Qué vas a pedir en la cafetería?",
+		"interrogative"
+	],
+	[
+		"El parque está lleno de niños jugando.",
+		"declarative"
+	],
+	[
+		"¡La comida italiana estaba riquísima!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo te fue en la cita médica de la mañana?",
+		"interrogative"
+	],
+	[
+		"La comida del restaurante italiano estaba deliciosa.",
+		"declarative"
+	],
+	[
+		"¡Qué lejos vive mi hermana!",
+		"exclamatory"
+	],
+	[
+		"¿Sabes si el semáforo de la esquina ya funciona?",
+		"interrogative"
+	],
+	[
+		"Mi hermana mayor vive en otra ciudad.",
+		"declarative"
+	],
+	[
+		"¡El partido de fútbol fue increíblemente intenso!",
+		"exclamatory"
+	],
+	[
+		"¿Qué hiciste durante las vacaciones de verano?",
+		"interrogative"
+	],
+	[
+		"El partido de fútbol terminó en empate.",
+		"declarative"
+	],
+	[
+		"¡Qué tiempo tarda el semáforo en ponerse verde!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo se llama esa canción que suena en la radio?",
+		"interrogative"
+	],
+	[
+		"El semáforo tarda mucho en cambiar a verde.",
+		"declarative"
+	],
+	[
+		"¡La planta del balcón está completamente seca!",
+		"exclamatory"
+	],
+	[
+		"¿Te gustan las películas de ciencia ficción?",
+		"interrogative"
+	],
+	[
+		"La planta del balcón necesita agua con urgencia.",
+		"declarative"
+	],
+	[
+		"¡Qué veloz corre el perro en el jardín!",
+		"exclamatory"
+	],
+	[
+		"¿Qué tipo de comida prefieres para cenar?",
+		"interrogative"
+	],
+	[
+		"El perro corre detrás de la pelota en el jardín.",
+		"declarative"
+	],
+	[
+		"¡El color azul oscuro es mi favorito absoluto!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo se llega al centro comercial desde aquí?",
+		"interrogative"
+	],
+	[
+		"Mi color favorito es el azul oscuro.",
+		"declarative"
+	],
+	[
+		"¡Qué espantoso tráfico matutino hay los lunes!",
+		"exclamatory"
+	],
+	[
+		"¿Sabes cuándo llega el próximo autobús?",
+		"interrogative"
+	],
+	[
+		"El tráfico matutino es muy pesado los lunes.",
+		"declarative"
+	],
+	[
+		"¡La caminata de hoy fue sumamente relajante!",
+		"exclamatory"
+	],
+	[
+		"¿Qué programas de televisión recomiendas ver?",
+		"interrogative"
+	],
+	[
+		"La caminata de hoy fue muy relajante.",
+		"declarative"
+	],
+	[
+		"¡Qué retraso tiene el reloj de la cocina!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo te encuentras después del resfriado?",
+		"interrogative"
+	],
+	[
+		"El reloj de la cocina se retrasó diez minutos.",
+		"declarative"
+	],
+	[
+		"¡La luz del pasillo se fundió abruptamente!",
+		"exclamatory"
+	],
+	[
+		"¿Te apetece tomar un café conmigo mañana?",
+		"interrogative"
+	],
+	[
+		"La luz del pasillo fundió anoche.",
+		"declarative"
+	],
+	[
+		"¡Qué hambre tengo por esa pasta!",
+		"exclamatory"
+	],
+	[
+		"¿Qué le regalaste a tu hermana por su cumpleaños?",
+		"interrogative"
+	],
+	[
+		"Mi comida favorita es la pasta con salsa de tomate.",
+		"declarative"
+	],
+	[
+		"¡El autobús tardó muchísimo en llegar!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo quedó el marcador final del tenis?",
+		"interrogative"
+	],
+	[
+		"El autobús pasa por esta esquina cada veinte minutos.",
+		"declarative"
+	],
+	[
+		"¡El ordenador se reinicia de la nada!",
+		"exclamatory"
+	],
+	[
+		"¿Por qué el ordenador tarda tanto en arrancar?",
+		"interrogative"
+	],
+	[
+		"El ordenador se reinicia sin previo aviso.",
+		"declarative"
+	],
+	[
+		"¡Qué aplicación tan inestable y molesta!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo soluciono este molesto error de actualización?",
+		"interrogative"
+	],
+	[
+		"La aplicación se cierra cada vez que intento guardar.",
+		"declarative"
+	],
+	[
+		"¡El servicio de internet es una basura en esta zona!",
+		"exclamatory"
+	],
+	[
+		"¿Sabes por qué el internet va tan lento hoy?",
+		"interrogative"
+	],
+	[
+		"El servicio de internet es muy inestable en esta zona.",
+		"declarative"
+	],
+	[
+		"¡Mi contraseña no funciona por más que la escribo!",
+		"exclamatory"
+	],
+	[
+		"¿Por qué la aplicación se cierra de forma repentina?",
+		"interrogative"
+	],
+	[
+		"Mi contraseña no funciona aunque la escribo bien.",
+		"declarative"
+	],
+	[
+		"¡Qué pantalla táctil tan desesperante!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo evito que el teléfono se quede sin batería?",
+		"interrogative"
+	],
+	[
+		"La pantalla táctil no responde al tacto correctamente.",
+		"declarative"
+	],
+	[
+		"¡El auricular izquierdo no emite ni un solo sonido!",
+		"exclamatory"
+	],
+	[
+		"¿Por qué el microondas no calienta la sopa?",
+		"interrogative"
+	],
+	[
+		"El auricular izquierdo no emite ningún sonido.",
+		"declarative"
+	],
+	[
+		"¡Qué frío hace para que el coche no arranque!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo reparo la cremallera rota de mi chaqueta?",
+		"interrogative"
+	],
+	[
+		"El coche no arranca por la fría mañana.",
+		"declarative"
+	],
+	[
+		"¡El ascensor lleva días fuera de servicio!",
+		"exclamatory"
+	],
+	[
+		"¿Por qué la impresora no reconoce el cartucho nuevo?",
+		"interrogative"
+	],
+	[
+		"El ascensor está fuera de servicio desde ayer.",
+		"declarative"
+	],
+	[
+		"¡Qué recargo tan injusto trajo la factura de la luz!",
+		"exclamatory"
+	],
+	[
+		"¿Sabes cómo destapar el fregadero de la cocina?",
+		"interrogative"
+	],
+	[
+		"La factura de la luz llegó con un recargo injustificado.",
+		"declarative"
+	],
+	[
+		"¡El goteo del grifo del baño es insoportable!",
+		"exclamatory"
+	],
+	[
+		"¿Por qué el ascensor dejó de funcionar de repente?",
+		"interrogative"
+	],
+	[
+		"El grifo del baño gotea constantemente.",
+		"declarative"
+	],
+	[
+		"¡Qué atascada está la cerradura de la puerta!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo quito este virus de mi computadora?",
+		"interrogative"
+	],
+	[
+		"La cerradura de la puerta principal está atascada.",
+		"declarative"
+	],
+	[
+		"¡El reloj despertador sonó a media noche por error!",
+		"exclamatory"
+	],
+	[
+		"¿Por qué la pantalla de mi móvil parpadea?",
+		"interrogative"
+	],
+	[
+		"El reloj despertador sonó a media noche por error.",
+		"declarative"
+	],
+	[
+		"¡Qué atasco tan horrible de papel en la impresora!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo cancelo la suscripción que se cobra sola?",
+		"interrogative"
+	],
+	[
+		"La impresora se atascó con la hoja de papel.",
+		"declarative"
+	],
+	[
+		"¡El microondas no calienta absolutamente nada!",
+		"exclamatory"
+	],
+	[
+		"¿Por qué el grifo del baño sigue goteando?",
+		"interrogative"
+	],
+	[
+		"El microondas no calienta la comida adecuadamente.",
+		"declarative"
+	],
+	[
+		"¡Qué desastre de actualización del sistema operativo!",
+		"exclamatory"
+	],
+	[
+		"¿Sabes por qué la lavadora hace tanto ruido?",
+		"interrogative"
+	],
+	[
+		"El sistema operativo se actualizó sin permiso.",
+		"declarative"
+	],
+	[
+		"¡La cremallera de la mochila está totalmente rota!",
+		"exclamatory"
+	],
+	[
+		"¿Por qué el ratón de la computadora no obedece?",
+		"interrogative"
+	],
+	[
+		"La mochila tiene una cremallera rota.",
+		"declarative"
+	],
+	[
+		"¡Qué poco enfría el aire acondicionado!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo abro este archivo si el formato no es compatible?",
+		"interrogative"
+	],
+	[
+		"El aire acondicionado enfría muy poco la habitación.",
+		"declarative"
+	],
+	[
+		"¡La lavadora hace ruidos gravísimos!",
+		"exclamatory"
+	],
+	[
+		"¿Por qué el coche hace un ruido extraño al frenar?",
+		"interrogative"
+	],
+	[
+		"La lavadora hace ruidos extraños durante el centrifugado.",
+		"declarative"
+	],
+	[
+		"¡Qué tremendo trompón da el ratón del ordenador!",
+		"exclamatory"
+	],
+	[
+		"¿Sabes cómo reiniciar la configuración del router?",
+		"interrogative"
+	],
+	[
+		"El ratón del ordenador se mueve a trompicones.",
+		"declarative"
+	],
+	[
+		"¡El disco duro no aparece por ningún lado!",
+		"exclamatory"
+	],
+	[
+		"¿Por qué la cerradura de la puerta está tan dura?",
+		"interrogative"
+	],
+	[
+		"El disco duro externo no se reconoce en el equipo.",
+		"declarative"
+	],
+	[
+		"¡Qué trabajo tan extraordinario realizaste!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo lograste terminar el proyecto tan rápido?",
+		"interrogative"
+	],
+	[
+		"El trabajo que realizaste supera las expectativas.",
+		"declarative"
+	],
+	[
+		"¡La idea de marketing es una genialidad total!",
+		"exclamatory"
+	],
+	[
+		"¿Qué te inspiró para crear este hermoso diseño?",
+		"interrogative"
+	],
+	[
+		"La idea de marketing es brillante y original.",
+		"declarative"
+	],
+	[
+		"¡Qué código fuente tan bien documentado!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo aprendiste a programar con tanta destreza?",
+		"interrogative"
+	],
+	[
+		"El código fuente está muy bien documentado.",
+		"declarative"
+	],
+	[
+		"¡El diseño gráfico es espectacularmente bello!",
+		"exclamatory"
+	],
+	[
+		"¿Qué técnica usaste para que el código quede tan limpio?",
+		"interrogative"
+	],
+	[
+		"La presentación visual es muy atractiva para los clientes.",
+		"declarative"
+	],
+	[
+		"¡Qué rapidez mostró el equipo de desarrollo!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo conseguiste que el cliente quedara tan feliz?",
+		"interrogative"
+	],
+	[
+		"El equipo de desarrollo resolvió el problema rápidamente.",
+		"declarative"
+	],
+	[
+		"¡La calidad de este producto es superior!",
+		"exclamatory"
+	],
+	[
+		"¿Qué pasos seguiste para redactar un texto tan perfecto?",
+		"interrogative"
+	],
+	[
+		"La atención al cliente fue muy profesional.",
+		"declarative"
+	],
+	[
+		"¡Qué nivel de detalle tiene el informe!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo lograste mejorar el rendimiento del servidor?",
+		"interrogative"
+	],
+	[
+		"El resultado final del proyecto es excelente.",
+		"declarative"
+	],
+	[
+		"¡El esfuerzo del equipo fue sobresaliente!",
+		"exclamatory"
+	],
+	[
+		"¿Qué hiciste para que la presentación fluyera tan bien?",
+		"interrogative"
+	],
+	[
+		"La música de fondo crea un ambiente perfecto.",
+		"declarative"
+	],
+	[
+		"¡Qué magnífica fue la atención al cliente!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo alcanzaste un nivel de inglés tan avanzado?",
+		"interrogative"
+	],
+	[
+		"El diseño gráfico combina colores de manera armónica.",
+		"declarative"
+	],
+	[
+		"¡El resultado del proyecto superó todo lo esperado!",
+		"exclamatory"
+	],
+	[
+		"¿Qué experiencia te marcó como profesional destacado?",
+		"interrogative"
+	],
+	[
+		"La calidad del producto es insuperable.",
+		"declarative"
+	],
+	[
+		"¡Qué ambiente tan perfecto creó la música!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo pudiste organizar un evento tan exitoso?",
+		"interrogative"
+	],
+	[
+		"El esfuerzo del equipo merece un reconocimiento.",
+		"declarative"
+	],
+	[
+		"¡La explicación del profesor fue clarísima!",
+		"exclamatory"
+	],
+	[
+		"¿Qué estrategia de marketing generó tantas ventas?",
+		"interrogative"
+	],
+	[
+		"La propuesta de diseño es muy innovadora.",
+		"declarative"
+	],
+	[
+		"¡Qué éxito rotundo fue el evento!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo lograste motivar a todo el equipo de trabajo?",
+		"interrogative"
+	],
+	[
+		"El artículo del blog aporta mucho valor al lector.",
+		"declarative"
+	],
+	[
+		"¡El servicio de entrega funcionó de maravilla!",
+		"exclamatory"
+	],
+	[
+		"¿Qué herramientas te ayudaron a crear este modelo?",
+		"interrogative"
+	],
+	[
+		"La redacción del documento es muy fluida.",
+		"declarative"
+	],
+	[
+		"¡Qué decoración tan elegante y sofisticada!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo conseguiste reducir los costos de producción?",
+		"interrogative"
+	],
+	[
+		"El nivel de detalle en el informe es perfecto.",
+		"declarative"
+	],
+	[
+		"¡La calidad de la imagen es nítida y perfecta!",
+		"exclamatory"
+	],
+	[
+		"¿Qué métodos aplicaste para pintar este cuadro?",
+		"interrogative"
+	],
+	[
+		"La explicación del profesor fue muy clara.",
+		"declarative"
+	],
+	[
+		"¡Qué valioso aporte has hecho al equipo!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo redactaste un informe tan detallado en poco tiempo?",
+		"interrogative"
+	],
+	[
+		"El evento fue un éxito rotundo.",
+		"declarative"
+	],
+	[
+		"¡La presentación fluyó de forma extraordinaria!",
+		"exclamatory"
+	],
+	[
+		"¿Qué cualidades te hicieron destacar en la entrevista?",
+		"interrogative"
+	],
+	[
+		"La comida del buffet estaba exquisitamente preparada.",
+		"declarative"
+	],
+	[
+		"¡Qué redacción tan impecable y profesional!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo lograste resolver el conflicto de manera elegante?",
+		"interrogative"
+	],
+	[
+		"El servicio de entrega llegó antes de tiempo.",
+		"declarative"
+	],
+	[
+		"¡El nivel de detalle en el diseño es fantástico!",
+		"exclamatory"
+	],
+	[
+		"¿Qué consejo darías para triunfar como tú lo hiciste?",
+		"interrogative"
+	],
+	[
+		"La decoración de la sala es muy elegante.",
+		"declarative"
+	],
+	[
+		"¡Qué informe financiero tan completo!",
+		"exclamatory"
+	],
+	[
+		"¿Cuándo se entrega el reporte mensual?",
+		"interrogative"
+	],
+	[
+		"El informe financiero necesita la firma del director.",
+		"declarative"
+	],
+	[
+		"¡La reunión de directivos fue interminable!",
+		"exclamatory"
+	],
+	[
+		"¿Quién es el encargado del departamento de ventas?",
+		"interrogative"
+	],
+	[
+		"La reunión de directivos duró tres horas.",
+		"declarative"
+	],
+	[
+		"¡Qué contrato laboral tan beneficioso!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo se solicitan las vacaciones en la nueva plataforma?",
+		"interrogative"
+	],
+	[
+		"El contrato laboral estipula un periodo de prueba.",
+		"declarative"
+	],
+	[
+		"¡El nuevo sistema operativo funciona estupendamente!",
+		"exclamatory"
+	],
+	[
+		"¿Qué necesito para fichar en el proyecto de marketing?",
+		"interrogative"
+	],
+	[
+		"La oficina principal está ubicada en el centro.",
+		"declarative"
+	],
+	[
+		"¡La junta directiva aprobó la fusión rápidamente!",
+		"exclamatory"
+	],
+	[
+		"¿A qué hora es la videoconferencia con los clientes?",
+		"interrogative"
+	],
+	[
+		"El nuevo sistema operativo facilita el trabajo remoto.",
+		"declarative"
+	],
+	[
+		"¡Qué bloqueo de correo tan problemático!",
+		"exclamatory"
+	],
+	[
+		"¿Dónde se guardan los archivos de recursos humanos?",
+		"interrogative"
+	],
+	[
+		"La junta directiva aprobó la fusión de empresas.",
+		"declarative"
+	],
+	[
+		"¡La modificación del cliente llegó a tiempo!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo accedo a mi correo corporativo desde casa?",
+		"interrogative"
+	],
+	[
+		"La cuenta de correo corporativo sufrió un bloqueo.",
+		"declarative"
+	],
+	[
+		"¡El balance del trimestre es muy positivo!",
+		"exclamatory"
+	],
+	[
+		"¿Qué incluye el paquete de beneficios de la empresa?",
+		"interrogative"
+	],
+	[
+		"El cliente solicita una modificación en el diseño.",
+		"declarative"
+	],
+	[
+		"¡Qué extraordinario crecimiento tuvimos!",
+		"exclamatory"
+	],
+	[
+		"¿Cuándo se deposita el bono de productividad?",
+		"interrogative"
+	],
+	[
+		"La nómina se ingresa el último día del mes.",
+		"declarative"
+	],
+	[
+		"¡La auditoría de cuentas fue muy rigurosa!",
+		"exclamatory"
+	],
+	[
+		"¿Quién aprueba los gastos de viaje del equipo?",
+		"interrogative"
+	],
+	[
+		"El horario de verano entra en vigor el próximo mes.",
+		"declarative"
+	],
+	[
+		"¡El departamento de recursos humanos trabaja increíblemente rápido!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo se gestiona la reserva de la sala de juntas?",
+		"interrogative"
+	],
+	[
+		"La auditoría de cuentas se realizará en junio.",
+		"declarative"
+	],
+	[
+		"¡Qué excelente balance arrojó el proyecto!",
+		"exclamatory"
+	],
+	[
+		"¿Qué código debo marcar para llamadas internacionales?",
+		"interrogative"
+	],
+	[
+		"El departamento de recursos humanos gestiona las vacaciones.",
+		"declarative"
+	],
+	[
+		"¡La meta de ventas se cumplió ampliamente!",
+		"exclamatory"
+	],
+	[
+		"¿Cuándo es la auditoría interna de este año?",
+		"interrogative"
+	],
+	[
+		"La reunión de seguimiento es el martes por la tarde.",
+		"declarative"
+	],
+	[
+		"¡El presupuesto anual se aprobó sin contratiempos!",
+		"exclamatory"
+	],
+	[
+		"¿Quién redactó el acta de la reunión anterior?",
+		"interrogative"
+	],
+	[
+		"El balance del trimestre refleja un crecimiento.",
+		"declarative"
+	],
+	[
+		"¡Qué productiva resultó la sesión de capacitación!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo se configura la firma del correo electrónico?",
+		"interrogative"
+	],
+	[
+		"La solicitud de vacaciones debe presentarse por escrito.",
+		"declarative"
+	],
+	[
+		"¡El departamento de logística es maravillosamente eficiente!",
+		"exclamatory"
+	],
+	[
+		"¿Qué formulario uso para reportar un fallo técnico?",
+		"interrogative"
+	],
+	[
+		"El equipo de ventas alcanzó la meta mensual.",
+		"declarative"
+	],
+	[
+		"¡La retransmisión de la junta fue nítida!",
+		"exclamatory"
+	],
+	[
+		"¿Cuándo vence el contrato con el proveedor actual?",
+		"interrogative"
+	],
+	[
+		"La presentación de resultados se retransmitirá en vivo.",
+		"declarative"
+	],
+	[
+		"¡Qué abrumadora cantidad de solicitudes recibimos!",
+		"exclamatory"
+	],
+	[
+		"¿Quién se encarga de la capacitación de nuevos empleados?",
+		"interrogative"
+	],
+	[
+		"El presupuesto anual fue aprobado por unanimidad.",
+		"declarative"
+	],
+	[
+		"¡El horario de verano es lo mejor del año!",
+		"exclamatory"
+	],
+	[
+		"¿Cómo se solicita un aumento de sueldo formalmente?",
+		"interrogative"
+	],
+	[
+		"La capacitación del personal es obligatoria para todos.",
+		"declarative"
+	],
+	[
+		"¡El seguimiento del cliente fue un éxito total!",
+		"exclamatory"
+	],
+	[
+		"¿Qué protocolo seguimos para las emergencias en la oficina?",
+		"interrogative"
+	],
+	[
+		"El departamento de logística optimizó las rutas de entrega.",
+		"declarative"
+	]
+]

@@ -1,0 +1,2402 @@
+[
+	[
+		"Que frustração, o endpoint voltou a apresentar o mesmo bug!",
+		"exclamatory"
+	],
+	[
+		"Que orgulho terminar o pipeline antes do prazo!",
+		"exclamatory"
+	],
+	[
+		"Uau, não esperava que o container fosse tão simples!",
+		"exclamatory"
+	],
+	[
+		"Uau, não esperava que o banco de dados fosse tão simples!",
+		"exclamatory"
+	],
+	[
+		"Qual biblioteca você recomenda para o script?",
+		"interrogative"
+	],
+	[
+		"Incrível como o componente melhorou depois da atualização!",
+		"exclamatory"
+	],
+	[
+		"Vou migrar o código para a nova versão da biblioteca.",
+		"declarative"
+	],
+	[
+		"Por que o servidor está apresentando esse erro?",
+		"interrogative"
+	],
+	[
+		"Que susto, o endpoint quase travou o sistema todo!",
+		"exclamatory"
+	],
+	[
+		"Como devo estruturar o banco de dados para escalar melhor?",
+		"interrogative"
+	],
+	[
+		"A equipe aprovou as mudanças no servidor ontem.",
+		"declarative"
+	],
+	[
+		"O que está causando a falha no componente?",
+		"interrogative"
+	],
+	[
+		"Ufa, o componente não quebrou depois do deploy!",
+		"exclamatory"
+	],
+	[
+		"Estou tão feliz que o código passou em todos os testes!",
+		"exclamatory"
+	],
+	[
+		"Qual é a melhor forma de testar o componente?",
+		"interrogative"
+	],
+	[
+		"O container estava causando lentidão no carregamento da página.",
+		"declarative"
+	],
+	[
+		"Que trabalho difícil foi ajustar o pipeline!",
+		"exclamatory"
+	],
+	[
+		"Como faço para reiniciar o endpoint sem perder os dados?",
+		"interrogative"
+	],
+	[
+		"Ufa, o código não quebrou depois do deploy!",
+		"exclamatory"
+	],
+	[
+		"Quanto tempo leva para processar o endpoint por completo?",
+		"interrogative"
+	],
+	[
+		"Que orgulho terminar o componente antes do prazo!",
+		"exclamatory"
+	],
+	[
+		"Uau, não esperava que o componente fosse tão simples!",
+		"exclamatory"
+	],
+	[
+		"Por que o componente continua retornando um valor incorreto?",
+		"interrogative"
+	],
+	[
+		"Estou tão feliz que o algoritmo passou em todos os testes!",
+		"exclamatory"
+	],
+	[
+		"Quem ficou responsável por revisar o container?",
+		"interrogative"
+	],
+	[
+		"Nossa, o pipeline ficou incrivelmente rápido!",
+		"exclamatory"
+	],
+	[
+		"Puxa, o algoritmo deu mais trabalho do que eu imaginava!",
+		"exclamatory"
+	],
+	[
+		"Você já verificou se houve alguma mudança no pipeline?",
+		"interrogative"
+	],
+	[
+		"Qual é a melhor forma de testar o código?",
+		"interrogative"
+	],
+	[
+		"Terminei de documentar o pipeline para o próximo sprint.",
+		"declarative"
+	],
+	[
+		"Como devo estruturar o endpoint para escalar melhor?",
+		"interrogative"
+	],
+	[
+		"Onde devo declarar as dependências do algoritmo?",
+		"interrogative"
+	],
+	[
+		"Qual biblioteca você recomenda para o banco de dados?",
+		"interrogative"
+	],
+	[
+		"Quando devo atualizar o script para a nova versão?",
+		"interrogative"
+	],
+	[
+		"Consegui corrigir o servidor depois de várias tentativas.",
+		"declarative"
+	],
+	[
+		"Você conseguiria revisar o algoritmo até sexta-feira?",
+		"interrogative"
+	],
+	[
+		"Quanto tempo leva para processar o componente por completo?",
+		"interrogative"
+	],
+	[
+		"Estou tão feliz que o repositório passou em todos os testes!",
+		"exclamatory"
+	],
+	[
+		"Finalmente consegui resolver o problema no banco de dados!",
+		"exclamatory"
+	],
+	[
+		"O algoritmo apresentou um comportamento inesperado ontem.",
+		"declarative"
+	],
+	[
+		"Vou migrar o container para a nova versão da biblioteca.",
+		"declarative"
+	],
+	[
+		"Que trabalho difícil foi ajustar o componente!",
+		"exclamatory"
+	],
+	[
+		"O container foi testado em três ambientes diferentes.",
+		"declarative"
+	],
+	[
+		"Uau, não esperava que o script fosse tão simples!",
+		"exclamatory"
+	],
+	[
+		"Quando devo atualizar o algoritmo para a nova versão?",
+		"interrogative"
+	],
+	[
+		"O componente depende de uma variável que não foi definida.",
+		"declarative"
+	],
+	[
+		"Vou migrar o servidor para a nova versão da biblioteca.",
+		"declarative"
+	],
+	[
+		"Por que o pipeline continua retornando um valor incorreto?",
+		"interrogative"
+	],
+	[
+		"Como devo estruturar o componente para escalar melhor?",
+		"interrogative"
+	],
+	[
+		"Qual biblioteca você recomenda para o repositório?",
+		"interrogative"
+	],
+	[
+		"Que trabalho difícil foi ajustar o endpoint!",
+		"exclamatory"
+	],
+	[
+		"Onde devo declarar as dependências do código?",
+		"interrogative"
+	],
+	[
+		"Nossa, o repositório ficou incrivelmente rápido!",
+		"exclamatory"
+	],
+	[
+		"Você pode me explicar como o repositório funciona?",
+		"interrogative"
+	],
+	[
+		"O servidor estava causando lentidão no carregamento da página.",
+		"declarative"
+	],
+	[
+		"Por que o container está apresentando esse erro?",
+		"interrogative"
+	],
+	[
+		"Nossa, o servidor ficou incrivelmente rápido!",
+		"exclamatory"
+	],
+	[
+		"Você pode me explicar como o script funciona?",
+		"interrogative"
+	],
+	[
+		"O script foi testado em três ambientes diferentes.",
+		"declarative"
+	],
+	[
+		"Onde encontro a documentação do script?",
+		"interrogative"
+	],
+	[
+		"Como devo estruturar o pipeline para escalar melhor?",
+		"interrogative"
+	],
+	[
+		"Que sorte, o banco de dados funcionou de primeira!",
+		"exclamatory"
+	],
+	[
+		"Encontrei a causa do problema no container.",
+		"declarative"
+	],
+	[
+		"Como faço para reiniciar o banco de dados sem perder os dados?",
+		"interrogative"
+	],
+	[
+		"Nossa, o banco de dados está muito mais estável agora!",
+		"exclamatory"
+	],
+	[
+		"O endpoint estava causando lentidão no carregamento da página.",
+		"declarative"
+	],
+	[
+		"Decidi refatorar o componente para melhorar a performance.",
+		"declarative"
+	],
+	[
+		"Você conseguiria revisar o container até sexta-feira?",
+		"interrogative"
+	],
+	[
+		"Encontrei a causa do problema no endpoint.",
+		"declarative"
+	],
+	[
+		"Que alegria ver o banco de dados funcionando perfeitamente!",
+		"exclamatory"
+	],
+	[
+		"Que loucura, o pipeline processou tudo em segundos!",
+		"exclamatory"
+	],
+	[
+		"Adorei como ficou o banco de dados depois da refatoração!",
+		"exclamatory"
+	],
+	[
+		"Adorei como ficou o script depois da refatoração!",
+		"exclamatory"
+	],
+	[
+		"Que sorte, o servidor funcionou de primeira!",
+		"exclamatory"
+	],
+	[
+		"Você já verificou se houve alguma mudança no componente?",
+		"interrogative"
+	],
+	[
+		"Incrível como o servidor melhorou depois da atualização!",
+		"exclamatory"
+	],
+	[
+		"Que trabalho difícil foi ajustar o script!",
+		"exclamatory"
+	],
+	[
+		"Como posso otimizar o repositório?",
+		"interrogative"
+	],
+	[
+		"Quando devo atualizar o banco de dados para a nova versão?",
+		"interrogative"
+	],
+	[
+		"Como posso otimizar o algoritmo?",
+		"interrogative"
+	],
+	[
+		"Já enviei o pipeline para revisão do time de qualidade.",
+		"declarative"
+	],
+	[
+		"Consegui corrigir o componente depois de várias tentativas.",
+		"declarative"
+	],
+	[
+		"O endpoint não estava sincronizado com o servidor principal.",
+		"declarative"
+	],
+	[
+		"Ufa, o container não quebrou depois do deploy!",
+		"exclamatory"
+	],
+	[
+		"Que sorte, o endpoint funcionou de primeira!",
+		"exclamatory"
+	],
+	[
+		"A equipe aprovou as mudanças no endpoint ontem.",
+		"declarative"
+	],
+	[
+		"O container já está funcionando sem erros.",
+		"declarative"
+	],
+	[
+		"Quem ficou responsável por revisar o pipeline?",
+		"interrogative"
+	],
+	[
+		"Que trabalhão foi depurar o banco de dados essa madrugada!",
+		"exclamatory"
+	],
+	[
+		"Que trabalhão foi depurar o componente essa madrugada!",
+		"exclamatory"
+	],
+	[
+		"Você pode me explicar como o banco de dados funciona?",
+		"interrogative"
+	],
+	[
+		"Como devo estruturar o servidor para escalar melhor?",
+		"interrogative"
+	],
+	[
+		"Uau, não esperava que o código fosse tão simples!",
+		"exclamatory"
+	],
+	[
+		"O endpoint está consumindo mais memória do que o esperado.",
+		"declarative"
+	],
+	[
+		"Que susto, o pipeline quase travou o sistema todo!",
+		"exclamatory"
+	],
+	[
+		"Incrível como o código melhorou depois da atualização!",
+		"exclamatory"
+	],
+	[
+		"Configurei o container para rodar automaticamente todas as noites.",
+		"declarative"
+	],
+	[
+		"Que frustração, o algoritmo voltou a apresentar o mesmo bug!",
+		"exclamatory"
+	],
+	[
+		"Já enviei o algoritmo para revisão do time de qualidade.",
+		"declarative"
+	],
+	[
+		"Que trabalhão foi depurar o servidor essa madrugada!",
+		"exclamatory"
+	],
+	[
+		"Que frustração, o componente voltou a apresentar o mesmo bug!",
+		"exclamatory"
+	],
+	[
+		"Que confusão foi configurar o servidor sozinho!",
+		"exclamatory"
+	],
+	[
+		"Encontrei a causa do problema no pipeline.",
+		"declarative"
+	],
+	[
+		"Que alívio, o pipeline finalmente funcionou!",
+		"exclamatory"
+	],
+	[
+		"Você conseguiria revisar o endpoint até sexta-feira?",
+		"interrogative"
+	],
+	[
+		"Já enviei o servidor para revisão do time de qualidade.",
+		"declarative"
+	],
+	[
+		"O repositório depende de uma variável que não foi definida.",
+		"declarative"
+	],
+	[
+		"O código não estava sincronizado com o servidor principal.",
+		"declarative"
+	],
+	[
+		"O container foi implementado seguindo o padrão da empresa.",
+		"declarative"
+	],
+	[
+		"Adorei como ficou o código depois da refatoração!",
+		"exclamatory"
+	],
+	[
+		"Quanto tempo leva para processar o código por completo?",
+		"interrogative"
+	],
+	[
+		"Puxa, o endpoint deu mais trabalho do que eu imaginava!",
+		"exclamatory"
+	],
+	[
+		"Como posso otimizar o código?",
+		"interrogative"
+	],
+	[
+		"Que confusão foi configurar o algoritmo sozinho!",
+		"exclamatory"
+	],
+	[
+		"O código depende de uma variável que não foi definida.",
+		"declarative"
+	],
+	[
+		"Decidi refatorar o banco de dados para melhorar a performance.",
+		"declarative"
+	],
+	[
+		"O servidor apresentou um comportamento inesperado ontem.",
+		"declarative"
+	],
+	[
+		"Configurei o servidor para rodar automaticamente todas as noites.",
+		"declarative"
+	],
+	[
+		"Por que o banco de dados continua retornando um valor incorreto?",
+		"interrogative"
+	],
+	[
+		"Consegui corrigir o banco de dados depois de várias tentativas.",
+		"declarative"
+	],
+	[
+		"Nossa, o endpoint ficou incrivelmente rápido!",
+		"exclamatory"
+	],
+	[
+		"Quando devo atualizar o container para a nova versão?",
+		"interrogative"
+	],
+	[
+		"O servidor ainda precisa de alguns ajustes finais.",
+		"declarative"
+	],
+	[
+		"O container depende de uma variável que não foi definida.",
+		"declarative"
+	],
+	[
+		"O repositório não estava sincronizado com o servidor principal.",
+		"declarative"
+	],
+	[
+		"O que está causando a falha no servidor?",
+		"interrogative"
+	],
+	[
+		"O endpoint foi testado em três ambientes diferentes.",
+		"declarative"
+	],
+	[
+		"O que está causando a falha no pipeline?",
+		"interrogative"
+	],
+	[
+		"Já enviei o container para revisão do time de qualidade.",
+		"declarative"
+	],
+	[
+		"Vou migrar o algoritmo para a nova versão da biblioteca.",
+		"declarative"
+	],
+	[
+		"Adorei como ficou o servidor depois da refatoração!",
+		"exclamatory"
+	],
+	[
+		"Incrível como o script melhorou depois da atualização!",
+		"exclamatory"
+	],
+	[
+		"Finalmente consegui resolver o problema no script!",
+		"exclamatory"
+	],
+	[
+		"Como faço para reiniciar o componente sem perder os dados?",
+		"interrogative"
+	],
+	[
+		"Que susto, o servidor quase travou o sistema todo!",
+		"exclamatory"
+	],
+	[
+		"Finalmente consegui resolver o problema no endpoint!",
+		"exclamatory"
+	],
+	[
+		"Uau, não esperava que o endpoint fosse tão simples!",
+		"exclamatory"
+	],
+	[
+		"Que sorte, o pipeline funcionou de primeira!",
+		"exclamatory"
+	],
+	[
+		"Nossa, o servidor está muito mais estável agora!",
+		"exclamatory"
+	],
+	[
+		"Existe alguma alternativa mais simples do que o endpoint?",
+		"interrogative"
+	],
+	[
+		"Que confusão foi configurar o componente sozinho!",
+		"exclamatory"
+	],
+	[
+		"Terminei de documentar o algoritmo para o próximo sprint.",
+		"declarative"
+	],
+	[
+		"Que trabalhão foi depurar o código essa madrugada!",
+		"exclamatory"
+	],
+	[
+		"Como devo estruturar o repositório para escalar melhor?",
+		"interrogative"
+	],
+	[
+		"Já enviei o repositório para revisão do time de qualidade.",
+		"declarative"
+	],
+	[
+		"Que abordagem devo usar para corrigir o componente?",
+		"interrogative"
+	],
+	[
+		"Puxa, o banco de dados deu mais trabalho do que eu imaginava!",
+		"exclamatory"
+	],
+	[
+		"Qual é a melhor forma de testar o repositório?",
+		"interrogative"
+	],
+	[
+		"O container está consumindo mais memória do que o esperado.",
+		"declarative"
+	],
+	[
+		"O banco de dados foi implementado seguindo o padrão da empresa.",
+		"declarative"
+	],
+	[
+		"Por que o algoritmo está apresentando esse erro?",
+		"interrogative"
+	],
+	[
+		"Configurei o script para rodar automaticamente todas as noites.",
+		"declarative"
+	],
+	[
+		"O relatório mostra que o componente melhorou o tempo de resposta.",
+		"declarative"
+	],
+	[
+		"Que loucura, o componente processou tudo em segundos!",
+		"exclamatory"
+	],
+	[
+		"O componente não estava sincronizado com o servidor principal.",
+		"declarative"
+	],
+	[
+		"O componente ainda precisa de alguns ajustes finais.",
+		"declarative"
+	],
+	[
+		"O pipeline estava causando lentidão no carregamento da página.",
+		"declarative"
+	],
+	[
+		"O código está consumindo mais memória do que o esperado.",
+		"declarative"
+	],
+	[
+		"Que alívio, o script finalmente funcionou!",
+		"exclamatory"
+	],
+	[
+		"O relatório mostra que o container melhorou o tempo de resposta.",
+		"declarative"
+	],
+	[
+		"O que está causando a falha no endpoint?",
+		"interrogative"
+	],
+	[
+		"O banco de dados estava causando lentidão no carregamento da página.",
+		"declarative"
+	],
+	[
+		"A equipe aprovou as mudanças no código ontem.",
+		"declarative"
+	],
+	[
+		"Você sabe como configurar o algoritmo corretamente?",
+		"interrogative"
+	],
+	[
+		"O script está consumindo mais memória do que o esperado.",
+		"declarative"
+	],
+	[
+		"Como faço para reiniciar o algoritmo sem perder os dados?",
+		"interrogative"
+	],
+	[
+		"Finalmente consegui resolver o problema no pipeline!",
+		"exclamatory"
+	],
+	[
+		"Estou tão feliz que o container passou em todos os testes!",
+		"exclamatory"
+	],
+	[
+		"Por que o endpoint continua retornando um valor incorreto?",
+		"interrogative"
+	],
+	[
+		"Que trabalho difícil foi ajustar o container!",
+		"exclamatory"
+	],
+	[
+		"Onde encontro a documentação do código?",
+		"interrogative"
+	],
+	[
+		"Nossa, o componente está muito mais estável agora!",
+		"exclamatory"
+	],
+	[
+		"Encontrei a causa do problema no código.",
+		"declarative"
+	],
+	[
+		"Existe alguma alternativa mais simples do que o componente?",
+		"interrogative"
+	],
+	[
+		"O repositório estava causando lentidão no carregamento da página.",
+		"declarative"
+	],
+	[
+		"O pipeline depende de uma variável que não foi definida.",
+		"declarative"
+	],
+	[
+		"É possível integrar o algoritmo com outro serviço?",
+		"interrogative"
+	],
+	[
+		"Uau, não esperava que o repositório fosse tão simples!",
+		"exclamatory"
+	],
+	[
+		"Quando devo atualizar o componente para a nova versão?",
+		"interrogative"
+	],
+	[
+		"Que alegria ver o container funcionando perfeitamente!",
+		"exclamatory"
+	],
+	[
+		"Já enviei o endpoint para revisão do time de qualidade.",
+		"declarative"
+	],
+	[
+		"Consegui corrigir o pipeline depois de várias tentativas.",
+		"declarative"
+	],
+	[
+		"O container apresentou um comportamento inesperado ontem.",
+		"declarative"
+	],
+	[
+		"Você sabe como configurar o repositório corretamente?",
+		"interrogative"
+	],
+	[
+		"O script depende de uma variável que não foi definida.",
+		"declarative"
+	],
+	[
+		"Qual biblioteca você recomenda para o pipeline?",
+		"interrogative"
+	],
+	[
+		"Puxa, o código deu mais trabalho do que eu imaginava!",
+		"exclamatory"
+	],
+	[
+		"Por que o componente está apresentando esse erro?",
+		"interrogative"
+	],
+	[
+		"Encontrei a causa do problema no script.",
+		"declarative"
+	],
+	[
+		"Nossa, o algoritmo está muito mais estável agora!",
+		"exclamatory"
+	],
+	[
+		"Nossa, o algoritmo ficou incrivelmente rápido!",
+		"exclamatory"
+	],
+	[
+		"Puxa, o servidor deu mais trabalho do que eu imaginava!",
+		"exclamatory"
+	],
+	[
+		"Que alívio, o servidor finalmente funcionou!",
+		"exclamatory"
+	],
+	[
+		"Como devo estruturar o script para escalar melhor?",
+		"interrogative"
+	],
+	[
+		"Que trabalho difícil foi ajustar o algoritmo!",
+		"exclamatory"
+	],
+	[
+		"Consegui corrigir o algoritmo depois de várias tentativas.",
+		"declarative"
+	],
+	[
+		"Que trabalhão foi depurar o repositório essa madrugada!",
+		"exclamatory"
+	],
+	[
+		"Que alívio, o código finalmente funcionou!",
+		"exclamatory"
+	],
+	[
+		"Qual biblioteca você recomenda para o container?",
+		"interrogative"
+	],
+	[
+		"O script apresentou um comportamento inesperado ontem.",
+		"declarative"
+	],
+	[
+		"Consegui corrigir o script depois de várias tentativas.",
+		"declarative"
+	],
+	[
+		"Impressionante como o servidor rodou sem nenhum erro!",
+		"exclamatory"
+	],
+	[
+		"O componente passou por todos os testes automatizados.",
+		"declarative"
+	],
+	[
+		"Que susto, o banco de dados quase travou o sistema todo!",
+		"exclamatory"
+	],
+	[
+		"Nossa, o script está muito mais estável agora!",
+		"exclamatory"
+	],
+	[
+		"O servidor foi implementado seguindo o padrão da empresa.",
+		"declarative"
+	],
+	[
+		"Que frustração, o banco de dados voltou a apresentar o mesmo bug!",
+		"exclamatory"
+	],
+	[
+		"Terminei de documentar o servidor para o próximo sprint.",
+		"declarative"
+	],
+	[
+		"O repositório foi testado em três ambientes diferentes.",
+		"declarative"
+	],
+	[
+		"O script estava causando lentidão no carregamento da página.",
+		"declarative"
+	],
+	[
+		"Terminei de documentar o script para o próximo sprint.",
+		"declarative"
+	],
+	[
+		"O relatório mostra que o banco de dados melhorou o tempo de resposta.",
+		"declarative"
+	],
+	[
+		"Onde devo declarar as dependências do componente?",
+		"interrogative"
+	],
+	[
+		"O pipeline está consumindo mais memória do que o esperado.",
+		"declarative"
+	],
+	[
+		"Vou revisar o pipeline antes de enviar o pull request.",
+		"declarative"
+	],
+	[
+		"Que frustração, o código voltou a apresentar o mesmo bug!",
+		"exclamatory"
+	],
+	[
+		"Configurei o código para rodar automaticamente todas as noites.",
+		"declarative"
+	],
+	[
+		"Quanto tempo leva para processar o algoritmo por completo?",
+		"interrogative"
+	],
+	[
+		"Existe alguma alternativa mais simples do que o servidor?",
+		"interrogative"
+	],
+	[
+		"Onde devo declarar as dependências do repositório?",
+		"interrogative"
+	],
+	[
+		"Você pode me explicar como o algoritmo funciona?",
+		"interrogative"
+	],
+	[
+		"O endpoint apresentou um comportamento inesperado ontem.",
+		"declarative"
+	],
+	[
+		"É possível integrar o endpoint com outro serviço?",
+		"interrogative"
+	],
+	[
+		"Decidi refatorar o endpoint para melhorar a performance.",
+		"declarative"
+	],
+	[
+		"O algoritmo depende de uma variável que não foi definida.",
+		"declarative"
+	],
+	[
+		"Como posso otimizar o pipeline?",
+		"interrogative"
+	],
+	[
+		"Já enviei o código para revisão do time de qualidade.",
+		"declarative"
+	],
+	[
+		"O servidor já está funcionando sem erros.",
+		"declarative"
+	],
+	[
+		"É possível integrar o banco de dados com outro serviço?",
+		"interrogative"
+	],
+	[
+		"Que frustração, o servidor voltou a apresentar o mesmo bug!",
+		"exclamatory"
+	],
+	[
+		"Nossa, o repositório está muito mais estável agora!",
+		"exclamatory"
+	],
+	[
+		"O relatório mostra que o endpoint melhorou o tempo de resposta.",
+		"declarative"
+	],
+	[
+		"Decidi refatorar o repositório para melhorar a performance.",
+		"declarative"
+	],
+	[
+		"O código estava causando lentidão no carregamento da página.",
+		"declarative"
+	],
+	[
+		"Vou migrar o pipeline para a nova versão da biblioteca.",
+		"declarative"
+	],
+	[
+		"Por que o script está apresentando esse erro?",
+		"interrogative"
+	],
+	[
+		"Você conseguiria revisar o componente até sexta-feira?",
+		"interrogative"
+	],
+	[
+		"Nossa, o container ficou incrivelmente rápido!",
+		"exclamatory"
+	],
+	[
+		"Decidi refatorar o servidor para melhorar a performance.",
+		"declarative"
+	],
+	[
+		"Adorei como ficou o endpoint depois da refatoração!",
+		"exclamatory"
+	],
+	[
+		"O servidor está consumindo mais memória do que o esperado.",
+		"declarative"
+	],
+	[
+		"Que alívio, o repositório finalmente funcionou!",
+		"exclamatory"
+	],
+	[
+		"Consegui corrigir o repositório depois de várias tentativas.",
+		"declarative"
+	],
+	[
+		"Que loucura, o container processou tudo em segundos!",
+		"exclamatory"
+	],
+	[
+		"Que orgulho terminar o algoritmo antes do prazo!",
+		"exclamatory"
+	],
+	[
+		"Ufa, o endpoint não quebrou depois do deploy!",
+		"exclamatory"
+	],
+	[
+		"Vou revisar o script antes de enviar o pull request.",
+		"declarative"
+	],
+	[
+		"O que está causando a falha no algoritmo?",
+		"interrogative"
+	],
+	[
+		"O pipeline passou por todos os testes automatizados.",
+		"declarative"
+	],
+	[
+		"Finalmente consegui resolver o problema no repositório!",
+		"exclamatory"
+	],
+	[
+		"Vou migrar o repositório para a nova versão da biblioteca.",
+		"declarative"
+	],
+	[
+		"Consegui corrigir o container depois de várias tentativas.",
+		"declarative"
+	],
+	[
+		"Nossa, o container está muito mais estável agora!",
+		"exclamatory"
+	],
+	[
+		"O banco de dados depende de uma variável que não foi definida.",
+		"declarative"
+	],
+	[
+		"Ufa, o servidor não quebrou depois do deploy!",
+		"exclamatory"
+	],
+	[
+		"Finalmente consegui resolver o problema no algoritmo!",
+		"exclamatory"
+	],
+	[
+		"O banco de dados já está funcionando sem erros.",
+		"declarative"
+	],
+	[
+		"Vou revisar o repositório antes de enviar o pull request.",
+		"declarative"
+	],
+	[
+		"O que está causando a falha no container?",
+		"interrogative"
+	],
+	[
+		"Impressionante como o componente rodou sem nenhum erro!",
+		"exclamatory"
+	],
+	[
+		"O relatório mostra que o script melhorou o tempo de resposta.",
+		"declarative"
+	],
+	[
+		"Que abordagem devo usar para corrigir o repositório?",
+		"interrogative"
+	],
+	[
+		"Como posso otimizar o servidor?",
+		"interrogative"
+	],
+	[
+		"Qual biblioteca você recomenda para o servidor?",
+		"interrogative"
+	],
+	[
+		"Uau, não esperava que o servidor fosse tão simples!",
+		"exclamatory"
+	],
+	[
+		"Existe alguma alternativa mais simples do que o pipeline?",
+		"interrogative"
+	],
+	[
+		"Adorei como ficou o repositório depois da refatoração!",
+		"exclamatory"
+	],
+	[
+		"Vou migrar o script para a nova versão da biblioteca.",
+		"declarative"
+	],
+	[
+		"O algoritmo foi implementado seguindo o padrão da empresa.",
+		"declarative"
+	],
+	[
+		"O que está causando a falha no repositório?",
+		"interrogative"
+	],
+	[
+		"Que frustração, o repositório voltou a apresentar o mesmo bug!",
+		"exclamatory"
+	],
+	[
+		"Existe alguma alternativa mais simples do que o código?",
+		"interrogative"
+	],
+	[
+		"O código apresentou um comportamento inesperado ontem.",
+		"declarative"
+	],
+	[
+		"Incrível como o endpoint melhorou depois da atualização!",
+		"exclamatory"
+	],
+	[
+		"Onde encontro a documentação do componente?",
+		"interrogative"
+	],
+	[
+		"Você já verificou se houve alguma mudança no endpoint?",
+		"interrogative"
+	],
+	[
+		"O código passou por todos os testes automatizados.",
+		"declarative"
+	],
+	[
+		"Incrível como o container melhorou depois da atualização!",
+		"exclamatory"
+	],
+	[
+		"Nossa, o banco de dados ficou incrivelmente rápido!",
+		"exclamatory"
+	],
+	[
+		"Puxa, o repositório deu mais trabalho do que eu imaginava!",
+		"exclamatory"
+	],
+	[
+		"O algoritmo ainda precisa de alguns ajustes finais.",
+		"declarative"
+	],
+	[
+		"Que trabalhão foi depurar o endpoint essa madrugada!",
+		"exclamatory"
+	],
+	[
+		"Existe alguma alternativa mais simples do que o container?",
+		"interrogative"
+	],
+	[
+		"Que confusão foi configurar o container sozinho!",
+		"exclamatory"
+	],
+	[
+		"Que loucura, o script processou tudo em segundos!",
+		"exclamatory"
+	],
+	[
+		"Quando devo atualizar o repositório para a nova versão?",
+		"interrogative"
+	],
+	[
+		"Onde devo declarar as dependências do banco de dados?",
+		"interrogative"
+	],
+	[
+		"Como devo estruturar o container para escalar melhor?",
+		"interrogative"
+	],
+	[
+		"Que abordagem devo usar para corrigir o endpoint?",
+		"interrogative"
+	],
+	[
+		"O código foi implementado seguindo o padrão da empresa.",
+		"declarative"
+	],
+	[
+		"Quanto tempo leva para processar o repositório por completo?",
+		"interrogative"
+	],
+	[
+		"Quem ficou responsável por revisar o repositório?",
+		"interrogative"
+	],
+	[
+		"Uau, não esperava que o algoritmo fosse tão simples!",
+		"exclamatory"
+	],
+	[
+		"Encontrei a causa do problema no algoritmo.",
+		"declarative"
+	],
+	[
+		"O relatório mostra que o algoritmo melhorou o tempo de resposta.",
+		"declarative"
+	],
+	[
+		"Você já verificou se houve alguma mudança no algoritmo?",
+		"interrogative"
+	],
+	[
+		"Decidi refatorar o pipeline para melhorar a performance.",
+		"declarative"
+	],
+	[
+		"Onde devo declarar as dependências do pipeline?",
+		"interrogative"
+	],
+	[
+		"Ufa, o script não quebrou depois do deploy!",
+		"exclamatory"
+	],
+	[
+		"Finalmente consegui resolver o problema no servidor!",
+		"exclamatory"
+	],
+	[
+		"Que alegria ver o script funcionando perfeitamente!",
+		"exclamatory"
+	],
+	[
+		"Que confusão foi configurar o repositório sozinho!",
+		"exclamatory"
+	],
+	[
+		"Que alívio, o banco de dados finalmente funcionou!",
+		"exclamatory"
+	],
+	[
+		"Configurei o pipeline para rodar automaticamente todas as noites.",
+		"declarative"
+	],
+	[
+		"Que confusão foi configurar o endpoint sozinho!",
+		"exclamatory"
+	],
+	[
+		"Configurei o banco de dados para rodar automaticamente todas as noites.",
+		"declarative"
+	],
+	[
+		"Estou tão feliz que o endpoint passou em todos os testes!",
+		"exclamatory"
+	],
+	[
+		"Que sorte, o script funcionou de primeira!",
+		"exclamatory"
+	],
+	[
+		"Como posso otimizar o componente?",
+		"interrogative"
+	],
+	[
+		"Que abordagem devo usar para corrigir o pipeline?",
+		"interrogative"
+	],
+	[
+		"Onde devo declarar as dependências do endpoint?",
+		"interrogative"
+	],
+	[
+		"É possível integrar o código com outro serviço?",
+		"interrogative"
+	],
+	[
+		"Que abordagem devo usar para corrigir o algoritmo?",
+		"interrogative"
+	],
+	[
+		"O componente foi testado em três ambientes diferentes.",
+		"declarative"
+	],
+	[
+		"Que frustração, o container voltou a apresentar o mesmo bug!",
+		"exclamatory"
+	],
+	[
+		"O repositório ainda precisa de alguns ajustes finais.",
+		"declarative"
+	],
+	[
+		"O repositório já está funcionando sem erros.",
+		"declarative"
+	],
+	[
+		"Que abordagem devo usar para corrigir o container?",
+		"interrogative"
+	],
+	[
+		"Que orgulho terminar o container antes do prazo!",
+		"exclamatory"
+	],
+	[
+		"Você já verificou se houve alguma mudança no container?",
+		"interrogative"
+	],
+	[
+		"Que alívio, o endpoint finalmente funcionou!",
+		"exclamatory"
+	],
+	[
+		"Você sabe como configurar o endpoint corretamente?",
+		"interrogative"
+	],
+	[
+		"Vou revisar o container antes de enviar o pull request.",
+		"declarative"
+	],
+	[
+		"Você já verificou se houve alguma mudança no script?",
+		"interrogative"
+	],
+	[
+		"Qual é a melhor forma de testar o endpoint?",
+		"interrogative"
+	],
+	[
+		"Você conseguiria revisar o servidor até sexta-feira?",
+		"interrogative"
+	],
+	[
+		"A equipe aprovou as mudanças no script ontem.",
+		"declarative"
+	],
+	[
+		"Adorei como ficou o container depois da refatoração!",
+		"exclamatory"
+	],
+	[
+		"Que sorte, o algoritmo funcionou de primeira!",
+		"exclamatory"
+	],
+	[
+		"Você sabe como configurar o pipeline corretamente?",
+		"interrogative"
+	],
+	[
+		"Incrível como o repositório melhorou depois da atualização!",
+		"exclamatory"
+	],
+	[
+		"Que abordagem devo usar para corrigir o código?",
+		"interrogative"
+	],
+	[
+		"A equipe aprovou as mudanças no container ontem.",
+		"declarative"
+	],
+	[
+		"Que sorte, o repositório funcionou de primeira!",
+		"exclamatory"
+	],
+	[
+		"Terminei de documentar o componente para o próximo sprint.",
+		"declarative"
+	],
+	[
+		"Nossa, o pipeline está muito mais estável agora!",
+		"exclamatory"
+	],
+	[
+		"Como posso otimizar o endpoint?",
+		"interrogative"
+	],
+	[
+		"Vou revisar o algoritmo antes de enviar o pull request.",
+		"declarative"
+	],
+	[
+		"Terminei de documentar o código para o próximo sprint.",
+		"declarative"
+	],
+	[
+		"Você já verificou se houve alguma mudança no código?",
+		"interrogative"
+	],
+	[
+		"Você já verificou se houve alguma mudança no banco de dados?",
+		"interrogative"
+	],
+	[
+		"Puxa, o script deu mais trabalho do que eu imaginava!",
+		"exclamatory"
+	],
+	[
+		"Que susto, o container quase travou o sistema todo!",
+		"exclamatory"
+	],
+	[
+		"Por que o código está apresentando esse erro?",
+		"interrogative"
+	],
+	[
+		"Que alívio, o algoritmo finalmente funcionou!",
+		"exclamatory"
+	],
+	[
+		"O algoritmo estava causando lentidão no carregamento da página.",
+		"declarative"
+	],
+	[
+		"Adorei como ficou o pipeline depois da refatoração!",
+		"exclamatory"
+	],
+	[
+		"Que alívio, o container finalmente funcionou!",
+		"exclamatory"
+	],
+	[
+		"O pipeline ainda precisa de alguns ajustes finais.",
+		"declarative"
+	],
+	[
+		"O container ainda precisa de alguns ajustes finais.",
+		"declarative"
+	],
+	[
+		"A equipe aprovou as mudanças no repositório ontem.",
+		"declarative"
+	],
+	[
+		"Como posso otimizar o container?",
+		"interrogative"
+	],
+	[
+		"Que abordagem devo usar para corrigir o banco de dados?",
+		"interrogative"
+	],
+	[
+		"O banco de dados passou por todos os testes automatizados.",
+		"declarative"
+	],
+	[
+		"Onde devo declarar as dependências do servidor?",
+		"interrogative"
+	],
+	[
+		"Você pode me explicar como o componente funciona?",
+		"interrogative"
+	],
+	[
+		"Você pode me explicar como o servidor funciona?",
+		"interrogative"
+	],
+	[
+		"Impressionante como o código rodou sem nenhum erro!",
+		"exclamatory"
+	],
+	[
+		"Como faço para reiniciar o pipeline sem perder os dados?",
+		"interrogative"
+	],
+	[
+		"O pipeline não estava sincronizado com o servidor principal.",
+		"declarative"
+	],
+	[
+		"Nossa, o componente ficou incrivelmente rápido!",
+		"exclamatory"
+	],
+	[
+		"Quanto tempo leva para processar o servidor por completo?",
+		"interrogative"
+	],
+	[
+		"Que alegria ver o endpoint funcionando perfeitamente!",
+		"exclamatory"
+	],
+	[
+		"O algoritmo passou por todos os testes automatizados.",
+		"declarative"
+	],
+	[
+		"O que está causando a falha no script?",
+		"interrogative"
+	],
+	[
+		"Como faço para reiniciar o repositório sem perder os dados?",
+		"interrogative"
+	],
+	[
+		"O pipeline foi implementado seguindo o padrão da empresa.",
+		"declarative"
+	],
+	[
+		"Consegui corrigir o endpoint depois de várias tentativas.",
+		"declarative"
+	],
+	[
+		"Vou revisar o banco de dados antes de enviar o pull request.",
+		"declarative"
+	],
+	[
+		"Você conseguiria revisar o repositório até sexta-feira?",
+		"interrogative"
+	],
+	[
+		"Puxa, o container deu mais trabalho do que eu imaginava!",
+		"exclamatory"
+	],
+	[
+		"Impressionante como o script rodou sem nenhum erro!",
+		"exclamatory"
+	],
+	[
+		"É possível integrar o servidor com outro serviço?",
+		"interrogative"
+	],
+	[
+		"Vou revisar o endpoint antes de enviar o pull request.",
+		"declarative"
+	],
+	[
+		"O script já está funcionando sem erros.",
+		"declarative"
+	],
+	[
+		"Que trabalhão foi depurar o container essa madrugada!",
+		"exclamatory"
+	],
+	[
+		"Que frustração, o pipeline voltou a apresentar o mesmo bug!",
+		"exclamatory"
+	],
+	[
+		"Encontrei a causa do problema no repositório.",
+		"declarative"
+	],
+	[
+		"Que susto, o componente quase travou o sistema todo!",
+		"exclamatory"
+	],
+	[
+		"Qual biblioteca você recomenda para o algoritmo?",
+		"interrogative"
+	],
+	[
+		"Consegui corrigir o código depois de várias tentativas.",
+		"declarative"
+	],
+	[
+		"Já enviei o script para revisão do time de qualidade.",
+		"declarative"
+	],
+	[
+		"Estou tão feliz que o servidor passou em todos os testes!",
+		"exclamatory"
+	],
+	[
+		"Encontrei a causa do problema no componente.",
+		"declarative"
+	],
+	[
+		"Que alegria ver o código funcionando perfeitamente!",
+		"exclamatory"
+	],
+	[
+		"O algoritmo está consumindo mais memória do que o esperado.",
+		"declarative"
+	],
+	[
+		"Qual é a melhor forma de testar o algoritmo?",
+		"interrogative"
+	],
+	[
+		"O que está causando a falha no banco de dados?",
+		"interrogative"
+	],
+	[
+		"Impressionante como o container rodou sem nenhum erro!",
+		"exclamatory"
+	],
+	[
+		"Que trabalho difícil foi ajustar o repositório!",
+		"exclamatory"
+	],
+	[
+		"Impressionante como o repositório rodou sem nenhum erro!",
+		"exclamatory"
+	],
+	[
+		"Quanto tempo leva para processar o script por completo?",
+		"interrogative"
+	],
+	[
+		"Nossa, o código está muito mais estável agora!",
+		"exclamatory"
+	],
+	[
+		"Que loucura, o código processou tudo em segundos!",
+		"exclamatory"
+	],
+	[
+		"É possível integrar o componente com outro serviço?",
+		"interrogative"
+	],
+	[
+		"O servidor não estava sincronizado com o servidor principal.",
+		"declarative"
+	],
+	[
+		"Que abordagem devo usar para corrigir o script?",
+		"interrogative"
+	],
+	[
+		"Ufa, o algoritmo não quebrou depois do deploy!",
+		"exclamatory"
+	],
+	[
+		"Que trabalhão foi depurar o script essa madrugada!",
+		"exclamatory"
+	],
+	[
+		"Que trabalho difícil foi ajustar o banco de dados!",
+		"exclamatory"
+	],
+	[
+		"O container não estava sincronizado com o servidor principal.",
+		"declarative"
+	],
+	[
+		"Estou tão feliz que o banco de dados passou em todos os testes!",
+		"exclamatory"
+	],
+	[
+		"Como devo estruturar o código para escalar melhor?",
+		"interrogative"
+	],
+	[
+		"Que susto, o repositório quase travou o sistema todo!",
+		"exclamatory"
+	],
+	[
+		"Vou migrar o componente para a nova versão da biblioteca.",
+		"declarative"
+	],
+	[
+		"O banco de dados foi testado em três ambientes diferentes.",
+		"declarative"
+	],
+	[
+		"Que orgulho terminar o repositório antes do prazo!",
+		"exclamatory"
+	],
+	[
+		"Onde devo declarar as dependências do script?",
+		"interrogative"
+	],
+	[
+		"Você já verificou se houve alguma mudança no repositório?",
+		"interrogative"
+	],
+	[
+		"O componente está consumindo mais memória do que o esperado.",
+		"declarative"
+	],
+	[
+		"O banco de dados está consumindo mais memória do que o esperado.",
+		"declarative"
+	],
+	[
+		"Como faço para reiniciar o servidor sem perder os dados?",
+		"interrogative"
+	],
+	[
+		"Quem ficou responsável por revisar o servidor?",
+		"interrogative"
+	],
+	[
+		"Ufa, o banco de dados não quebrou depois do deploy!",
+		"exclamatory"
+	],
+	[
+		"Vou revisar o componente antes de enviar o pull request.",
+		"declarative"
+	],
+	[
+		"Onde devo declarar as dependências do container?",
+		"interrogative"
+	],
+	[
+		"Você conseguiria revisar o banco de dados até sexta-feira?",
+		"interrogative"
+	],
+	[
+		"O script ainda precisa de alguns ajustes finais.",
+		"declarative"
+	],
+	[
+		"O código ainda precisa de alguns ajustes finais.",
+		"declarative"
+	],
+	[
+		"Você pode me explicar como o código funciona?",
+		"interrogative"
+	],
+	[
+		"O script passou por todos os testes automatizados.",
+		"declarative"
+	],
+	[
+		"O pipeline apresentou um comportamento inesperado ontem.",
+		"declarative"
+	],
+	[
+		"O servidor passou por todos os testes automatizados.",
+		"declarative"
+	],
+	[
+		"O relatório mostra que o repositório melhorou o tempo de resposta.",
+		"declarative"
+	],
+	[
+		"Nossa, o script ficou incrivelmente rápido!",
+		"exclamatory"
+	],
+	[
+		"Que trabalhão foi depurar o pipeline essa madrugada!",
+		"exclamatory"
+	],
+	[
+		"Incrível como o algoritmo melhorou depois da atualização!",
+		"exclamatory"
+	],
+	[
+		"O pipeline já está funcionando sem erros.",
+		"declarative"
+	],
+	[
+		"Que frustração, o script voltou a apresentar o mesmo bug!",
+		"exclamatory"
+	],
+	[
+		"O componente foi implementado seguindo o padrão da empresa.",
+		"declarative"
+	],
+	[
+		"Qual biblioteca você recomenda para o endpoint?",
+		"interrogative"
+	],
+	[
+		"O código já está funcionando sem erros.",
+		"declarative"
+	],
+	[
+		"Que alegria ver o servidor funcionando perfeitamente!",
+		"exclamatory"
+	],
+	[
+		"Como faço para reiniciar o container sem perder os dados?",
+		"interrogative"
+	],
+	[
+		"Impressionante como o pipeline rodou sem nenhum erro!",
+		"exclamatory"
+	],
+	[
+		"O servidor foi testado em três ambientes diferentes.",
+		"declarative"
+	],
+	[
+		"Que confusão foi configurar o código sozinho!",
+		"exclamatory"
+	],
+	[
+		"Configurei o algoritmo para rodar automaticamente todas as noites.",
+		"declarative"
+	],
+	[
+		"Estou tão feliz que o pipeline passou em todos os testes!",
+		"exclamatory"
+	],
+	[
+		"O algoritmo não estava sincronizado com o servidor principal.",
+		"declarative"
+	],
+	[
+		"Como devo estruturar o algoritmo para escalar melhor?",
+		"interrogative"
+	],
+	[
+		"Que confusão foi configurar o banco de dados sozinho!",
+		"exclamatory"
+	],
+	[
+		"Por que o repositório continua retornando um valor incorreto?",
+		"interrogative"
+	],
+	[
+		"Que trabalho difícil foi ajustar o código!",
+		"exclamatory"
+	],
+	[
+		"O relatório mostra que o servidor melhorou o tempo de resposta.",
+		"declarative"
+	],
+	[
+		"Por que o código continua retornando um valor incorreto?",
+		"interrogative"
+	],
+	[
+		"Finalmente consegui resolver o problema no componente!",
+		"exclamatory"
+	],
+	[
+		"Terminei de documentar o banco de dados para o próximo sprint.",
+		"declarative"
+	],
+	[
+		"Quando devo atualizar o pipeline para a nova versão?",
+		"interrogative"
+	],
+	[
+		"A equipe aprovou as mudanças no algoritmo ontem.",
+		"declarative"
+	],
+	[
+		"Como faço para reiniciar o código sem perder os dados?",
+		"interrogative"
+	],
+	[
+		"Quando devo atualizar o endpoint para a nova versão?",
+		"interrogative"
+	],
+	[
+		"Nossa, o endpoint está muito mais estável agora!",
+		"exclamatory"
+	],
+	[
+		"É possível integrar o container com outro serviço?",
+		"interrogative"
+	],
+	[
+		"Finalmente consegui resolver o problema no container!",
+		"exclamatory"
+	],
+	[
+		"Que susto, o algoritmo quase travou o sistema todo!",
+		"exclamatory"
+	],
+	[
+		"O algoritmo já está funcionando sem erros.",
+		"declarative"
+	],
+	[
+		"Qual é a melhor forma de testar o servidor?",
+		"interrogative"
+	],
+	[
+		"Que sorte, o componente funcionou de primeira!",
+		"exclamatory"
+	],
+	[
+		"Você sabe como configurar o servidor corretamente?",
+		"interrogative"
+	],
+	[
+		"O relatório mostra que o código melhorou o tempo de resposta.",
+		"declarative"
+	],
+	[
+		"Impressionante como o endpoint rodou sem nenhum erro!",
+		"exclamatory"
+	],
+	[
+		"Já enviei o banco de dados para revisão do time de qualidade.",
+		"declarative"
+	],
+	[
+		"Por que o container continua retornando um valor incorreto?",
+		"interrogative"
+	],
+	[
+		"Como faço para reiniciar o script sem perder os dados?",
+		"interrogative"
+	],
+	[
+		"Vou migrar o endpoint para a nova versão da biblioteca.",
+		"declarative"
+	],
+	[
+		"Onde encontro a documentação do banco de dados?",
+		"interrogative"
+	],
+	[
+		"Impressionante como o algoritmo rodou sem nenhum erro!",
+		"exclamatory"
+	],
+	[
+		"Que confusão foi configurar o script sozinho!",
+		"exclamatory"
+	],
+	[
+		"Quanto tempo leva para processar o pipeline por completo?",
+		"interrogative"
+	],
+	[
+		"Terminei de documentar o container para o próximo sprint.",
+		"declarative"
+	],
+	[
+		"É possível integrar o pipeline com outro serviço?",
+		"interrogative"
+	],
+	[
+		"Estou tão feliz que o componente passou em todos os testes!",
+		"exclamatory"
+	],
+	[
+		"O componente já está funcionando sem erros.",
+		"declarative"
+	],
+	[
+		"Que trabalhão foi depurar o algoritmo essa madrugada!",
+		"exclamatory"
+	],
+	[
+		"Existe alguma alternativa mais simples do que o script?",
+		"interrogative"
+	],
+	[
+		"O container passou por todos os testes automatizados.",
+		"declarative"
+	],
+	[
+		"Adorei como ficou o algoritmo depois da refatoração!",
+		"exclamatory"
+	],
+	[
+		"Qual é a melhor forma de testar o pipeline?",
+		"interrogative"
+	],
+	[
+		"Estou tão feliz que o script passou em todos os testes!",
+		"exclamatory"
+	],
+	[
+		"Configurei o componente para rodar automaticamente todas as noites.",
+		"declarative"
+	],
+	[
+		"Configurei o repositório para rodar automaticamente todas as noites.",
+		"declarative"
+	],
+	[
+		"Impressionante como o banco de dados rodou sem nenhum erro!",
+		"exclamatory"
+	],
+	[
+		"Qual biblioteca você recomenda para o componente?",
+		"interrogative"
+	],
+	[
+		"Que alegria ver o pipeline funcionando perfeitamente!",
+		"exclamatory"
+	],
+	[
+		"Que loucura, o servidor processou tudo em segundos!",
+		"exclamatory"
+	],
+	[
+		"Que alegria ver o componente funcionando perfeitamente!",
+		"exclamatory"
+	],
+	[
+		"Ufa, o repositório não quebrou depois do deploy!",
+		"exclamatory"
+	],
+	[
+		"Por que o algoritmo continua retornando um valor incorreto?",
+		"interrogative"
+	],
+	[
+		"Decidi refatorar o container para melhorar a performance.",
+		"declarative"
+	],
+	[
+		"Terminei de documentar o endpoint para o próximo sprint.",
+		"declarative"
+	],
+	[
+		"Finalmente consegui resolver o problema no código!",
+		"exclamatory"
+	],
+	[
+		"O banco de dados apresentou um comportamento inesperado ontem.",
+		"declarative"
+	],
+	[
+		"Onde encontro a documentação do endpoint?",
+		"interrogative"
+	],
+	[
+		"Que sorte, o código funcionou de primeira!",
+		"exclamatory"
+	],
+	[
+		"Quando devo atualizar o servidor para a nova versão?",
+		"interrogative"
+	],
+	[
+		"O que está causando a falha no código?",
+		"interrogative"
+	],
+	[
+		"Decidi refatorar o código para melhorar a performance.",
+		"declarative"
+	],
+	[
+		"Encontrei a causa do problema no servidor.",
+		"declarative"
+	],
+	[
+		"O componente estava causando lentidão no carregamento da página.",
+		"declarative"
+	],
+	[
+		"Como posso otimizar o banco de dados?",
+		"interrogative"
+	],
+	[
+		"Você pode me explicar como o container funciona?",
+		"interrogative"
+	],
+	[
+		"Que loucura, o repositório processou tudo em segundos!",
+		"exclamatory"
+	],
+	[
+		"Por que o pipeline está apresentando esse erro?",
+		"interrogative"
+	],
+	[
+		"Você pode me explicar como o pipeline funciona?",
+		"interrogative"
+	],
+	[
+		"Onde encontro a documentação do servidor?",
+		"interrogative"
+	],
+	[
+		"Vou migrar o banco de dados para a nova versão da biblioteca.",
+		"declarative"
+	],
+	[
+		"Quem ficou responsável por revisar o componente?",
+		"interrogative"
+	],
+	[
+		"Existe alguma alternativa mais simples do que o repositório?",
+		"interrogative"
+	],
+	[
+		"Onde encontro a documentação do algoritmo?",
+		"interrogative"
+	],
+	[
+		"O endpoint passou por todos os testes automatizados.",
+		"declarative"
+	],
+	[
+		"Que orgulho terminar o banco de dados antes do prazo!",
+		"exclamatory"
+	],
+	[
+		"Quem ficou responsável por revisar o algoritmo?",
+		"interrogative"
+	],
+	[
+		"O endpoint depende de uma variável que não foi definida.",
+		"declarative"
+	],
+	[
+		"Incrível como o pipeline melhorou depois da atualização!",
+		"exclamatory"
+	],
+	[
+		"Que alívio, o componente finalmente funcionou!",
+		"exclamatory"
+	],
+	[
+		"Que alegria ver o algoritmo funcionando perfeitamente!",
+		"exclamatory"
+	],
+	[
+		"Por que o repositório está apresentando esse erro?",
+		"interrogative"
+	],
+	[
+		"Por que o servidor continua retornando um valor incorreto?",
+		"interrogative"
+	],
+	[
+		"Por que o endpoint está apresentando esse erro?",
+		"interrogative"
+	],
+	[
+		"O repositório está consumindo mais memória do que o esperado.",
+		"declarative"
+	],
+	[
+		"Quem ficou responsável por revisar o banco de dados?",
+		"interrogative"
+	],
+	[
+		"Nossa, o código ficou incrivelmente rápido!",
+		"exclamatory"
+	],
+	[
+		"Por que o script continua retornando um valor incorreto?",
+		"interrogative"
+	],
+	[
+		"Puxa, o pipeline deu mais trabalho do que eu imaginava!",
+		"exclamatory"
+	],
+	[
+		"Qual é a melhor forma de testar o banco de dados?",
+		"interrogative"
+	],
+	[
+		"Terminei de documentar o repositório para o próximo sprint.",
+		"declarative"
+	],
+	[
+		"Você já verificou se houve alguma mudança no servidor?",
+		"interrogative"
+	],
+	[
+		"Você sabe como configurar o banco de dados corretamente?",
+		"interrogative"
+	],
+	[
+		"Quem ficou responsável por revisar o endpoint?",
+		"interrogative"
+	],
+	[
+		"Onde encontro a documentação do container?",
+		"interrogative"
+	],
+	[
+		"Que susto, o script quase travou o sistema todo!",
+		"exclamatory"
+	],
+	[
+		"O repositório foi implementado seguindo o padrão da empresa.",
+		"declarative"
+	],
+	[
+		"Que orgulho terminar o endpoint antes do prazo!",
+		"exclamatory"
+	],
+	[
+		"Já enviei o componente para revisão do time de qualidade.",
+		"declarative"
+	],
+	[
+		"Decidi refatorar o script para melhorar a performance.",
+		"declarative"
+	],
+	[
+		"Quem ficou responsável por revisar o script?",
+		"interrogative"
+	],
+	[
+		"Por que o banco de dados está apresentando esse erro?",
+		"interrogative"
+	],
+	[
+		"É possível integrar o script com outro serviço?",
+		"interrogative"
+	],
+	[
+		"Você conseguiria revisar o pipeline até sexta-feira?",
+		"interrogative"
+	],
+	[
+		"O endpoint foi implementado seguindo o padrão da empresa.",
+		"declarative"
+	],
+	[
+		"Você conseguiria revisar o script até sexta-feira?",
+		"interrogative"
+	],
+	[
+		"Incrível como o banco de dados melhorou depois da atualização!",
+		"exclamatory"
+	],
+	[
+		"Que loucura, o algoritmo processou tudo em segundos!",
+		"exclamatory"
+	],
+	[
+		"Adorei como ficou o componente depois da refatoração!",
+		"exclamatory"
+	],
+	[
+		"O script não estava sincronizado com o servidor principal.",
+		"declarative"
+	],
+	[
+		"Puxa, o componente deu mais trabalho do que eu imaginava!",
+		"exclamatory"
+	],
+	[
+		"O algoritmo foi testado em três ambientes diferentes.",
+		"declarative"
+	],
+	[
+		"Você pode me explicar como o endpoint funciona?",
+		"interrogative"
+	],
+	[
+		"Qual é a melhor forma de testar o script?",
+		"interrogative"
+	],
+	[
+		"O endpoint ainda precisa de alguns ajustes finais.",
+		"declarative"
+	],
+	[
+		"Decidi refatorar o algoritmo para melhorar a performance.",
+		"declarative"
+	],
+	[
+		"Configurei o endpoint para rodar automaticamente todas as noites.",
+		"declarative"
+	],
+	[
+		"Você conseguiria revisar o código até sexta-feira?",
+		"interrogative"
+	],
+	[
+		"Qual biblioteca você recomenda para o código?",
+		"interrogative"
+	],
+	[
+		"O código foi testado em três ambientes diferentes.",
+		"declarative"
+	],
+	[
+		"Onde encontro a documentação do repositório?",
+		"interrogative"
+	],
+	[
+		"O repositório passou por todos os testes automatizados.",
+		"declarative"
+	],
+	[
+		"Ufa, o pipeline não quebrou depois do deploy!",
+		"exclamatory"
+	],
+	[
+		"Que susto, o código quase travou o sistema todo!",
+		"exclamatory"
+	],
+	[
+		"O banco de dados ainda precisa de alguns ajustes finais.",
+		"declarative"
+	],
+	[
+		"Quem ficou responsável por revisar o código?",
+		"interrogative"
+	],
+	[
+		"Que abordagem devo usar para corrigir o servidor?",
+		"interrogative"
+	],
+	[
+		"É possível integrar o repositório com outro serviço?",
+		"interrogative"
+	],
+	[
+		"A equipe aprovou as mudanças no pipeline ontem.",
+		"declarative"
+	],
+	[
+		"Onde encontro a documentação do pipeline?",
+		"interrogative"
+	],
+	[
+		"A equipe aprovou as mudanças no banco de dados ontem.",
+		"declarative"
+	],
+	[
+		"Que orgulho terminar o script antes do prazo!",
+		"exclamatory"
+	],
+	[
+		"Quanto tempo leva para processar o banco de dados por completo?",
+		"interrogative"
+	],
+	[
+		"Você sabe como configurar o código corretamente?",
+		"interrogative"
+	],
+	[
+		"O relatório mostra que o pipeline melhorou o tempo de resposta.",
+		"declarative"
+	],
+	[
+		"Que loucura, o endpoint processou tudo em segundos!",
+		"exclamatory"
+	],
+	[
+		"Quanto tempo leva para processar o container por completo?",
+		"interrogative"
+	],
+	[
+		"Que orgulho terminar o código antes do prazo!",
+		"exclamatory"
+	],
+	[
+		"O script foi implementado seguindo o padrão da empresa.",
+		"declarative"
+	],
+	[
+		"O endpoint já está funcionando sem erros.",
+		"declarative"
+	],
+	[
+		"Existe alguma alternativa mais simples do que o banco de dados?",
+		"interrogative"
+	],
+	[
+		"Que confusão foi configurar o pipeline sozinho!",
+		"exclamatory"
+	],
+	[
+		"Você sabe como configurar o componente corretamente?",
+		"interrogative"
+	],
+	[
+		"Uau, não esperava que o pipeline fosse tão simples!",
+		"exclamatory"
+	],
+	[
+		"Que orgulho terminar o servidor antes do prazo!",
+		"exclamatory"
+	],
+	[
+		"Como posso otimizar o script?",
+		"interrogative"
+	],
+	[
+		"Que loucura, o banco de dados processou tudo em segundos!",
+		"exclamatory"
+	],
+	[
+		"O repositório apresentou um comportamento inesperado ontem.",
+		"declarative"
+	],
+	[
+		"Que alegria ver o repositório funcionando perfeitamente!",
+		"exclamatory"
+	],
+	[
+		"Qual é a melhor forma de testar o container?",
+		"interrogative"
+	],
+	[
+		"Você sabe como configurar o script corretamente?",
+		"interrogative"
+	],
+	[
+		"A equipe aprovou as mudanças no componente ontem.",
+		"declarative"
+	],
+	[
+		"Vou revisar o código antes de enviar o pull request.",
+		"declarative"
+	],
+	[
+		"Vou revisar o servidor antes de enviar o pull request.",
+		"declarative"
+	],
+	[
+		"Que trabalho difícil foi ajustar o servidor!",
+		"exclamatory"
+	],
+	[
+		"O pipeline foi testado em três ambientes diferentes.",
+		"declarative"
+	],
+	[
+		"Que sorte, o container funcionou de primeira!",
+		"exclamatory"
+	],
+	[
+		"O banco de dados não estava sincronizado com o servidor principal.",
+		"declarative"
+	],
+	[
+		"O servidor depende de uma variável que não foi definida.",
+		"declarative"
+	],
+	[
+		"Você sabe como configurar o container corretamente?",
+		"interrogative"
+	],
+	[
+		"Quando devo atualizar o código para a nova versão?",
+		"interrogative"
+	],
+	[
+		"Existe alguma alternativa mais simples do que o algoritmo?",
+		"interrogative"
+	],
+	[
+		"O componente apresentou um comportamento inesperado ontem.",
+		"declarative"
+	],
+	[
+		"Encontrei a causa do problema no banco de dados.",
+		"declarative"
+	]
+]

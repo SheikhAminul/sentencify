@@ -1,0 +1,9526 @@
+[
+	[
+		"Ain't it the truth?",
+		"interrogative"
+	],
+	[
+		"Ain't you coming?",
+		"interrogative"
+	],
+	[
+		"Am I allowed to share this document with the external team?",
+		"interrogative"
+	],
+	[
+		"Am I glad to see you!",
+		"interrogative"
+	],
+	[
+		"Am I not invited?",
+		"interrogative"
+	],
+	[
+		"Am I tired!",
+		"interrogative"
+	],
+	[
+		"Any questions?",
+		"interrogative"
+	],
+	[
+		"Any thoughts?",
+		"interrogative"
+	],
+	[
+		"Anything else?",
+		"interrogative"
+	],
+	[
+		"Are functional components better than class components nowadays?",
+		"interrogative"
+	],
+	[
+		"Are there any alternatives to MongoDB for NoSQL?",
+		"interrogative"
+	],
+	[
+		"Are there any best practices for writing Dockerfiles?",
+		"interrogative"
+	],
+	[
+		"Are there any blockers?",
+		"interrogative"
+	],
+	[
+		"Are there any good apps for tracking macros?",
+		"interrogative"
+	],
+	[
+		"Are there any good datasets for sentiment analysis?",
+		"interrogative"
+	],
+	[
+		"Are there any good libraries for parsing XML in Python?",
+		"interrogative"
+	],
+	[
+		"Are there any good resources for practicing LeetCode problems?",
+		"interrogative"
+	],
+	[
+		"Are there any good writing communities online?",
+		"interrogative"
+	],
+	[
+		"Are there any prompts to make you act like a pirate?",
+		"interrogative"
+	],
+	[
+		"Are there any questions?",
+		"interrogative"
+	],
+	[
+		"Are there any shortcuts for navigating large datasets?",
+		"interrogative"
+	],
+	[
+		"Are there any specific guidelines for the final submission?",
+		"interrogative"
+	],
+	[
+		"Are there any specific questions I should ask the interviewer?",
+		"interrogative"
+	],
+	[
+		"Are there any templates for project status updates?",
+		"interrogative"
+	],
+	[
+		"Are there any tools for visualizing memory usage?",
+		"interrogative"
+	],
+	[
+		"Are there any tools to check for grammatical errors?",
+		"interrogative"
+	],
+	[
+		"Are there any travel restrictions I should be aware of?",
+		"interrogative"
+	],
+	[
+		"Are there any updates from the design team?",
+		"interrogative"
+	],
+	[
+		"Are there going to be problems?",
+		"interrogative"
+	],
+	[
+		"Are they allowed to enter?",
+		"interrogative"
+	],
+	[
+		"Are they being watched?",
+		"interrogative"
+	],
+	[
+		"Are they ready?",
+		"interrogative"
+	],
+	[
+		"Are we aligned on the strategy?",
+		"interrogative"
+	],
+	[
+		"Are we all aligned on the priorities for this quarter?",
+		"interrogative"
+	],
+	[
+		"Are we allowed to smoke?",
+		"interrogative"
+	],
+	[
+		"Are we caching the results?",
+		"interrogative"
+	],
+	[
+		"Are we compliant with the new regulations?",
+		"interrogative"
+	],
+	[
+		"Are we covered by warranty?",
+		"interrogative"
+	],
+	[
+		"Are we doing a full audit?",
+		"interrogative"
+	],
+	[
+		"Are we doing a retrospective?",
+		"interrogative"
+	],
+	[
+		"Are we good to proceed?",
+		"interrogative"
+	],
+	[
+		"Are we just going to ignore the elephant in the room?",
+		"interrogative"
+	],
+	[
+		"Are we locked in?",
+		"interrogative"
+	],
+	[
+		"Are we looking for a short-term fix or a long-term solution?",
+		"interrogative"
+	],
+	[
+		"Are we meeting in person or remote?",
+		"interrogative"
+	],
+	[
+		"Are we not friends?",
+		"interrogative"
+	],
+	[
+		"Are we on the latest version?",
+		"interrogative"
+	],
+	[
+		"Are we over-engineering this?",
+		"interrogative"
+	],
+	[
+		"Are we prioritizing speed or quality for this release?",
+		"interrogative"
+	],
+	[
+		"Are we ready for the launch?",
+		"interrogative"
+	],
+	[
+		"Are we really surprised that the competition beat us to market?",
+		"interrogative"
+	],
+	[
+		"Are we seeing any spikes?",
+		"interrogative"
+	],
+	[
+		"Are we still on track for the launch date?",
+		"interrogative"
+	],
+	[
+		"Are we targeting a local or an international audience?",
+		"interrogative"
+	],
+	[
+		"Are we there yet?",
+		"interrogative"
+	],
+	[
+		"Are we to wait here?",
+		"interrogative"
+	],
+	[
+		"Are we to wait?",
+		"interrogative"
+	],
+	[
+		"Are we tracking against our KPIs?",
+		"interrogative"
+	],
+	[
+		"Are we using HTTPS?",
+		"interrogative"
+	],
+	[
+		"Are we using straight-line?",
+		"interrogative"
+	],
+	[
+		"Are we using the new API?",
+		"interrogative"
+	],
+	[
+		"Are we using the old framework or migrating to the new one?",
+		"interrogative"
+	],
+	[
+		"Are you a morning person?",
+		"interrogative"
+	],
+	[
+		"Are you able to come?",
+		"interrogative"
+	],
+	[
+		"Are you able to help?",
+		"interrogative"
+	],
+	[
+		"Are you available for a quick call today?",
+		"interrogative"
+	],
+	[
+		"Are you comfortable presenting this to the board?",
+		"interrogative"
+	],
+	[
+		"Are you coming or not?",
+		"interrogative"
+	],
+	[
+		"Are you coming or what?",
+		"interrogative"
+	],
+	[
+		"Are you coming to the party tonight?",
+		"interrogative"
+	],
+	[
+		"Are you coming today or tomorrow?",
+		"interrogative"
+	],
+	[
+		"Are you coming with us?",
+		"interrogative"
+	],
+	[
+		"Are you coming?",
+		"interrogative"
+	],
+	[
+		"Are you crazy?",
+		"interrogative"
+	],
+	[
+		"Are you feeling okay?",
+		"interrogative"
+	],
+	[
+		"Are you free for a call?",
+		"interrogative"
+	],
+	[
+		"Are you free to hop on a quick call?",
+		"interrogative"
+	],
+	[
+		"Are you going or not?",
+		"interrogative"
+	],
+	[
+		"Are you going to attend?",
+		"interrogative"
+	],
+	[
+		"Are you going to come?",
+		"interrogative"
+	],
+	[
+		"Are you okay with how the meeting went today?",
+		"interrogative"
+	],
+	[
+		"Are you ready to order?",
+		"interrogative"
+	],
+	[
+		"Are you seriously going to wear that to the interview?",
+		"interrogative"
+	],
+	[
+		"Are you staying or leaving?",
+		"interrogative"
+	],
+	[
+		"Are you sure this is the right address?",
+		"interrogative"
+	],
+	[
+		"Are you sure?",
+		"interrogative"
+	],
+	[
+		"Aren't they coming?",
+		"interrogative"
+	],
+	[
+		"Aren't you happy?",
+		"interrogative"
+	],
+	[
+		"At what time shall we meet?",
+		"interrogative"
+	],
+	[
+		"Boy, did I mess up!",
+		"interrogative"
+	],
+	[
+		"Boy, did we have fun!",
+		"interrogative"
+	],
+	[
+		"By whom was it discovered?",
+		"interrogative"
+	],
+	[
+		"By whom was it written?",
+		"interrogative"
+	],
+	[
+		"Can I ask a question?",
+		"interrogative"
+	],
+	[
+		"Can I borrow your pen?",
+		"interrogative"
+	],
+	[
+		"Can I get a receipt?",
+		"interrogative"
+	],
+	[
+		"Can I get you something?",
+		"interrogative"
+	],
+	[
+		"Can I get your thoughts on the wording here?",
+		"interrogative"
+	],
+	[
+		"Can I pay for this with cash or credit card?",
+		"interrogative"
+	],
+	[
+		"Can pigs fly?",
+		"interrogative"
+	],
+	[
+		"Can someone confirm whether the invite went out?",
+		"interrogative"
+	],
+	[
+		"Can someone take the action item?",
+		"interrogative"
+	],
+	[
+		"Can the system handle English and Spanish?",
+		"interrogative"
+	],
+	[
+		"Can there be any doubt?",
+		"interrogative"
+	],
+	[
+		"Can we adjust the forecast?",
+		"interrogative"
+	],
+	[
+		"Can we do a dry run?",
+		"interrogative"
+	],
+	[
+		"Can we ever truly secure our data against all threats?",
+		"interrogative"
+	],
+	[
+		"Can we export the data?",
+		"interrogative"
+	],
+	[
+		"Can we file an extension?",
+		"interrogative"
+	],
+	[
+		"Can we finalize the guest list by tomorrow morning?",
+		"interrogative"
+	],
+	[
+		"Can we get a demo?",
+		"interrogative"
+	],
+	[
+		"Can we get a quick status update?",
+		"interrogative"
+	],
+	[
+		"Can we get a refund?",
+		"interrogative"
+	],
+	[
+		"Can we get a rough estimate on the cost?",
+		"interrogative"
+	],
+	[
+		"Can we get a status update before the end of the day?",
+		"interrogative"
+	],
+	[
+		"Can we get an update on the shipment status?",
+		"interrogative"
+	],
+	[
+		"Can we get this in writing?",
+		"interrogative"
+	],
+	[
+		"Can we go back a slide?",
+		"interrogative"
+	],
+	[
+		"Can we increase the memory?",
+		"interrogative"
+	],
+	[
+		"Can we move this to next week?",
+		"interrogative"
+	],
+	[
+		"Can we move to the next topic?",
+		"interrogative"
+	],
+	[
+		"Can we mute for a second?",
+		"interrogative"
+	],
+	[
+		"Can we negotiate the price?",
+		"interrogative"
+	],
+	[
+		"Can we push the deadline back a bit?",
+		"interrogative"
+	],
+	[
+		"Can we reschedule the appointment?",
+		"interrogative"
+	],
+	[
+		"Can we resolve this issue with a patch or do we need a full rollback?",
+		"interrogative"
+	],
+	[
+		"Can we schedule a follow-up interview next week?",
+		"interrogative"
+	],
+	[
+		"Can we schedule a follow-up once the data comes in?",
+		"interrogative"
+	],
+	[
+		"Can we schedule a follow-up?",
+		"interrogative"
+	],
+	[
+		"Can we shelve this for now?",
+		"interrogative"
+	],
+	[
+		"Can we start the audit?",
+		"interrogative"
+	],
+	[
+		"Can we table this discussion?",
+		"interrogative"
+	],
+	[
+		"Can we talk about the timeline again?",
+		"interrogative"
+	],
+	[
+		"Can we wrap this up?",
+		"interrogative"
+	],
+	[
+		"Can you believe this traffic?",
+		"interrogative"
+	],
+	[
+		"Can you call me back in ten minutes?",
+		"interrogative"
+	],
+	[
+		"Can you check the network?",
+		"interrogative"
+	],
+	[
+		"Can you check?",
+		"interrogative"
+	],
+	[
+		"Can you clarify what you meant by that last point?",
+		"interrogative"
+	],
+	[
+		"Can you create a workout plan for beginners?",
+		"interrogative"
+	],
+	[
+		"Can you elaborate on that point?",
+		"interrogative"
+	],
+	[
+		"Can you explain how gradient descent works?",
+		"interrogative"
+	],
+	[
+		"Can you explain how neural networks work?",
+		"interrogative"
+	],
+	[
+		"Can you explain how this ties back to our goals?",
+		"interrogative"
+	],
+	[
+		"Can you explain how to write a nested IF statement?",
+		"interrogative"
+	],
+	[
+		"Can you explain the architecture?",
+		"interrogative"
+	],
+	[
+		"Can you explain the difference between BFS and DFS?",
+		"interrogative"
+	],
+	[
+		"Can you explain the difference between git merge and git rebase?",
+		"interrogative"
+	],
+	[
+		"Can you explain the difference between LEFT JOIN and INNER JOIN?",
+		"interrogative"
+	],
+	[
+		"Can you explain the difference between useMemo and useCallback?",
+		"interrogative"
+	],
+	[
+		"Can you explain why the system crashed yesterday?",
+		"interrogative"
+	],
+	[
+		"Can you give me a mock interview for a system design question?",
+		"interrogative"
+	],
+	[
+		"Can you hear me okay?",
+		"interrogative"
+	],
+	[
+		"Can you help me brainstorm some character names?",
+		"interrogative"
+	],
+	[
+		"Can you help me debug this function?",
+		"interrogative"
+	],
+	[
+		"Can you help me decode this minified JavaScript error?",
+		"interrogative"
+	],
+	[
+		"Can you help me with this?",
+		"interrogative"
+	],
+	[
+		"Can you help me write a follow-up email?",
+		"interrogative"
+	],
+	[
+		"Can you imagine working under those conditions?",
+		"interrogative"
+	],
+	[
+		"Can you ping me when it's done?",
+		"interrogative"
+	],
+	[
+		"Can you process images as well as text?",
+		"interrogative"
+	],
+	[
+		"Can you proofread this before I send it?",
+		"interrogative"
+	],
+	[
+		"Can you provide the receipts?",
+		"interrogative"
+	],
+	[
+		"Can you recommend some good restaurants in Kyoto?",
+		"interrogative"
+	],
+	[
+		"Can you remind me what the Wi-Fi password is?",
+		"interrogative"
+	],
+	[
+		"Can you remind me what this parameter does?",
+		"interrogative"
+	],
+	[
+		"Can you remind me what we agreed on last time?",
+		"interrogative"
+	],
+	[
+		"Can you repeat that?",
+		"interrogative"
+	],
+	[
+		"Can you resend the invite?",
+		"interrogative"
+	],
+	[
+		"Can you review my PR?",
+		"interrogative"
+	],
+	[
+		"Can you run the report?",
+		"interrogative"
+	],
+	[
+		"Can you send me the file?",
+		"interrogative"
+	],
+	[
+		"Can you send me the link to the shared folder?",
+		"interrogative"
+	],
+	[
+		"Can you send the invoice?",
+		"interrogative"
+	],
+	[
+		"Can you share the recording?",
+		"interrogative"
+	],
+	[
+		"Can you share your screen?",
+		"interrogative"
+	],
+	[
+		"Can you sign here?",
+		"interrogative"
+	],
+	[
+		"Can you summarize the key points?",
+		"interrogative"
+	],
+	[
+		"Can you swim?",
+		"interrogative"
+	],
+	[
+		"Can you tell me what time it is?",
+		"interrogative"
+	],
+	[
+		"Can you tell me where he went?",
+		"interrogative"
+	],
+	[
+		"Can you tell me why the tests keep timing out?",
+		"interrogative"
+	],
+	[
+		"Can you text me the details?",
+		"interrogative"
+	],
+	[
+		"Can you translate this text into Klingon?",
+		"interrogative"
+	],
+	[
+		"Can you verify the checksum?",
+		"interrogative"
+	],
+	[
+		"Can you walk me through the authentication flow?",
+		"interrogative"
+	],
+	[
+		"Can you walk me through your thought process on this?",
+		"interrogative"
+	],
+	[
+		"Can you write a regex that captures the phone numbers from this text?",
+		"interrogative"
+	],
+	[
+		"Can't you help?",
+		"interrogative"
+	],
+	[
+		"Can't you just ask?",
+		"interrogative"
+	],
+	[
+		"Can't you see it?",
+		"interrogative"
+	],
+	[
+		"Coffee or tea before we start?",
+		"interrogative"
+	],
+	[
+		"Could anyone actually believe such a ridiculous claim?",
+		"interrogative"
+	],
+	[
+		"Could I borrow your pen?",
+		"interrogative"
+	],
+	[
+		"Could I get a second pair of eyes on this?",
+		"interrogative"
+	],
+	[
+		"Could I have a word?",
+		"interrogative"
+	],
+	[
+		"Could it be true?",
+		"interrogative"
+	],
+	[
+		"Could someone explain what this abbreviation stands for?",
+		"interrogative"
+	],
+	[
+		"Could there be a problem?",
+		"interrogative"
+	],
+	[
+		"Could things get any worse?",
+		"interrogative"
+	],
+	[
+		"Could this be a race condition?",
+		"interrogative"
+	],
+	[
+		"Could we get another pair of eyes on this before submitting?",
+		"interrogative"
+	],
+	[
+		"Could we push this discussion to next week instead?",
+		"interrogative"
+	],
+	[
+		"Could you break down the steps of the Euclidean algorithm?",
+		"interrogative"
+	],
+	[
+		"Could you check if this passes on your machine?",
+		"interrogative"
+	],
+	[
+		"Could you check whether the token refresh logic works?",
+		"interrogative"
+	],
+	[
+		"Could you clarify what 'done' means here?",
+		"interrogative"
+	],
+	[
+		"Could you clarify what you meant by 'synergy' in this context?",
+		"interrogative"
+	],
+	[
+		"Could you critique the opening paragraph of my book?",
+		"interrogative"
+	],
+	[
+		"Could you double check the endpoint URL?",
+		"interrogative"
+	],
+	[
+		"Could you double-check those figures before we send them out?",
+		"interrogative"
+	],
+	[
+		"Could you explain how promises work?",
+		"interrogative"
+	],
+	[
+		"Could you explain how to rotate proxies in Python?",
+		"interrogative"
+	],
+	[
+		"Could you explain how to set up breakpoints in VS Code?",
+		"interrogative"
+	],
+	[
+		"Could you explain the benefits of the keto diet?",
+		"interrogative"
+	],
+	[
+		"Could you have seen him?",
+		"interrogative"
+	],
+	[
+		"Could you help me brainstorm a catchy headline?",
+		"interrogative"
+	],
+	[
+		"Could you help me find a budget-friendly hotel in Europe?",
+		"interrogative"
+	],
+	[
+		"Could you help me interpret the SHAP values?",
+		"interrogative"
+	],
+	[
+		"Could you help me write a Kubernetes deployment manifest?",
+		"interrogative"
+	],
+	[
+		"Could you help me write a regex for data validation?",
+		"interrogative"
+	],
+	[
+		"Could you pass the salt?",
+		"interrogative"
+	],
+	[
+		"Could you perhaps let me know if the package has shipped?",
+		"interrogative"
+	],
+	[
+		"Could you review my LinkedIn profile?",
+		"interrogative"
+	],
+	[
+		"Could you review my out-of-office auto-responder?",
+		"interrogative"
+	],
+	[
+		"Could you send me that file when you get a chance?",
+		"interrogative"
+	],
+	[
+		"Could you send the updated file when you get a chance?",
+		"interrogative"
+	],
+	[
+		"Could you show me how to use the Context API properly?",
+		"interrogative"
+	],
+	[
+		"Could you show me how to write a recursive CTE?",
+		"interrogative"
+	],
+	[
+		"Could you suggest a better title for this?",
+		"interrogative"
+	],
+	[
+		"Could you suggest a more impactful vocabulary word for 'good'?",
+		"interrogative"
+	],
+	[
+		"Could you summarize this long article for me?",
+		"interrogative"
+	],
+	[
+		"Could you tell me how to configure the network settings?",
+		"interrogative"
+	],
+	[
+		"Could you tell me the time?",
+		"interrogative"
+	],
+	[
+		"Could you tell me where the nearest restroom is?",
+		"interrogative"
+	],
+	[
+		"Couldn't we try again?",
+		"interrogative"
+	],
+	[
+		"Dare he ask?",
+		"interrogative"
+	],
+	[
+		"Dare he refuse?",
+		"interrogative"
+	],
+	[
+		"Dare I ask?",
+		"interrogative"
+	],
+	[
+		"Dare she ask?",
+		"interrogative"
+	],
+	[
+		"Did anyone else notice the numbers looked off?",
+		"interrogative"
+	],
+	[
+		"Did anyone take notes during the presentation?",
+		"interrogative"
+	],
+	[
+		"Did everyone get the agenda?",
+		"interrogative"
+	],
+	[
+		"Did everyone receive the updated agenda for tomorrow?",
+		"interrogative"
+	],
+	[
+		"Did he arrive?",
+		"interrogative"
+	],
+	[
+		"Did I leave my phone here?",
+		"interrogative"
+	],
+	[
+		"Did I miss anything?",
+		"interrogative"
+	],
+	[
+		"Did I share the link?",
+		"interrogative"
+	],
+	[
+		"Did she mention why she left the company?",
+		"interrogative"
+	],
+	[
+		"Did the alert trigger during business hours or after?",
+		"interrogative"
+	],
+	[
+		"Did the build pass?",
+		"interrogative"
+	],
+	[
+		"Did the client approve the mockups?",
+		"interrogative"
+	],
+	[
+		"Did the client approve the revised design mockups?",
+		"interrogative"
+	],
+	[
+		"Did the client mention any specific concerns?",
+		"interrogative"
+	],
+	[
+		"Did the customer request a refund or a replacement?",
+		"interrogative"
+	],
+	[
+		"Did the error occur during installation or runtime?",
+		"interrogative"
+	],
+	[
+		"Did there use to be a shop here?",
+		"interrogative"
+	],
+	[
+		"Did we ever get a response from the other department?",
+		"interrogative"
+	],
+	[
+		"Did we hit the milestone?",
+		"interrogative"
+	],
+	[
+		"Did you actually see it?",
+		"interrogative"
+	],
+	[
+		"Did you bring the documents?",
+		"interrogative"
+	],
+	[
+		"Did you check the config file?",
+		"interrogative"
+	],
+	[
+		"Did you check the contract?",
+		"interrogative"
+	],
+	[
+		"Did you check the database?",
+		"interrogative"
+	],
+	[
+		"Did you check the DNS?",
+		"interrogative"
+	],
+	[
+		"Did you check the firewall?",
+		"interrogative"
+	],
+	[
+		"Did you check the ledger?",
+		"interrogative"
+	],
+	[
+		"Did you check the logs?",
+		"interrogative"
+	],
+	[
+		"Did you check the permissions?",
+		"interrogative"
+	],
+	[
+		"Did you clear the cache?",
+		"interrogative"
+	],
+	[
+		"Did you close the ticket?",
+		"interrogative"
+	],
+	[
+		"Did you coordinate with marketing?",
+		"interrogative"
+	],
+	[
+		"Did you find any discrepancies?",
+		"interrogative"
+	],
+	[
+		"Did you follow up with the client?",
+		"interrogative"
+	],
+	[
+		"Did you follow up with the supplier about the delay?",
+		"interrogative"
+	],
+	[
+		"Did you get a chance to test the new build?",
+		"interrogative"
+	],
+	[
+		"Did you get my email?",
+		"interrogative"
+	],
+	[
+		"Did you get the discount?",
+		"interrogative"
+	],
+	[
+		"Did you get the metrics?",
+		"interrogative"
+	],
+	[
+		"Did you go by car or train?",
+		"interrogative"
+	],
+	[
+		"Did you manage to speak with the account manager?",
+		"interrogative"
+	],
+	[
+		"Did you onboard the new hire?",
+		"interrogative"
+	],
+	[
+		"Did you pay the estimated taxes?",
+		"interrogative"
+	],
+	[
+		"Did you read the NDA?",
+		"interrogative"
+	],
+	[
+		"Did you read the terms?",
+		"interrogative"
+	],
+	[
+		"Did you reconcile the accounts?",
+		"interrogative"
+	],
+	[
+		"Did you remember to lock the door?",
+		"interrogative"
+	],
+	[
+		"Did you restart the service?",
+		"interrogative"
+	],
+	[
+		"Did you run the migration script?",
+		"interrogative"
+	],
+	[
+		"Did you see anybody?",
+		"interrogative"
+	],
+	[
+		"Did you see him or didn't you?",
+		"interrogative"
+	],
+	[
+		"Did you see somebody?",
+		"interrogative"
+	],
+	[
+		"Did you see that?",
+		"interrogative"
+	],
+	[
+		"Did you see the email from HR?",
+		"interrogative"
+	],
+	[
+		"Did you see the news today?",
+		"interrogative"
+	],
+	[
+		"Did you sleep well?",
+		"interrogative"
+	],
+	[
+		"Did you submit the form via the portal or by fax?",
+		"interrogative"
+	],
+	[
+		"Did you sync with the design team?",
+		"interrogative"
+	],
+	[
+		"Did you test in staging?",
+		"interrogative"
+	],
+	[
+		"Did you update the dependencies?",
+		"interrogative"
+	],
+	[
+		"Did you update the documentation?",
+		"interrogative"
+	],
+	[
+		"Did you update the Jira ticket?",
+		"interrogative"
+	],
+	[
+		"Did you use to live here?",
+		"interrogative"
+	],
+	[
+		"Did you validate the data?",
+		"interrogative"
+	],
+	[
+		"Did you verify the results manually or using a script?",
+		"interrogative"
+	],
+	[
+		"Didn't she call?",
+		"interrogative"
+	],
+	[
+		"Do be quiet, will you?",
+		"interrogative"
+	],
+	[
+		"Do I have to go?",
+		"interrogative"
+	],
+	[
+		"Do I need to bring anything?",
+		"interrogative"
+	],
+	[
+		"Do sit down, won't you?",
+		"interrogative"
+	],
+	[
+		"Do they offer remote working options for this role?",
+		"interrogative"
+	],
+	[
+		"Do we have enough coverage for tomorrow's shift?",
+		"interrogative"
+	],
+	[
+		"Do we have to pay?",
+		"interrogative"
+	],
+	[
+		"Do we need sign-off from legal before moving forward?",
+		"interrogative"
+	],
+	[
+		"Do we need to bring anything to the team-building event?",
+		"interrogative"
+	],
+	[
+		"Do we need to update the schema too?",
+		"interrogative"
+	],
+	[
+		"Do you dream of electric sheep?",
+		"interrogative"
+	],
+	[
+		"Do you have access to the production logs?",
+		"interrogative"
+	],
+	[
+		"Do you have any concerns about the new process?",
+		"interrogative"
+	],
+	[
+		"Do you have any dietary restrictions?",
+		"interrogative"
+	],
+	[
+		"Do you have any experience managing a remote team?",
+		"interrogative"
+	],
+	[
+		"Do you have any idea when the new hires will start?",
+		"interrogative"
+	],
+	[
+		"Do you have any tips for avoiding passive voice?",
+		"interrogative"
+	],
+	[
+		"Do you have any wool?",
+		"interrogative"
+	],
+	[
+		"Do you honestly think that is a viable solution?",
+		"interrogative"
+	],
+	[
+		"Do you know any good stretches for lower back pain?",
+		"interrogative"
+	],
+	[
+		"Do you know how to mock a module in Jest?",
+		"interrogative"
+	],
+	[
+		"Do you know how to set up a webhook for this?",
+		"interrogative"
+	],
+	[
+		"Do you know how to use this software?",
+		"interrogative"
+	],
+	[
+		"Do you know if I need an international driving permit?",
+		"interrogative"
+	],
+	[
+		"Do you know if she's coming?",
+		"interrogative"
+	],
+	[
+		"Do you know if the meeting was rescheduled?",
+		"interrogative"
+	],
+	[
+		"Do you know if the server restarted automatically?",
+		"interrogative"
+	],
+	[
+		"Do you know the formula for calculating permutations with repetition?",
+		"interrogative"
+	],
+	[
+		"Do you know the proper etiquette for Slack messages?",
+		"interrogative"
+	],
+	[
+		"Do you know what time it is?",
+		"interrogative"
+	],
+	[
+		"Do you know where the station is?",
+		"interrogative"
+	],
+	[
+		"Do you know whether the CEO has approved the proposal?",
+		"interrogative"
+	],
+	[
+		"Do you know why my gradient is exploding?",
+		"interrogative"
+	],
+	[
+		"Do you know why the build is failing?",
+		"interrogative"
+	],
+	[
+		"Do you know why the compiler is warning about an unused variable?",
+		"interrogative"
+	],
+	[
+		"Do you know why the connection pool is exhausted?",
+		"interrogative"
+	],
+	[
+		"Do you know why the JSON response is malformed?",
+		"interrogative"
+	],
+	[
+		"Do you know why the macros are disabled?",
+		"interrogative"
+	],
+	[
+		"Do you know why the SSH connection to the server keeps dropping?",
+		"interrogative"
+	],
+	[
+		"Do you like tea?",
+		"interrogative"
+	],
+	[
+		"Do you mind if I open the window?",
+		"interrogative"
+	],
+	[
+		"Do you mind if I push directly to main?",
+		"interrogative"
+	],
+	[
+		"Do you need a ride home?",
+		"interrogative"
+	],
+	[
+		"Do you need any help?",
+		"interrogative"
+	],
+	[
+		"Do you need the summary in bullet points or a paragraph?",
+		"interrogative"
+	],
+	[
+		"Do you not like it?",
+		"interrogative"
+	],
+	[
+		"Do you not understand?",
+		"interrogative"
+	],
+	[
+		"Do you play any sports?",
+		"interrogative"
+	],
+	[
+		"Do you prefer coffee, tea, or something cold?",
+		"interrogative"
+	],
+	[
+		"Do you prefer tabs or spaces?",
+		"interrogative"
+	],
+	[
+		"Do you really think rewriting it is worth it?",
+		"interrogative"
+	],
+	[
+		"Do you really think so?",
+		"interrogative"
+	],
+	[
+		"Do you remember what he said?",
+		"interrogative"
+	],
+	[
+		"Do you think a two-page resume is too long?",
+		"interrogative"
+	],
+	[
+		"Do you think first-person or third-person is better for thrillers?",
+		"interrogative"
+	],
+	[
+		"Do you think it's realistic to expect the entire team to be fully ramped up before the next major release, given everything else going on?",
+		"interrogative"
+	],
+	[
+		"Do you think money grows on trees?",
+		"interrogative"
+	],
+	[
+		"Do you think the client actually understood the scope of what we proposed, or do we need to go back and clarify a few key points?",
+		"interrogative"
+	],
+	[
+		"Do you think the client will approve this?",
+		"interrogative"
+	],
+	[
+		"Do you think the interview process needs to be restructured, especially given how many strong candidates seem to be dropping out midway through the process?",
+		"interrogative"
+	],
+	[
+		"Do you think the users will notice this change?",
+		"interrogative"
+	],
+	[
+		"Do you think this metaphor lands well?",
+		"interrogative"
+	],
+	[
+		"Do you think this thesis statement is strong enough?",
+		"interrogative"
+	],
+	[
+		"Do you think we need more testing before release?",
+		"interrogative"
+	],
+	[
+		"Do you think we should hire another developer this quarter?",
+		"interrogative"
+	],
+	[
+		"Do you think we'll finish this by end of day?",
+		"interrogative"
+	],
+	[
+		"Do you think you could find out if the conference room is booked?",
+		"interrogative"
+	],
+	[
+		"Do you want it or don't you?",
+		"interrogative"
+	],
+	[
+		"Do you want me to help?",
+		"interrogative"
+	],
+	[
+		"Do you want me to loop in the other stakeholders?",
+		"interrogative"
+	],
+	[
+		"Do you want me to write unit tests for this too?",
+		"interrogative"
+	],
+	[
+		"Do you want tea or coffee?",
+		"interrogative"
+	],
+	[
+		"Do you want tea, coffee, or juice?",
+		"interrogative"
+	],
+	[
+		"Do you want the summary in bullet points or a paragraph?",
+		"interrogative"
+	],
+	[
+		"Do you want to grab lunch?",
+		"interrogative"
+	],
+	[
+		"Do you want to review the code now or after lunch?",
+		"interrogative"
+	],
+	[
+		"Does he not like it?",
+		"interrogative"
+	],
+	[
+		"Does he work here?",
+		"interrogative"
+	],
+	[
+		"Does it really matter who gets the credit as long as the job gets done?",
+		"interrogative"
+	],
+	[
+		"Does she know?",
+		"interrogative"
+	],
+	[
+		"Doesn't everyone deserve a second chance?",
+		"interrogative"
+	],
+	[
+		"Doesn't he know?",
+		"interrogative"
+	],
+	[
+		"Don't be late, will you?",
+		"interrogative"
+	],
+	[
+		"Don't forget, will you?",
+		"interrogative"
+	],
+	[
+		"Don't you just love it?",
+		"interrogative"
+	],
+	[
+		"Don't you like it?",
+		"interrogative"
+	],
+	[
+		"Don't you want it?",
+		"interrogative"
+	],
+	[
+		"Everyone received the calendar invite, didn't they?",
+		"interrogative"
+	],
+	[
+		"Everyone's ready, aren't they?",
+		"interrogative"
+	],
+	[
+		"Everything is ready, isn't it?",
+		"interrogative"
+	],
+	[
+		"Got a minute?",
+		"interrogative"
+	],
+	[
+		"Got a sec?",
+		"interrogative"
+	],
+	[
+		"Had I better call first?",
+		"interrogative"
+	],
+	[
+		"Hadn't we better leave?",
+		"interrogative"
+	],
+	[
+		"Hand me that, would you?",
+		"interrogative"
+	],
+	[
+		"Has it been decided?",
+		"interrogative"
+	],
+	[
+		"Has she got a car?",
+		"interrogative"
+	],
+	[
+		"Has the package arrived at the facility yet?",
+		"interrogative"
+	],
+	[
+		"Has the work been finished?",
+		"interrogative"
+	],
+	[
+		"Has there been an accident?",
+		"interrogative"
+	],
+	[
+		"Have a seat, won't you?",
+		"interrogative"
+	],
+	[
+		"Have we received feedback on the latest project draft?",
+		"interrogative"
+	],
+	[
+		"Have you any idea where he is?",
+		"interrogative"
+	],
+	[
+		"Have you any wool?",
+		"interrogative"
+	],
+	[
+		"Have you been waiting long?",
+		"interrogative"
+	],
+	[
+		"Have you considered a different approach to this problem?",
+		"interrogative"
+	],
+	[
+		"Have you considered using a hash map instead?",
+		"interrogative"
+	],
+	[
+		"Have you eaten?",
+		"interrogative"
+	],
+	[
+		"Have you ever been to Paris?",
+		"interrogative"
+	],
+	[
+		"Have you ever traveled outside the country?",
+		"interrogative"
+	],
+	[
+		"Have you finished the report?",
+		"interrogative"
+	],
+	[
+		"Have you got a minute?",
+		"interrogative"
+	],
+	[
+		"Have you got to go now?",
+		"interrogative"
+	],
+	[
+		"Have you got to leave now?",
+		"interrogative"
+	],
+	[
+		"Have you had a chance to review my notes yet?",
+		"interrogative"
+	],
+	[
+		"Have you seen the new movie?",
+		"interrogative"
+	],
+	[
+		"Have you seen this error before?",
+		"interrogative"
+	],
+	[
+		"Have you stopped cheating on your taxes?",
+		"interrogative"
+	],
+	[
+		"Have you stopped lying?",
+		"interrogative"
+	],
+	[
+		"Have you to go soon?",
+		"interrogative"
+	],
+	[
+		"Have you to go?",
+		"interrogative"
+	],
+	[
+		"Have you tried clearing the cache?",
+		"interrogative"
+	],
+	[
+		"Haven't they arrived?",
+		"interrogative"
+	],
+	[
+		"Haven't we discussed this topic enough already?",
+		"interrogative"
+	],
+	[
+		"He bought what?",
+		"interrogative"
+	],
+	[
+		"He can't swim, can he?",
+		"interrogative"
+	],
+	[
+		"He did what?",
+		"interrogative"
+	],
+	[
+		"He hasn't left the building yet, has he?",
+		"interrogative"
+	],
+	[
+		"He must have left, didn't he?",
+		"interrogative"
+	],
+	[
+		"He must have left, mustn't he?",
+		"interrogative"
+	],
+	[
+		"He never smiles, does he?",
+		"interrogative"
+	],
+	[
+		"He rarely misses a deadline, does he?",
+		"interrogative"
+	],
+	[
+		"He used to live here, didn't he?",
+		"interrogative"
+	],
+	[
+		"He won't mind, will he?",
+		"interrogative"
+	],
+	[
+		"How about dinner?",
+		"interrogative"
+	],
+	[
+		"How about going for a walk?",
+		"interrogative"
+	],
+	[
+		"How about if we leave now?",
+		"interrogative"
+	],
+	[
+		"How about if we wait?",
+		"interrogative"
+	],
+	[
+		"How about some coffee?",
+		"interrogative"
+	],
+	[
+		"How about we take a break?",
+		"interrogative"
+	],
+	[
+		"How am I supposed to finish this by tomorrow morning?",
+		"interrogative"
+	],
+	[
+		"How am I supposed to fix this without breaking everything?",
+		"interrogative"
+	],
+	[
+		"How are you?",
+		"interrogative"
+	],
+	[
+		"How badly was it damaged?",
+		"interrogative"
+	],
+	[
+		"How big a house did they buy?",
+		"interrogative"
+	],
+	[
+		"How can I make my introduction more engaging?",
+		"interrogative"
+	],
+	[
+		"How can I reproduce this bug locally?",
+		"interrogative"
+	],
+	[
+		"How can we make sure this doesn't happen again?",
+		"interrogative"
+	],
+	[
+		"How come are you late?",
+		"interrogative"
+	],
+	[
+		"How come she didn't call?",
+		"interrogative"
+	],
+	[
+		"How come the store is closed?",
+		"interrogative"
+	],
+	[
+		"How come they're late?",
+		"interrogative"
+	],
+	[
+		"How come you are here?",
+		"interrogative"
+	],
+	[
+		"How come you are late?",
+		"interrogative"
+	],
+	[
+		"How come you didn't call?",
+		"interrogative"
+	],
+	[
+		"How come you're late?",
+		"interrogative"
+	],
+	[
+		"How come you're not coming?",
+		"interrogative"
+	],
+	[
+		"How come?",
+		"interrogative"
+	],
+	[
+		"How confident are you in these projections?",
+		"interrogative"
+	],
+	[
+		"How dare you say that?",
+		"interrogative"
+	],
+	[
+		"How did the client react to the changes?",
+		"interrogative"
+	],
+	[
+		"How did you find out?",
+		"interrogative"
+	],
+	[
+		"How do I calculate the Big O notation for nested loops?",
+		"interrogative"
+	],
+	[
+		"How do I center a div vertically?",
+		"interrogative"
+	],
+	[
+		"How do I get from Narita Airport to central Tokyo?",
+		"interrogative"
+	],
+	[
+		"How do I handle a CAPTCHA when scraping with BeautifulSoup?",
+		"interrogative"
+	],
+	[
+		"How do I know if the cache invalidated correctly?",
+		"interrogative"
+	],
+	[
+		"How do I make my antagonist more sympathetic?",
+		"interrogative"
+	],
+	[
+		"How do I mock this API call in the tests?",
+		"interrogative"
+	],
+	[
+		"How do I perform a JOIN across three different tables?",
+		"interrogative"
+	],
+	[
+		"How do I politely decline a meeting invitation?",
+		"interrogative"
+	],
+	[
+		"How do I prevent a useEffect hook from running infinitely?",
+		"interrogative"
+	],
+	[
+		"How do I prevent my model from overfitting?",
+		"interrogative"
+	],
+	[
+		"How do I properly cite a website in APA format?",
+		"interrogative"
+	],
+	[
+		"How do I quantify my achievements on a resume?",
+		"interrogative"
+	],
+	[
+		"How do I revert this commit safely?",
+		"interrogative"
+	],
+	[
+		"How do I revert to a previous commit?",
+		"interrogative"
+	],
+	[
+		"How do I use GDB to find the source of a crash?",
+		"interrogative"
+	],
+	[
+		"How do I use VLOOKUP to find data in another sheet?",
+		"interrogative"
+	],
+	[
+		"How do we plan to handle the overflow of requests?",
+		"interrogative"
+	],
+	[
+		"How do we reproduce the error?",
+		"interrogative"
+	],
+	[
+		"How do you ask for an update without being pushy?",
+		"interrogative"
+	],
+	[
+		"How do you debug a Node.js app running inside a container?",
+		"interrogative"
+	],
+	[
+		"How do you do?",
+		"interrogative"
+	],
+	[
+		"How do you feel about the direction we're taking?",
+		"interrogative"
+	],
+	[
+		"How do you handle ambiguous queries?",
+		"interrogative"
+	],
+	[
+		"How do you handle asynchronous validation in Formik?",
+		"interrogative"
+	],
+	[
+		"How do you handle transactions in Node.js?",
+		"interrogative"
+	],
+	[
+		"How do you know him?",
+		"interrogative"
+	],
+	[
+		"How do you like it here?",
+		"interrogative"
+	],
+	[
+		"How do you like the new job?",
+		"interrogative"
+	],
+	[
+		"How do you like your coffee?",
+		"interrogative"
+	],
+	[
+		"How do you like your eggs?",
+		"interrogative"
+	],
+	[
+		"How do you lock a cell in Excel?",
+		"interrogative"
+	],
+	[
+		"How do you pack for a trip with varying climates?",
+		"interrogative"
+	],
+	[
+		"How do you perform k-fold cross-validation in scikit-learn?",
+		"interrogative"
+	],
+	[
+		"How do you plan to prioritize these tasks?",
+		"interrogative"
+	],
+	[
+		"How do you prove that an algorithm is correct?",
+		"interrogative"
+	],
+	[
+		"How do you remember the context of our conversation?",
+		"interrogative"
+	],
+	[
+		"How do you safely roll back a bad deployment?",
+		"interrogative"
+	],
+	[
+		"How do you stay motivated to work out every day?",
+		"interrogative"
+	],
+	[
+		"How do you usually handle conflicting priorities at work?",
+		"interrogative"
+	],
+	[
+		"How do you usually structure your React folders?",
+		"interrogative"
+	],
+	[
+		"How do you want to handle the client's request for a discount?",
+		"interrogative"
+	],
+	[
+		"How do you write a believable romance subplot?",
+		"interrogative"
+	],
+	[
+		"How does garbage collection actually work in JavaScript?",
+		"interrogative"
+	],
+	[
+		"How does this algorithm process the input data?",
+		"interrogative"
+	],
+	[
+		"How does this compare to what we did last quarter?",
+		"interrogative"
+	],
+	[
+		"How far is it?",
+		"interrogative"
+	],
+	[
+		"How heavy a box is that?",
+		"interrogative"
+	],
+	[
+		"How in the world did you do it?",
+		"interrogative"
+	],
+	[
+		"How is it that she left early?",
+		"interrogative"
+	],
+	[
+		"How is it that she left so early?",
+		"interrogative"
+	],
+	[
+		"How is it that you know him?",
+		"interrogative"
+	],
+	[
+		"How is state managed across these components?",
+		"interrogative"
+	],
+	[
+		"How long a movie is it?",
+		"interrogative"
+	],
+	[
+		"How long have you been stealing?",
+		"interrogative"
+	],
+	[
+		"How long have you been working in this industry?",
+		"interrogative"
+	],
+	[
+		"How long is the movie?",
+		"interrogative"
+	],
+	[
+		"How long will it take to deploy the update to production?",
+		"interrogative"
+	],
+	[
+		"How long will the deployment take?",
+		"interrogative"
+	],
+	[
+		"How long will this migration take?",
+		"interrogative"
+	],
+	[
+		"How many calories should I eat in a day?",
+		"interrogative"
+	],
+	[
+		"How many cups?",
+		"interrogative"
+	],
+	[
+		"How many people are attending the webinar?",
+		"interrogative"
+	],
+	[
+		"How many people attended?",
+		"interrogative"
+	],
+	[
+		"How many people came?",
+		"interrogative"
+	],
+	[
+		"How many requests can this endpoint handle per second?",
+		"interrogative"
+	],
+	[
+		"How many times do I have to tell you to lock the door?",
+		"interrogative"
+	],
+	[
+		"How much budget is left?",
+		"interrogative"
+	],
+	[
+		"How much does it cost?",
+		"interrogative"
+	],
+	[
+		"How much does this cost?",
+		"interrogative"
+	],
+	[
+		"How much longer can we keep ignoring the server warnings?",
+		"interrogative"
+	],
+	[
+		"How much memory does this process use?",
+		"interrogative"
+	],
+	[
+		"How much water leaked?",
+		"interrogative"
+	],
+	[
+		"How much water?",
+		"interrogative"
+	],
+	[
+		"How often do you beat your dog?",
+		"interrogative"
+	],
+	[
+		"How often do you go?",
+		"interrogative"
+	],
+	[
+		"How often should I water this type of houseplant?",
+		"interrogative"
+	],
+	[
+		"How old a man is he?",
+		"interrogative"
+	],
+	[
+		"How old are you?",
+		"interrogative"
+	],
+	[
+		"How quickly did they finish?",
+		"interrogative"
+	],
+	[
+		"How serious a problem is it?",
+		"interrogative"
+	],
+	[
+		"How should errors be surfaced to the user?",
+		"interrogative"
+	],
+	[
+		"How should I know?",
+		"interrogative"
+	],
+	[
+		"How should I negotiate my starting salary?",
+		"interrogative"
+	],
+	[
+		"How should I structure the conclusion?",
+		"interrogative"
+	],
+	[
+		"How should we handle the feedback from the last review?",
+		"interrogative"
+	],
+	[
+		"How so?",
+		"interrogative"
+	],
+	[
+		"How soon can you come?",
+		"interrogative"
+	],
+	[
+		"How tall a tree is that?",
+		"interrogative"
+	],
+	[
+		"How tall is he?",
+		"interrogative"
+	],
+	[
+		"How to explain?",
+		"interrogative"
+	],
+	[
+		"How to respond?",
+		"interrogative"
+	],
+	[
+		"How to start?",
+		"interrogative"
+	],
+	[
+		"How was your flight?",
+		"interrogative"
+	],
+	[
+		"How was your weekend, anything fun happen?",
+		"interrogative"
+	],
+	[
+		"How well does she sing?",
+		"interrogative"
+	],
+	[
+		"How would you describe your management style?",
+		"interrogative"
+	],
+	[
+		"How would you explain recursion to a beginner?",
+		"interrogative"
+	],
+	[
+		"How would you shorten this introduction?",
+		"interrogative"
+	],
+	[
+		"How?",
+		"interrogative"
+	],
+	[
+		"How's about we leave?",
+		"interrogative"
+	],
+	[
+		"How's everything?",
+		"interrogative"
+	],
+	[
+		"How's it going?",
+		"interrogative"
+	],
+	[
+		"How's life?",
+		"interrogative"
+	],
+	[
+		"I believe she's a doctor, isn't she?",
+		"interrogative"
+	],
+	[
+		"I don't believe she called, did she?",
+		"interrogative"
+	],
+	[
+		"I don't suppose you could help, could you?",
+		"interrogative"
+	],
+	[
+		"I don't suppose you know, do you?",
+		"interrogative"
+	],
+	[
+		"I don't think he's coming, is he?",
+		"interrogative"
+	],
+	[
+		"I think he's coming, isn't he?",
+		"interrogative"
+	],
+	[
+		"I was wondering if you could help me with this assignment.",
+		"interrogative"
+	],
+	[
+		"I wonder what the CEO meant by that cryptic statement.",
+		"interrogative"
+	],
+	[
+		"I wonder what time it is.",
+		"interrogative"
+	],
+	[
+		"I'm late, aren't I?",
+		"interrogative"
+	],
+	[
+		"I'm next, aren't I?",
+		"interrogative"
+	],
+	[
+		"I'm not late, am I?",
+		"interrogative"
+	],
+	[
+		"I'm right, aren't I?",
+		"interrogative"
+	],
+	[
+		"If are you coming?",
+		"interrogative"
+	],
+	[
+		"If the client isn't willing to budge on the timeline, what's the best way for us to manage expectations without putting the whole team under unnecessary pressure?",
+		"interrogative"
+	],
+	[
+		"If the feedback from this round of testing is mostly negative, should we delay the release entirely or ship it with a clear list of known issues?",
+		"interrogative"
+	],
+	[
+		"If the survey results are accurate, what do you think is really driving the drop in employee satisfaction over the past couple of quarters?",
+		"interrogative"
+	],
+	[
+		"If the vendor can't guarantee on-time delivery going forward, should we start looking into backup suppliers even if it means paying a bit more upfront?",
+		"interrogative"
+	],
+	[
+		"If this candidate accepts the offer, do you think we have enough bandwidth on the team to properly onboard them within the first few weeks?",
+		"interrogative"
+	],
+	[
+		"If we can't secure additional funding this quarter, what would you suggest we cut first without compromising the core parts of the project?",
+		"interrogative"
+	],
+	[
+		"If we had to redo this entire process from scratch, what's the one thing you think we absolutely have to do differently next time?",
+		"interrogative"
+	],
+	[
+		"If we push the deadline back by another two weeks, do you think that gives the design team enough time to properly address all the feedback?",
+		"interrogative"
+	],
+	[
+		"If we're being honest with ourselves, do you think the real issue here is a lack of resources or more a lack of clear direction from leadership?",
+		"interrogative"
+	],
+	[
+		"In which room did they stay?",
+		"interrogative"
+	],
+	[
+		"Is anyone available to cover the front desk this afternoon?",
+		"interrogative"
+	],
+	[
+		"Is caching enabled for this route?",
+		"interrogative"
+	],
+	[
+		"Is everyone comfortable with the current timeline?",
+		"interrogative"
+	],
+	[
+		"Is he coming or not?",
+		"interrogative"
+	],
+	[
+		"Is he here or not?",
+		"interrogative"
+	],
+	[
+		"Is he supposed to be here?",
+		"interrogative"
+	],
+	[
+		"Is he supposed to call?",
+		"interrogative"
+	],
+	[
+		"Is intermittent fasting actually effective for fat loss?",
+		"interrogative"
+	],
+	[
+		"Is it appropriate to CC the director on this thread?",
+		"interrogative"
+	],
+	[
+		"Is it being repaired?",
+		"interrogative"
+	],
+	[
+		"Is it better to use Selenium or Playwright for dynamic web pages?",
+		"interrogative"
+	],
+	[
+		"Is it cheaper to buy a Japan Rail Pass in advance?",
+		"interrogative"
+	],
+	[
+		"Is it going to rain later today?",
+		"interrogative"
+	],
+	[
+		"Is it necessary to include a summary statement at the top?",
+		"interrogative"
+	],
+	[
+		"Is it normal for this to take this long?",
+		"interrogative"
+	],
+	[
+		"Is it okay if I leave early today?",
+		"interrogative"
+	],
+	[
+		"Is it possible to get this done without extra resources?",
+		"interrogative"
+	],
+	[
+		"Is it raining now?",
+		"interrogative"
+	],
+	[
+		"Is it raining outside?",
+		"interrogative"
+	],
+	[
+		"Is it really worth arguing over such a minor detail?",
+		"interrogative"
+	],
+	[
+		"Is it red or blue?",
+		"interrogative"
+	],
+	[
+		"Is it working?",
+		"interrogative"
+	],
+	[
+		"Is it worth adding TypeScript to this legacy project?",
+		"interrogative"
+	],
+	[
+		"Is she ready?",
+		"interrogative"
+	],
+	[
+		"Is that so?",
+		"interrogative"
+	],
+	[
+		"Is the bug in the frontend or the backend?",
+		"interrogative"
+	],
+	[
+		"Is the deadline Friday or Monday?",
+		"interrogative"
+	],
+	[
+		"Is the meeting mandatory or optional?",
+		"interrogative"
+	],
+	[
+		"Is the new hire a contractor or a full-time employee?",
+		"interrogative"
+	],
+	[
+		"Is the pacing too slow in the second act?",
+		"interrogative"
+	],
+	[
+		"Is the sky blue?",
+		"interrogative"
+	],
+	[
+		"Is the source code available on the public repository?",
+		"interrogative"
+	],
+	[
+		"Is the temperature in Celsius or Fahrenheit?",
+		"interrogative"
+	],
+	[
+		"Is the water safe to drink?",
+		"interrogative"
+	],
+	[
+		"Is there a backup plan if this falls through?",
+		"interrogative"
+	],
+	[
+		"Is there a chance we could extend the deadline slightly?",
+		"interrogative"
+	],
+	[
+		"Is there a linting rule for this?",
+		"interrogative"
+	],
+	[
+		"Is there a plan in place if the numbers don't improve?",
+		"interrogative"
+	],
+	[
+		"Is there a problem?",
+		"interrogative"
+	],
+	[
+		"Is there a reason this function isn't async?",
+		"interrogative"
+	],
+	[
+		"Is there a reason we haven't heard back from them?",
+		"interrogative"
+	],
+	[
+		"Is there a reason we're not using a queue here?",
+		"interrogative"
+	],
+	[
+		"Is there a way to debounce this input?",
+		"interrogative"
+	],
+	[
+		"Is there any coffee left in the break room?",
+		"interrogative"
+	],
+	[
+		"Is there any hope?",
+		"interrogative"
+	],
+	[
+		"Is there any milk left?",
+		"interrogative"
+	],
+	[
+		"Is there anyone else who should be part of this conversation?",
+		"interrogative"
+	],
+	[
+		"Is there anyone left who hasn't heard about the merger?",
+		"interrogative"
+	],
+	[
+		"Is there anything blocking you from finishing this today?",
+		"interrogative"
+	],
+	[
+		"Is there anything I can do?",
+		"interrogative"
+	],
+	[
+		"Is there anything I can help with?",
+		"interrogative"
+	],
+	[
+		"Is there documentation for this internal tool?",
+		"interrogative"
+	],
+	[
+		"Is this a joke or what?",
+		"interrogative"
+	],
+	[
+		"Is this dataset structured or unstructured?",
+		"interrogative"
+	],
+	[
+		"Is this endpoint idempotent?",
+		"interrogative"
+	],
+	[
+		"Is this really the best approach?",
+		"interrogative"
+	],
+	[
+		"Is this seat taken?",
+		"interrogative"
+	],
+	[
+		"Is this serious or what?",
+		"interrogative"
+	],
+	[
+		"Is this something we can address in the next sprint?",
+		"interrogative"
+	],
+	[
+		"Is this the final version of the document?",
+		"interrogative"
+	],
+	[
+		"Is this the right way to structure the API?",
+		"interrogative"
+	],
+	[
+		"Is this tone too formal for the audience?",
+		"interrogative"
+	],
+	[
+		"Isn't it a nice day?",
+		"interrogative"
+	],
+	[
+		"Isn't it obvious that we need to change our strategy?",
+		"interrogative"
+	],
+	[
+		"Isn't it odd that this only fails in production?",
+		"interrogative"
+	],
+	[
+		"Isn't it time we updated this archaic policy?",
+		"interrogative"
+	],
+	[
+		"Isn't life strange?",
+		"interrogative"
+	],
+	[
+		"Isn't she coming?",
+		"interrogative"
+	],
+	[
+		"Isn't that great!",
+		"interrogative"
+	],
+	[
+		"Isn't that just great?",
+		"interrogative"
+	],
+	[
+		"Isn't that just the pot calling the kettle black?",
+		"interrogative"
+	],
+	[
+		"Isn't that wonderful!",
+		"interrogative"
+	],
+	[
+		"Isn't there a simpler way to write this condition?",
+		"interrogative"
+	],
+	[
+		"Isn't there enough time?",
+		"interrogative"
+	],
+	[
+		"Isn't this variable already declared above?",
+		"interrogative"
+	],
+	[
+		"It hasn't started raining yet, has it?",
+		"interrogative"
+	],
+	[
+		"It won't hurt, will it?",
+		"interrogative"
+	],
+	[
+		"It's a beautiful day outside, isn't it?",
+		"interrogative"
+	],
+	[
+		"It's a beautiful day, isn't it?",
+		"interrogative"
+	],
+	[
+		"It's fine, right?",
+		"interrogative"
+	],
+	[
+		"It's hot, ain't it?",
+		"interrogative"
+	],
+	[
+		"It's nice, right?",
+		"interrogative"
+	],
+	[
+		"Let's go, shall we?",
+		"interrogative"
+	],
+	[
+		"Let's not argue, shall we?",
+		"interrogative"
+	],
+	[
+		"Let's start, shall we?",
+		"interrogative"
+	],
+	[
+		"Let's take a short break, shall we?",
+		"interrogative"
+	],
+	[
+		"Like what?",
+		"interrogative"
+	],
+	[
+		"May I ask how long the warranty is valid for?",
+		"interrogative"
+	],
+	[
+		"May I ask what the main topic of today's discussion is?",
+		"interrogative"
+	],
+	[
+		"May I be of help?",
+		"interrogative"
+	],
+	[
+		"May I come in?",
+		"interrogative"
+	],
+	[
+		"May I have a copy of the financial report?",
+		"interrogative"
+	],
+	[
+		"May I leave?",
+		"interrogative"
+	],
+	[
+		"May I offer you a seat?",
+		"interrogative"
+	],
+	[
+		"Might I ask a question?",
+		"interrogative"
+	],
+	[
+		"Might I be excused?",
+		"interrogative"
+	],
+	[
+		"Might she have forgotten?",
+		"interrogative"
+	],
+	[
+		"Might there be any issues with the server migration?",
+		"interrogative"
+	],
+	[
+		"Might there have been a mistake?",
+		"interrogative"
+	],
+	[
+		"Must I go?",
+		"interrogative"
+	],
+	[
+		"Must we decide now?",
+		"interrogative"
+	],
+	[
+		"Must you leave so soon?",
+		"interrogative"
+	],
+	[
+		"Need I say more?",
+		"interrogative"
+	],
+	[
+		"Need she worry?",
+		"interrogative"
+	],
+	[
+		"Needn't we go?",
+		"interrogative"
+	],
+	[
+		"Needn't you be there?",
+		"interrogative"
+	],
+	[
+		"No one called, did they?",
+		"interrogative"
+	],
+	[
+		"Nobody called while I was away, did they?",
+		"interrogative"
+	],
+	[
+		"Nobody knows, do they?",
+		"interrogative"
+	],
+	[
+		"Nothing was said, was it?",
+		"interrogative"
+	],
+	[
+		"Now that the initial rollout is complete, what metrics do you think we should be tracking to actually measure whether this was successful or not?",
+		"interrogative"
+	],
+	[
+		"Now that the merger is nearly finalized, how do you think this is going to affect the day-to-day responsibilities of everyone on the operations team?",
+		"interrogative"
+	],
+	[
+		"Now that the numbers are in front of us, does it still make sense to prioritize this initiative over some of the other projects on our roadmap?",
+		"interrogative"
+	],
+	[
+		"Now that we have a clearer picture of the budget constraints, what do you think is the most realistic version of this project we can still deliver?",
+		"interrogative"
+	],
+	[
+		"Now that we've had a chance to review the competitor's latest product, do you think we need to accelerate our own roadmap to stay competitive?",
+		"interrogative"
+	],
+	[
+		"Now that we've seen the initial results from the pilot program, would it make sense to expand it to the other regional offices sooner than planned?",
+		"interrogative"
+	],
+	[
+		"Now what?",
+		"interrogative"
+	],
+	[
+		"Oh, it's like that, is it?",
+		"interrogative"
+	],
+	[
+		"Oh, you think so, do you?",
+		"interrogative"
+	],
+	[
+		"One can try, can't one?",
+		"interrogative"
+	],
+	[
+		"Open the door, could you?",
+		"interrogative"
+	],
+	[
+		"Open the window, will you?",
+		"interrogative"
+	],
+	[
+		"Ought we to leave?",
+		"interrogative"
+	],
+	[
+		"Oughtn't we to go?",
+		"interrogative"
+	],
+	[
+		"Oughtn't we to tell them?",
+		"interrogative"
+	],
+	[
+		"Oughtn't you to apologize?",
+		"interrogative"
+	],
+	[
+		"Please tell me how to get there.",
+		"interrogative"
+	],
+	[
+		"Post this, can you?",
+		"interrogative"
+	],
+	[
+		"Shall I call you?",
+		"interrogative"
+	],
+	[
+		"Shall I open the window?",
+		"interrogative"
+	],
+	[
+		"Shall we dance?",
+		"interrogative"
+	],
+	[
+		"Shall we leave?",
+		"interrogative"
+	],
+	[
+		"She can swim, can't she?",
+		"interrogative"
+	],
+	[
+		"She can't possibly be serious about quitting, can she?",
+		"interrogative"
+	],
+	[
+		"She hardly knows him, does she?",
+		"interrogative"
+	],
+	[
+		"She has completed the training, hasn't she?",
+		"interrogative"
+	],
+	[
+		"She knows him, doesn't she?",
+		"interrogative"
+	],
+	[
+		"She told whom?",
+		"interrogative"
+	],
+	[
+		"She's coming, isn't she?",
+		"interrogative"
+	],
+	[
+		"Should I book a direct flight or one with a layover?",
+		"interrogative"
+	],
+	[
+		"Should I call or text?",
+		"interrogative"
+	],
+	[
+		"Should I cite this source or paraphrase it?",
+		"interrogative"
+	],
+	[
+		"Should I email the document or upload it to the shared drive?",
+		"interrogative"
+	],
+	[
+		"Should I fix the bug first or write the tests first?",
+		"interrogative"
+	],
+	[
+		"Should I include references in my presentation?",
+		"interrogative"
+	],
+	[
+		"Should I just rewrite the whole module?",
+		"interrogative"
+	],
+	[
+		"Should I use a class or a function component?",
+		"interrogative"
+	],
+	[
+		"Should I wait outside?",
+		"interrogative"
+	],
+	[
+		"Should the button be blue or green for better conversion?",
+		"interrogative"
+	],
+	[
+		"Should the button say Submit or Continue?",
+		"interrogative"
+	],
+	[
+		"Should the marketing team approve this before we publish it?",
+		"interrogative"
+	],
+	[
+		"Should the retry logic use exponential backoff?",
+		"interrogative"
+	],
+	[
+		"Should the text be left-aligned or justified?",
+		"interrogative"
+	],
+	[
+		"Should we bring this up in the next stand-up?",
+		"interrogative"
+	],
+	[
+		"Should we increase the server capacity or optimize the code?",
+		"interrogative"
+	],
+	[
+		"Should we roll this back?",
+		"interrogative"
+	],
+	[
+		"Should we schedule the meeting for Monday or Tuesday?",
+		"interrogative"
+	],
+	[
+		"Should we split this into microservices eventually?",
+		"interrogative"
+	],
+	[
+		"Should we wait?",
+		"interrogative"
+	],
+	[
+		"Should you have called?",
+		"interrogative"
+	],
+	[
+		"So what?",
+		"interrogative"
+	],
+	[
+		"So you think you're clever, do you?",
+		"interrogative"
+	],
+	[
+		"So you're leaving, are you?",
+		"interrogative"
+	],
+	[
+		"Somebody called, didn't they?",
+		"interrogative"
+	],
+	[
+		"Supposing it rains?",
+		"interrogative"
+	],
+	[
+		"That is the final version of the document, isn't it?",
+		"interrogative"
+	],
+	[
+		"That's nice, isn't it?",
+		"interrogative"
+	],
+	[
+		"That's yours, ain't it?",
+		"interrogative"
+	],
+	[
+		"The data shows a significant increase in traffic, doesn't it?",
+		"interrogative"
+	],
+	[
+		"The marketing team did a great job on the campaign, didn't they?",
+		"interrogative"
+	],
+	[
+		"The project deadline was moved up, wasn't it?",
+		"interrogative"
+	],
+	[
+		"The server is down again, isn't it?",
+		"interrogative"
+	],
+	[
+		"There aren't any issues with the deployment, are there?",
+		"interrogative"
+	],
+	[
+		"There's a problem, isn't there?",
+		"interrogative"
+	],
+	[
+		"These are yours, aren't they?",
+		"interrogative"
+	],
+	[
+		"They have already finalized the budget, haven't they?",
+		"interrogative"
+	],
+	[
+		"They won't be able to make it to the party, will they?",
+		"interrogative"
+	],
+	[
+		"They've left, haven't they?",
+		"interrogative"
+	],
+	[
+		"This still works on staging, doesn't it?",
+		"interrogative"
+	],
+	[
+		"To whom are you talking?",
+		"interrogative"
+	],
+	[
+		"To whom did you talk?",
+		"interrogative"
+	],
+	[
+		"To whom should I write?",
+		"interrogative"
+	],
+	[
+		"Wanna go?",
+		"interrogative"
+	],
+	[
+		"Was anything stolen?",
+		"interrogative"
+	],
+	[
+		"Was I furious!",
+		"interrogative"
+	],
+	[
+		"Was I surprised!",
+		"interrogative"
+	],
+	[
+		"Wasn't the deploy supposed to finish an hour ago?",
+		"interrogative"
+	],
+	[
+		"We are still on for dinner tonight, aren't we?",
+		"interrogative"
+	],
+	[
+		"We can rely on the backup system, can't we?",
+		"interrogative"
+	],
+	[
+		"We don't need to bring our own devices, do we?",
+		"interrogative"
+	],
+	[
+		"We must finish this before Friday, mustn't we?",
+		"interrogative"
+	],
+	[
+		"We ought to leave, oughtn't we?",
+		"interrogative"
+	],
+	[
+		"We ought to leave, shouldn't we?",
+		"interrogative"
+	],
+	[
+		"We should double-check the numbers before submitting, shouldn't we?",
+		"interrogative"
+	],
+	[
+		"We should go, shouldn't we?",
+		"interrogative"
+	],
+	[
+		"We're deploying tonight, aren't we?",
+		"interrogative"
+	],
+	[
+		"Were there many people?",
+		"interrogative"
+	],
+	[
+		"Were they seen?",
+		"interrogative"
+	],
+	[
+		"Were you able to contact the client yesterday?",
+		"interrogative"
+	],
+	[
+		"What about John?",
+		"interrogative"
+	],
+	[
+		"What about taking a walk?",
+		"interrogative"
+	],
+	[
+		"What about tomorrow?",
+		"interrogative"
+	],
+	[
+		"What about you?",
+		"interrogative"
+	],
+	[
+		"What all did you buy?",
+		"interrogative"
+	],
+	[
+		"What are the limitations of your knowledge?",
+		"interrogative"
+	],
+	[
+		"What are the main differences between these two frameworks?",
+		"interrogative"
+	],
+	[
+		"What are the next steps?",
+		"interrogative"
+	],
+	[
+		"What are you doing this weekend?",
+		"interrogative"
+	],
+	[
+		"What are you looking for?",
+		"interrogative"
+	],
+	[
+		"What are you talking about?",
+		"interrogative"
+	],
+	[
+		"What are you thinking about?",
+		"interrogative"
+	],
+	[
+		"What are you waiting for?",
+		"interrogative"
+	],
+	[
+		"What book did you read?",
+		"interrogative"
+	],
+	[
+		"What caused the delay?",
+		"interrogative"
+	],
+	[
+		"What changed since yesterday?",
+		"interrogative"
+	],
+	[
+		"What color do you prefer?",
+		"interrogative"
+	],
+	[
+		"What did you buy?",
+		"interrogative"
+	],
+	[
+		"What did you do that for?",
+		"interrogative"
+	],
+	[
+		"What did you say that for?",
+		"interrogative"
+	],
+	[
+		"What did you steal from the store?",
+		"interrogative"
+	],
+	[
+		"What didn't happen?",
+		"interrogative"
+	],
+	[
+		"What didn't work?",
+		"interrogative"
+	],
+	[
+		"What difference does it make if we launch a day late?",
+		"interrogative"
+	],
+	[
+		"What difference does it make?",
+		"interrogative"
+	],
+	[
+		"What do you say to that?",
+		"interrogative"
+	],
+	[
+		"What do you say we call it a day?",
+		"interrogative"
+	],
+	[
+		"What do you say we take a walk?",
+		"interrogative"
+	],
+	[
+		"What do you think about the new boss?",
+		"interrogative"
+	],
+	[
+		"What do you think caused the miscommunication earlier?",
+		"interrogative"
+	],
+	[
+		"What do you think he wants?",
+		"interrogative"
+	],
+	[
+		"What do you think went wrong during the presentation?",
+		"interrogative"
+	],
+	[
+		"What does he look like?",
+		"interrogative"
+	],
+	[
+		"What does she look like?",
+		"interrogative"
+	],
+	[
+		"What does the traceback error mean when it says \"AttributeError: 'NoneType'\"?",
+		"interrogative"
+	],
+	[
+		"What does this error message even mean?",
+		"interrogative"
+	],
+	[
+		"What does this mean?",
+		"interrogative"
+	],
+	[
+		"What dress should I wear?",
+		"interrogative"
+	],
+	[
+		"What else could possibly go wrong today?",
+		"interrogative"
+	],
+	[
+		"What else do you need?",
+		"interrogative"
+	],
+	[
+		"What for?",
+		"interrogative"
+	],
+	[
+		"What gives?",
+		"interrogative"
+	],
+	[
+		"What goes where?",
+		"interrogative"
+	],
+	[
+		"What happened next?",
+		"interrogative"
+	],
+	[
+		"What happened?",
+		"interrogative"
+	],
+	[
+		"What happens if the request times out?",
+		"interrogative"
+	],
+	[
+		"What happens to the queue if the worker crashes?",
+		"interrogative"
+	],
+	[
+		"What have you been doing?",
+		"interrogative"
+	],
+	[
+		"What have you been up to?",
+		"interrogative"
+	],
+	[
+		"What if he says no?",
+		"interrogative"
+	],
+	[
+		"What if he's late?",
+		"interrogative"
+	],
+	[
+		"What if it doesn't work?",
+		"interrogative"
+	],
+	[
+		"What if it rains?",
+		"interrogative"
+	],
+	[
+		"What if they don't come?",
+		"interrogative"
+	],
+	[
+		"What if we fail?",
+		"interrogative"
+	],
+	[
+		"What if we miss the train?",
+		"interrogative"
+	],
+	[
+		"What is he like?",
+		"interrogative"
+	],
+	[
+		"What is it that bothers you?",
+		"interrogative"
+	],
+	[
+		"What is it that you want?",
+		"interrogative"
+	],
+	[
+		"What is the best source of protein for vegans?",
+		"interrogative"
+	],
+	[
+		"What is the best strategy for branching in a team?",
+		"interrogative"
+	],
+	[
+		"What is the best subject line for a newsletter?",
+		"interrogative"
+	],
+	[
+		"What is the best time of year to visit Iceland?",
+		"interrogative"
+	],
+	[
+		"What is the best way to explain a gap in employment?",
+		"interrogative"
+	],
+	[
+		"What is the best way to find the shortest path in a weighted graph?",
+		"interrogative"
+	],
+	[
+		"What is the best way to manage global state in a large app?",
+		"interrogative"
+	],
+	[
+		"What is the best way to model a many-to-many relationship?",
+		"interrogative"
+	],
+	[
+		"What is the best way to structure a three-act story?",
+		"interrogative"
+	],
+	[
+		"What is the difference between a metaphor and a simile?",
+		"interrogative"
+	],
+	[
+		"What is the difference between absolute and relative cell references?",
+		"interrogative"
+	],
+	[
+		"What is the difference between supervised and unsupervised learning?",
+		"interrogative"
+	],
+	[
+		"What is the meaning of the \"undefined is not a function\" error?",
+		"interrogative"
+	],
+	[
+		"What is there to do?",
+		"interrogative"
+	],
+	[
+		"What is there to see?",
+		"interrogative"
+	],
+	[
+		"What is this made of?",
+		"interrogative"
+	],
+	[
+		"What is this tool for?",
+		"interrogative"
+	],
+	[
+		"What kind of car do you drive?",
+		"interrogative"
+	],
+	[
+		"What kind of metrics are we tracking for user engagement?",
+		"interrogative"
+	],
+	[
+		"What kind of music do you like?",
+		"interrogative"
+	],
+	[
+		"What kind of world are we leaving for the next generation?",
+		"interrogative"
+	],
+	[
+		"What made this project so challenging for the team?",
+		"interrogative"
+	],
+	[
+		"What made you decide to switch careers?",
+		"interrogative"
+	],
+	[
+		"What makes a good magic system in a fantasy world?",
+		"interrogative"
+	],
+	[
+		"What makes you say that?",
+		"interrogative"
+	],
+	[
+		"What makes you think I'm wrong?",
+		"interrogative"
+	],
+	[
+		"What makes you think that?",
+		"interrogative"
+	],
+	[
+		"What now?",
+		"interrogative"
+	],
+	[
+		"What on earth are you doing?",
+		"interrogative"
+	],
+	[
+		"What on earth is that?",
+		"interrogative"
+	],
+	[
+		"What questions do you have for me at this point?",
+		"interrogative"
+	],
+	[
+		"What should I name this variable?",
+		"interrogative"
+	],
+	[
+		"What sort of answer is that?",
+		"interrogative"
+	],
+	[
+		"What sort of person is she?",
+		"interrogative"
+	],
+	[
+		"What the devil is going on?",
+		"interrogative"
+	],
+	[
+		"What the hell is that?",
+		"interrogative"
+	],
+	[
+		"What time does the conference start tomorrow?",
+		"interrogative"
+	],
+	[
+		"What time does the meeting start?",
+		"interrogative"
+	],
+	[
+		"What time does the standup start?",
+		"interrogative"
+	],
+	[
+		"What time does the store open?",
+		"interrogative"
+	],
+	[
+		"What time is it?",
+		"interrogative"
+	],
+	[
+		"What time works best for everyone tomorrow?",
+		"interrogative"
+	],
+	[
+		"What time?",
+		"interrogative"
+	],
+	[
+		"What to do?",
+		"interrogative"
+	],
+	[
+		"What to say?",
+		"interrogative"
+	],
+	[
+		"What to wear?",
+		"interrogative"
+	],
+	[
+		"What topics will be covered in the certification exam?",
+		"interrogative"
+	],
+	[
+		"What type of car does she drive?",
+		"interrogative"
+	],
+	[
+		"What type of music is this?",
+		"interrogative"
+	],
+	[
+		"What was done about it?",
+		"interrogative"
+	],
+	[
+		"What will be done?",
+		"interrogative"
+	],
+	[
+		"What would happen if two users submit at the same time?",
+		"interrogative"
+	],
+	[
+		"What would you like: soup or salad?",
+		"interrogative"
+	],
+	[
+		"What?",
+		"interrogative"
+	],
+	[
+		"What's a good test case for this edge condition?",
+		"interrogative"
+	],
+	[
+		"What's a stronger word than good here?",
+		"interrogative"
+	],
+	[
+		"What's causing the delay on the shipment?",
+		"interrogative"
+	],
+	[
+		"What's causing this memory leak?",
+		"interrogative"
+	],
+	[
+		"What's happening?",
+		"interrogative"
+	],
+	[
+		"What's holding up the approval process?",
+		"interrogative"
+	],
+	[
+		"What's new?",
+		"interrogative"
+	],
+	[
+		"What's she like?",
+		"interrogative"
+	],
+	[
+		"What's the backup strategy?",
+		"interrogative"
+	],
+	[
+		"What's the best library for form validation?",
+		"interrogative"
+	],
+	[
+		"What's the best way to reach you outside of work hours?",
+		"interrogative"
+	],
+	[
+		"What's the book about?",
+		"interrogative"
+	],
+	[
+		"What's the capacity of the team?",
+		"interrogative"
+	],
+	[
+		"What's the context for this?",
+		"interrogative"
+	],
+	[
+		"What's the CPU load?",
+		"interrogative"
+	],
+	[
+		"What's the deadline for submitting the final report?",
+		"interrogative"
+	],
+	[
+		"What's the depreciation schedule?",
+		"interrogative"
+	],
+	[
+		"What's the difference between authentication and authorization?",
+		"interrogative"
+	],
+	[
+		"What's the difference between let and var?",
+		"interrogative"
+	],
+	[
+		"What's the difference between these two branches?",
+		"interrogative"
+	],
+	[
+		"What's the error rate?",
+		"interrogative"
+	],
+	[
+		"What's the ETA on this?",
+		"interrogative"
+	],
+	[
+		"What's the expected outcome?",
+		"interrogative"
+	],
+	[
+		"What's the expected output for this input?",
+		"interrogative"
+	],
+	[
+		"What's the expected ROI?",
+		"interrogative"
+	],
+	[
+		"What's the fallback if the API is down?",
+		"interrogative"
+	],
+	[
+		"What's the fastest way to resolve this for the customer?",
+		"interrogative"
+	],
+	[
+		"What's the fastest way to sort a large array?",
+		"interrogative"
+	],
+	[
+		"What's the feedback from the users?",
+		"interrogative"
+	],
+	[
+		"What's the gross margin?",
+		"interrogative"
+	],
+	[
+		"What's the impact on the roadmap?",
+		"interrogative"
+	],
+	[
+		"What's the IP address?",
+		"interrogative"
+	],
+	[
+		"What's the latency?",
+		"interrogative"
+	],
+	[
+		"What's the load time?",
+		"interrogative"
+	],
+	[
+		"What's the materiality threshold?",
+		"interrogative"
+	],
+	[
+		"What's the matter?",
+		"interrogative"
+	],
+	[
+		"What's the memory usage?",
+		"interrogative"
+	],
+	[
+		"What's the movie about?",
+		"interrogative"
+	],
+	[
+		"What's the next step once this gets approved?",
+		"interrogative"
+	],
+	[
+		"What's the password for the wifi?",
+		"interrogative"
+	],
+	[
+		"What's the penalty clause?",
+		"interrogative"
+	],
+	[
+		"What's the plan if the migration fails?",
+		"interrogative"
+	],
+	[
+		"What's the point of having a backup if we never test it?",
+		"interrogative"
+	],
+	[
+		"What's the point of memoizing this value?",
+		"interrogative"
+	],
+	[
+		"What's the port number?",
+		"interrogative"
+	],
+	[
+		"What's the priority here?",
+		"interrogative"
+	],
+	[
+		"What's the problem?",
+		"interrogative"
+	],
+	[
+		"What's the query limit?",
+		"interrogative"
+	],
+	[
+		"What's the reasoning behind pushing the launch date back?",
+		"interrogative"
+	],
+	[
+		"What's the renewal date?",
+		"interrogative"
+	],
+	[
+		"What's the resolution time?",
+		"interrogative"
+	],
+	[
+		"What's the risk assessment?",
+		"interrogative"
+	],
+	[
+		"What's the rollback plan?",
+		"interrogative"
+	],
+	[
+		"What's the root cause?",
+		"interrogative"
+	],
+	[
+		"What's the scope of work?",
+		"interrogative"
+	],
+	[
+		"What's the SLA for this?",
+		"interrogative"
+	],
+	[
+		"What's the status on the login bug?",
+		"interrogative"
+	],
+	[
+		"What's the status on the vendor negotiations?",
+		"interrogative"
+	],
+	[
+		"What's the tax rate?",
+		"interrogative"
+	],
+	[
+		"What's the timeline for phase two?",
+		"interrogative"
+	],
+	[
+		"What's the tone you're going for in this piece?",
+		"interrogative"
+	],
+	[
+		"What's the use?",
+		"interrogative"
+	],
+	[
+		"What's the user flow?",
+		"interrogative"
+	],
+	[
+		"What's the weather like there?",
+		"interrogative"
+	],
+	[
+		"What's the weather like?",
+		"interrogative"
+	],
+	[
+		"What's the Wi-Fi password?",
+		"interrogative"
+	],
+	[
+		"What's this button for?",
+		"interrogative"
+	],
+	[
+		"What's up?",
+		"interrogative"
+	],
+	[
+		"What's wrong?",
+		"interrogative"
+	],
+	[
+		"What's your availability like for the rest of the week?",
+		"interrogative"
+	],
+	[
+		"What's your biggest takeaway from the interview?",
+		"interrogative"
+	],
+	[
+		"What's your favorite color?",
+		"interrogative"
+	],
+	[
+		"What's your favorite restaurant?",
+		"interrogative"
+	],
+	[
+		"What's your major in college?",
+		"interrogative"
+	],
+	[
+		"What's your phone number?",
+		"interrogative"
+	],
+	[
+		"What's your preference: tea or coffee?",
+		"interrogative"
+	],
+	[
+		"What's your take on this design pattern?",
+		"interrogative"
+	],
+	[
+		"Whatever do you mean?",
+		"interrogative"
+	],
+	[
+		"Whatever do you want?",
+		"interrogative"
+	],
+	[
+		"When are we leaving?",
+		"interrogative"
+	],
+	[
+		"When are we supposed to submit our performance reviews?",
+		"interrogative"
+	],
+	[
+		"When did this start happening?",
+		"interrogative"
+	],
+	[
+		"When did you first realize you wanted to become a developer?",
+		"interrogative"
+	],
+	[
+		"When is the deadline for the quarterly report?",
+		"interrogative"
+	],
+	[
+		"When is the next release scheduled?",
+		"interrogative"
+	],
+	[
+		"When will the feature be ready?",
+		"interrogative"
+	],
+	[
+		"When will the new policy take effect?",
+		"interrogative"
+	],
+	[
+		"When will they arrive?",
+		"interrogative"
+	],
+	[
+		"When?",
+		"interrogative"
+	],
+	[
+		"Where are my keys?",
+		"interrogative"
+	],
+	[
+		"Where are you going?",
+		"interrogative"
+	],
+	[
+		"Where can I download the recording of yesterday's lecture?",
+		"interrogative"
+	],
+	[
+		"Where can I find the API keys?",
+		"interrogative"
+	],
+	[
+		"Where did I put that config file?",
+		"interrogative"
+	],
+	[
+		"Where did you find that interesting article?",
+		"interrogative"
+	],
+	[
+		"Where did you put it?",
+		"interrogative"
+	],
+	[
+		"Where do you see the industry heading in the next five years?",
+		"interrogative"
+	],
+	[
+		"Where do you think she went?",
+		"interrogative"
+	],
+	[
+		"Where does he come from?",
+		"interrogative"
+	],
+	[
+		"Where does this error actually originate from?",
+		"interrogative"
+	],
+	[
+		"Where else did you look?",
+		"interrogative"
+	],
+	[
+		"Where ever did you find that?",
+		"interrogative"
+	],
+	[
+		"Where exactly is the data center located?",
+		"interrogative"
+	],
+	[
+		"Where in the world did you go?",
+		"interrogative"
+	],
+	[
+		"Where is the project tracker?",
+		"interrogative"
+	],
+	[
+		"Where is the station?",
+		"interrogative"
+	],
+	[
+		"Where should I put the utility functions?",
+		"interrogative"
+	],
+	[
+		"Where to go?",
+		"interrogative"
+	],
+	[
+		"Where to sit?",
+		"interrogative"
+	],
+	[
+		"Where to?",
+		"interrogative"
+	],
+	[
+		"Where will it all end if we keep expanding the scope?",
+		"interrogative"
+	],
+	[
+		"Where?",
+		"interrogative"
+	],
+	[
+		"Whereabouts are you?",
+		"interrogative"
+	],
+	[
+		"Whether is he coming?",
+		"interrogative"
+	],
+	[
+		"Which activation function should I use for the output layer?",
+		"interrogative"
+	],
+	[
+		"Which book did you read?",
+		"interrogative"
+	],
+	[
+		"Which city has the best nightlife in Spain?",
+		"interrogative"
+	],
+	[
+		"Which color do you prefer?",
+		"interrogative"
+	],
+	[
+		"Which communication style works best for remote teams?",
+		"interrogative"
+	],
+	[
+		"Which company does she work for?",
+		"interrogative"
+	],
+	[
+		"Which data structure is best for implementing a priority queue?",
+		"interrogative"
+	],
+	[
+		"Which database is best for handling time-series data?",
+		"interrogative"
+	],
+	[
+		"Which do you prefer, tea or coffee?",
+		"interrogative"
+	],
+	[
+		"Which dress should I wear?",
+		"interrogative"
+	],
+	[
+		"Which folder contains the latest design assets?",
+		"interrogative"
+	],
+	[
+		"Which framework would you recommend for a small project?",
+		"interrogative"
+	],
+	[
+		"Which function is best for counting cells with text?",
+		"interrogative"
+	],
+	[
+		"Which genre is the most popular right now?",
+		"interrogative"
+	],
+	[
+		"Which is better for debugging, print statements or step-through?",
+		"interrogative"
+	],
+	[
+		"Which is better for hosting, Heroku or Render?",
+		"interrogative"
+	],
+	[
+		"Which is better for joints, swimming or cycling?",
+		"interrogative"
+	],
+	[
+		"Which is better, the red one or the blue one?",
+		"interrogative"
+	],
+	[
+		"Which is faster for large-scale scraping, async or threading?",
+		"interrogative"
+	],
+	[
+		"Which method yields the most accurate results in your experience?",
+		"interrogative"
+	],
+	[
+		"Which of the books is yours?",
+		"interrogative"
+	],
+	[
+		"Which of these options is the most cost-effective?",
+		"interrogative"
+	],
+	[
+		"Which of you wants to go?",
+		"interrogative"
+	],
+	[
+		"Which one broke?",
+		"interrogative"
+	],
+	[
+		"Which one do you want?",
+		"interrogative"
+	],
+	[
+		"Which one isn't working?",
+		"interrogative"
+	],
+	[
+		"Which one loads faster, this or the old version?",
+		"interrogative"
+	],
+	[
+		"Which one?",
+		"interrogative"
+	],
+	[
+		"Which state management library is best for beginners?",
+		"interrogative"
+	],
+	[
+		"Which team didn't score?",
+		"interrogative"
+	],
+	[
+		"Which team is currently leading the sales competition?",
+		"interrogative"
+	],
+	[
+		"Which team won?",
+		"interrogative"
+	],
+	[
+		"Which technical stacks are most in demand right now?",
+		"interrogative"
+	],
+	[
+		"Which train did you take?",
+		"interrogative"
+	],
+	[
+		"Which version of Node are you running?",
+		"interrogative"
+	],
+	[
+		"Which version of the language model are you?",
+		"interrogative"
+	],
+	[
+		"Which writing style is preferred for academic journals?",
+		"interrogative"
+	],
+	[
+		"Whichever do you prefer?",
+		"interrogative"
+	],
+	[
+		"Whichever do you want?",
+		"interrogative"
+	],
+	[
+		"Who all is coming?",
+		"interrogative"
+	],
+	[
+		"Who am I to judge?",
+		"interrogative"
+	],
+	[
+		"Who approved this pull request?",
+		"interrogative"
+	],
+	[
+		"Who are you talking to?",
+		"interrogative"
+	],
+	[
+		"Who ate what?",
+		"interrogative"
+	],
+	[
+		"Who authorized the budget increase for the marketing campaign?",
+		"interrogative"
+	],
+	[
+		"Who called?",
+		"interrogative"
+	],
+	[
+		"Who cares?",
+		"interrogative"
+	],
+	[
+		"Who did call?",
+		"interrogative"
+	],
+	[
+		"Who did this?",
+		"interrogative"
+	],
+	[
+		"Who did what?",
+		"interrogative"
+	],
+	[
+		"Who did you go with?",
+		"interrogative"
+	],
+	[
+		"Who did you meet?",
+		"interrogative"
+	],
+	[
+		"Who did you talk to?",
+		"interrogative"
+	],
+	[
+		"Who didn't call?",
+		"interrogative"
+	],
+	[
+		"Who didn't come?",
+		"interrogative"
+	],
+	[
+		"Who do you think did it?",
+		"interrogative"
+	],
+	[
+		"Who do you think will win?",
+		"interrogative"
+	],
+	[
+		"Who doesn't love a good success story?",
+		"interrogative"
+	],
+	[
+		"Who else is coming?",
+		"interrogative"
+	],
+	[
+		"Who ever told you that?",
+		"interrogative"
+	],
+	[
+		"Who gave what to whom?",
+		"interrogative"
+	],
+	[
+		"Who has the permissions?",
+		"interrogative"
+	],
+	[
+		"Who has the time to read a 500-page manual?",
+		"interrogative"
+	],
+	[
+		"Who in the world would do that?",
+		"interrogative"
+	],
+	[
+		"Who in their right mind would approve this budget?",
+		"interrogative"
+	],
+	[
+		"Who is driving the meeting?",
+		"interrogative"
+	],
+	[
+		"Who is hosting the webinar?",
+		"interrogative"
+	],
+	[
+		"Who is it that called?",
+		"interrogative"
+	],
+	[
+		"Who is managing the dashboard?",
+		"interrogative"
+	],
+	[
+		"Who is on call this weekend?",
+		"interrogative"
+	],
+	[
+		"Who is presenting next?",
+		"interrogative"
+	],
+	[
+		"Who is responsible for handling customer complaints?",
+		"interrogative"
+	],
+	[
+		"Who is taking notes?",
+		"interrogative"
+	],
+	[
+		"Who is the auditor?",
+		"interrogative"
+	],
+	[
+		"Who is the bookkeeper?",
+		"interrogative"
+	],
+	[
+		"Who is the CPA?",
+		"interrogative"
+	],
+	[
+		"Who is the DBA?",
+		"interrogative"
+	],
+	[
+		"Who is the legal contact?",
+		"interrogative"
+	],
+	[
+		"Who is the point of contact?",
+		"interrogative"
+	],
+	[
+		"Who is the stakeholder for this?",
+		"interrogative"
+	],
+	[
+		"Who is the vendor?",
+		"interrogative"
+	],
+	[
+		"Who knows?",
+		"interrogative"
+	],
+	[
+		"Who lives where?",
+		"interrogative"
+	],
+	[
+		"Who needs to be cc'd on this?",
+		"interrogative"
+	],
+	[
+		"Who owns this task?",
+		"interrogative"
+	],
+	[
+		"Who said what about whom?",
+		"interrogative"
+	],
+	[
+		"Who should I contact regarding the technical glitch?",
+		"interrogative"
+	],
+	[
+		"Who should I route this to?",
+		"interrogative"
+	],
+	[
+		"Who to talk to?",
+		"interrogative"
+	],
+	[
+		"Who was hurt?",
+		"interrogative"
+	],
+	[
+		"Who was invited?",
+		"interrogative"
+	],
+	[
+		"Who went where?",
+		"interrogative"
+	],
+	[
+		"Who what did?",
+		"interrogative"
+	],
+	[
+		"Who will be presenting the keynote speech?",
+		"interrogative"
+	],
+	[
+		"Who with?",
+		"interrogative"
+	],
+	[
+		"Who won the game last night?",
+		"interrogative"
+	],
+	[
+		"Who wrote this?",
+		"interrogative"
+	],
+	[
+		"Who?",
+		"interrogative"
+	],
+	[
+		"Who's handling the frontend for this feature?",
+		"interrogative"
+	],
+	[
+		"Who's next?",
+		"interrogative"
+	],
+	[
+		"Whoever could that be?",
+		"interrogative"
+	],
+	[
+		"Whom did you see?",
+		"interrogative"
+	],
+	[
+		"Whose are these?",
+		"interrogative"
+	],
+	[
+		"Whose book is this?",
+		"interrogative"
+	],
+	[
+		"Whose car was parked outside?",
+		"interrogative"
+	],
+	[
+		"Whose dog barked?",
+		"interrogative"
+	],
+	[
+		"Whose idea was that?",
+		"interrogative"
+	],
+	[
+		"Whose is this?",
+		"interrogative"
+	],
+	[
+		"Whose turn is it?",
+		"interrogative"
+	],
+	[
+		"Why am I getting a syntax error near the GROUP BY clause?",
+		"interrogative"
+	],
+	[
+		"Why are you always late?",
+		"interrogative"
+	],
+	[
+		"Why bother optimizing something this small?",
+		"interrogative"
+	],
+	[
+		"Why bother?",
+		"interrogative"
+	],
+	[
+		"Why did the stock market drop so suddenly?",
+		"interrogative"
+	],
+	[
+		"Why did they leave?",
+		"interrogative"
+	],
+	[
+		"Why didn't you call?",
+		"interrogative"
+	],
+	[
+		"Why do birds migrate during the winter season?",
+		"interrogative"
+	],
+	[
+		"Why do we always wait until the last minute to prepare?",
+		"interrogative"
+	],
+	[
+		"Why do we keep running into the same issue?",
+		"interrogative"
+	],
+	[
+		"Why do you think the customer decided to cancel?",
+		"interrogative"
+	],
+	[
+		"Why do you think the last campaign underperformed?",
+		"interrogative"
+	],
+	[
+		"Why do you think the tests are flaky?",
+		"interrogative"
+	],
+	[
+		"Why does my program work perfectly in debug mode but fail in release?",
+		"interrogative"
+	],
+	[
+		"Why does the essay feel repetitive around the middle?",
+		"interrogative"
+	],
+	[
+		"Why does the layout shift when the image loads?",
+		"interrogative"
+	],
+	[
+		"Why does the sidebar flicker on load?",
+		"interrogative"
+	],
+	[
+		"Why does this component re-render so often?",
+		"interrogative"
+	],
+	[
+		"Why does this keep asking me to log in again?",
+		"interrogative"
+	],
+	[
+		"Why don't you take a break?",
+		"interrogative"
+	],
+	[
+		"Why go now?",
+		"interrogative"
+	],
+	[
+		"Why hasn't anyone flagged this earlier?",
+		"interrogative"
+	],
+	[
+		"Why is it always me who has to clean up the mess?",
+		"interrogative"
+	],
+	[
+		"Why is it that you always ask?",
+		"interrogative"
+	],
+	[
+		"Why is it that you never call?",
+		"interrogative"
+	],
+	[
+		"Why is my component re-rendering every time the state updates?",
+		"interrogative"
+	],
+	[
+		"Why is my dynamic programming solution exceeding the time limit?",
+		"interrogative"
+	],
+	[
+		"Why is my local branch out of sync with the remote?",
+		"interrogative"
+	],
+	[
+		"Why is my loss function returning NaN values?",
+		"interrogative"
+	],
+	[
+		"Why is my pivot table not refreshing?",
+		"interrogative"
+	],
+	[
+		"Why is my request being blocked by Cloudflare?",
+		"interrogative"
+	],
+	[
+		"Why is the console showing a warning instead of an error?",
+		"interrogative"
+	],
+	[
+		"Why is the response body empty?",
+		"interrogative"
+	],
+	[
+		"Why is the server down?",
+		"interrogative"
+	],
+	[
+		"Why is the system running slower than usual today?",
+		"interrogative"
+	],
+	[
+		"Why is your argument so weak?",
+		"interrogative"
+	],
+	[
+		"Why isn't this loop terminating?",
+		"interrogative"
+	],
+	[
+		"Why leave?",
+		"interrogative"
+	],
+	[
+		"Why me?",
+		"interrogative"
+	],
+	[
+		"Why not ask for help?",
+		"interrogative"
+	],
+	[
+		"Why not ask her?",
+		"interrogative"
+	],
+	[
+		"Why not go now?",
+		"interrogative"
+	],
+	[
+		"Why not leave early?",
+		"interrogative"
+	],
+	[
+		"Why not try a different approach?",
+		"interrogative"
+	],
+	[
+		"Why not try again?",
+		"interrogative"
+	],
+	[
+		"Why not?",
+		"interrogative"
+	],
+	[
+		"Why the hell did you say that?",
+		"interrogative"
+	],
+	[
+		"Why though?",
+		"interrogative"
+	],
+	[
+		"Why wasn't I informed about the schedule change?",
+		"interrogative"
+	],
+	[
+		"Why would anyone still use callbacks over async await?",
+		"interrogative"
+	],
+	[
+		"Why would I lie?",
+		"interrogative"
+	],
+	[
+		"Why?",
+		"interrogative"
+	],
+	[
+		"Will adding an index to this column slow down inserts?",
+		"interrogative"
+	],
+	[
+		"Will AI eventually replace all programmers?",
+		"interrogative"
+	],
+	[
+		"Will converting this to a table make it faster?",
+		"interrogative"
+	],
+	[
+		"Will drinking more water help my muscle recovery?",
+		"interrogative"
+	],
+	[
+		"Will enabling strict mode catch these types of errors earlier?",
+		"interrogative"
+	],
+	[
+		"Will getting a certification in cloud computing help my career?",
+		"interrogative"
+	],
+	[
+		"Will my phone work internationally without extra charges?",
+		"interrogative"
+	],
+	[
+		"Will reading more poetry improve my prose?",
+		"interrogative"
+	],
+	[
+		"Will sending a reminder email seem annoying?",
+		"interrogative"
+	],
+	[
+		"Will the keynote be delivered by the CEO or the CTO?",
+		"interrogative"
+	],
+	[
+		"Will the letter have been sent?",
+		"interrogative"
+	],
+	[
+		"Will there be a test environment available for the QA team?",
+		"interrogative"
+	],
+	[
+		"Will there be food?",
+		"interrogative"
+	],
+	[
+		"Will using a batch size of 32 improve convergence?",
+		"interrogative"
+	],
+	[
+		"Will using a monorepo make our version control easier?",
+		"interrogative"
+	],
+	[
+		"Will using memoization significantly improve the performance here?",
+		"interrogative"
+	],
+	[
+		"Will using Next.js improve my site's SEO?",
+		"interrogative"
+	],
+	[
+		"Will using short sentences improve the readability score?",
+		"interrogative"
+	],
+	[
+		"Will using time.sleep() prevent my IP from getting banned?",
+		"interrogative"
+	],
+	[
+		"Will you be attending the event in person or virtually?",
+		"interrogative"
+	],
+	[
+		"Will you be attending?",
+		"interrogative"
+	],
+	[
+		"Will you be staying long?",
+		"interrogative"
+	],
+	[
+		"Will you be there?",
+		"interrogative"
+	],
+	[
+		"Will you have some tea?",
+		"interrogative"
+	],
+	[
+		"With whom did you go?",
+		"interrogative"
+	],
+	[
+		"Won't this break backward compatibility?",
+		"interrogative"
+	],
+	[
+		"Won't you join us?",
+		"interrogative"
+	],
+	[
+		"Won't you sit down?",
+		"interrogative"
+	],
+	[
+		"Working now?",
+		"interrogative"
+	],
+	[
+		"Would it be okay if I joined the call a few minutes late?",
+		"interrogative"
+	],
+	[
+		"Would it be possible to move our meeting to Thursday?",
+		"interrogative"
+	],
+	[
+		"Would it help if I sat in on that call?",
+		"interrogative"
+	],
+	[
+		"Would it help to add an index on this column?",
+		"interrogative"
+	],
+	[
+		"Would switching to TypeScript help catch these bugs?",
+		"interrogative"
+	],
+	[
+		"Would you be able to review this before noon?",
+		"interrogative"
+	],
+	[
+		"Would you be open to revisiting the original proposal?",
+		"interrogative"
+	],
+	[
+		"Would you be so kind as to help me?",
+		"interrogative"
+	],
+	[
+		"Would you be willing to take the lead on this project?",
+		"interrogative"
+	],
+	[
+		"Would you care for some tea?",
+		"interrogative"
+	],
+	[
+		"Would you happen to know who is handling the PR campaign?",
+		"interrogative"
+	],
+	[
+		"Would you help?",
+		"interrogative"
+	],
+	[
+		"Would you like me to summarize the findings or provide the full report?",
+		"interrogative"
+	],
+	[
+		"Would you like some coffee?",
+		"interrogative"
+	],
+	[
+		"Would you like some more?",
+		"interrogative"
+	],
+	[
+		"Would you like some tea?",
+		"interrogative"
+	],
+	[
+		"Would you like something to drink?",
+		"interrogative"
+	],
+	[
+		"Would you like tea or coffee?",
+		"interrogative"
+	],
+	[
+		"Would you mind if I opened the window?",
+		"interrogative"
+	],
+	[
+		"Would you mind if I sat here?",
+		"interrogative"
+	],
+	[
+		"Would you mind opening the window?",
+		"interrogative"
+	],
+	[
+		"Would you mind passing the salt?",
+		"interrogative"
+	],
+	[
+		"Would you mind reviewing this later?",
+		"interrogative"
+	],
+	[
+		"Would you mind sharing your screen for a second?",
+		"interrogative"
+	],
+	[
+		"Would you rather meet in person or over video call?",
+		"interrogative"
+	],
+	[
+		"Would you rather stay in?",
+		"interrogative"
+	],
+	[
+		"Would you rather work from home or come into the office?",
+		"interrogative"
+	],
+	[
+		"Would you recommend learning Python or R for data analysis?",
+		"interrogative"
+	],
+	[
+		"Would you say this candidate is a strong fit?",
+		"interrogative"
+	],
+	[
+		"You aren't coming, are you?",
+		"interrogative"
+	],
+	[
+		"You bought what?",
+		"interrogative"
+	],
+	[
+		"You busy?",
+		"interrogative"
+	],
+	[
+		"You coming?",
+		"interrogative"
+	],
+	[
+		"You did call, didn't you?",
+		"interrogative"
+	],
+	[
+		"You didn't delete the backup, did you?",
+		"interrogative"
+	],
+	[
+		"You didn't forget to save the file, did you?",
+		"interrogative"
+	],
+	[
+		"You didn't see the suspect, did you?",
+		"interrogative"
+	],
+	[
+		"You don't really believe that, do you?",
+		"interrogative"
+	],
+	[
+		"You free?",
+		"interrogative"
+	],
+	[
+		"You in?",
+		"interrogative"
+	],
+	[
+		"You know how to use the new software, don't you?",
+		"interrogative"
+	],
+	[
+		"You like coffee, don't you?",
+		"interrogative"
+	],
+	[
+		"You okay with that?",
+		"interrogative"
+	],
+	[
+		"You okay?",
+		"interrogative"
+	],
+	[
+		"You said what?",
+		"interrogative"
+	],
+	[
+		"You saw him where?",
+		"interrogative"
+	],
+	[
+		"You sure?",
+		"interrogative"
+	],
+	[
+		"You there yet?",
+		"interrogative"
+	],
+	[
+		"You there?",
+		"interrogative"
+	],
+	[
+		"You think this is the right approach, don't you?",
+		"interrogative"
+	],
+	[
+		"You were at home last night, weren't you?",
+		"interrogative"
+	],
+	[
+		"You weren't expecting to see me here, were you?",
+		"interrogative"
+	],
+	[
+		"You will send out the agenda soon, won't you?",
+		"interrogative"
+	],
+	[
+		"You'd better go, hadn't you?",
+		"interrogative"
+	],
+	[
+		"You'd rather stay, wouldn't you?",
+		"interrogative"
+	],
+	[
+		"You're coming, aren't you?",
+		"interrogative"
+	],
+	[
+		"You're not going to leave, are you?",
+		"interrogative"
+	],
+	[
+		"You're not serious, are you?",
+		"interrogative"
+	],
+	[
+		"Absolutely brilliant!",
+		"exclamatory"
+	],
+	[
+		"Absolutely incredible!",
+		"exclamatory"
+	],
+	[
+		"Ah, finally I found the typo!",
+		"exclamatory"
+	],
+	[
+		"Alarming situation!",
+		"exclamatory"
+	],
+	[
+		"Amazing work on the presentation!",
+		"exclamatory"
+	],
+	[
+		"Amazing, the load time dropped by half!",
+		"exclamatory"
+	],
+	[
+		"Amazing!",
+		"exclamatory"
+	],
+	[
+		"Appalling customer service!",
+		"exclamatory"
+	],
+	[
+		"Argh, the deadline got moved up again!",
+		"exclamatory"
+	],
+	[
+		"Astonishing performance!",
+		"exclamatory"
+	],
+	[
+		"Astounding results!",
+		"exclamatory"
+	],
+	[
+		"Awesome, let's do it!",
+		"exclamatory"
+	],
+	[
+		"Awesome, the deploy went smoothly!",
+		"exclamatory"
+	],
+	[
+		"Bravo, that's a really elegant fix!",
+		"exclamatory"
+	],
+	[
+		"Breathtaking view!",
+		"exclamatory"
+	],
+	[
+		"Brilliant idea!",
+		"exclamatory"
+	],
+	[
+		"Disgusting behavior!",
+		"exclamatory"
+	],
+	[
+		"Dreadful news!",
+		"exclamatory"
+	],
+	[
+		"Drop it!",
+		"exclamatory"
+	],
+	[
+		"Exceptional work!",
+		"exclamatory"
+	],
+	[
+		"Fantastic news!",
+		"exclamatory"
+	],
+	[
+		"Fantastic, the client loved it!",
+		"exclamatory"
+	],
+	[
+		"Frightening experience!",
+		"exclamatory"
+	],
+	[
+		"Get out of here!",
+		"exclamatory"
+	],
+	[
+		"Get out!",
+		"exclamatory"
+	],
+	[
+		"Good grief, this is taking forever!",
+		"exclamatory"
+	],
+	[
+		"Good job, everyone!",
+		"exclamatory"
+	],
+	[
+		"Great catch on that edge case!",
+		"exclamatory"
+	],
+	[
+		"Great job on the report!",
+		"exclamatory"
+	],
+	[
+		"Great job on this refactor!",
+		"exclamatory"
+	],
+	[
+		"Great news, the outage is resolved!",
+		"exclamatory"
+	],
+	[
+		"Great, the client signed off on the design!",
+		"exclamatory"
+	],
+	[
+		"Hands off!",
+		"exclamatory"
+	],
+	[
+		"Hold on a second!",
+		"exclamatory"
+	],
+	[
+		"Holy cow!",
+		"exclamatory"
+	],
+	[
+		"Horrifying incident!",
+		"exclamatory"
+	],
+	[
+		"How amazing it is to see the northern lights in person!",
+		"exclamatory"
+	],
+	[
+		"How amazing that this feature shipped early!",
+		"exclamatory"
+	],
+	[
+		"How annoying is this rate limit!",
+		"exclamatory"
+	],
+	[
+		"How annoying!",
+		"exclamatory"
+	],
+	[
+		"How beautiful the sunset looks over the ocean!",
+		"exclamatory"
+	],
+	[
+		"How beautifully the Tailwind classes style this navbar!",
+		"exclamatory"
+	],
+	[
+		"How beautifully the themes tie together at the end!",
+		"exclamatory"
+	],
+	[
+		"How beautifully this animation flows!",
+		"exclamatory"
+	],
+	[
+		"How brilliant the logging strategy you suggested is!",
+		"exclamatory"
+	],
+	[
+		"How brilliant your logic was for that riddle!",
+		"exclamatory"
+	],
+	[
+		"How brilliantly you balanced strength and cardio!",
+		"exclamatory"
+	],
+	[
+		"How brilliantly you solved that logic puzzle!",
+		"exclamatory"
+	],
+	[
+		"How dare you speak to me in that tone!",
+		"exclamatory"
+	],
+	[
+		"How dare you!",
+		"exclamatory"
+	],
+	[
+		"How disturbing!",
+		"exclamatory"
+	],
+	[
+		"How elegant the solution for the pivot table is!",
+		"exclamatory"
+	],
+	[
+		"How elegant this solution is!",
+		"exclamatory"
+	],
+	[
+		"How elegant your git workflow is!",
+		"exclamatory"
+	],
+	[
+		"How elegant your solution for the nested tags is!",
+		"exclamatory"
+	],
+	[
+		"How elegantly the clustering algorithm grouped the outliers!",
+		"exclamatory"
+	],
+	[
+		"How elegantly the data is organized in this sheet!",
+		"exclamatory"
+	],
+	[
+		"How elegantly you handled that difficult customer!",
+		"exclamatory"
+	],
+	[
+		"How elegantly you phrased my project contributions!",
+		"exclamatory"
+	],
+	[
+		"How exceptionally talented the new hire is!",
+		"exclamatory"
+	],
+	[
+		"How exciting!",
+		"exclamatory"
+	],
+	[
+		"How frustrating it is to debug a permission denied error in Linux!",
+		"exclamatory"
+	],
+	[
+		"How frustrating it is to debug a silent transaction rollback!",
+		"exclamatory"
+	],
+	[
+		"How frustrating it is to get ghosted after a final interview!",
+		"exclamatory"
+	],
+	[
+		"How frustrating it is to get injured right before a marathon!",
+		"exclamatory"
+	],
+	[
+		"How frustrating it is when an email bounces back!",
+		"exclamatory"
+	],
+	[
+		"How frustrating it is when the CSS won't center a div!",
+		"exclamatory"
+	],
+	[
+		"How frustrating it is when the flight gets delayed for hours!",
+		"exclamatory"
+	],
+	[
+		"How incredibly convenient the subway system is!",
+		"exclamatory"
+	],
+	[
+		"How incredibly elegant this recursive solution is!",
+		"exclamatory"
+	],
+	[
+		"How incredibly fast this indexed query runs now!",
+		"exclamatory"
+	],
+	[
+		"How incredibly fast time flies!",
+		"exclamatory"
+	],
+	[
+		"How incredibly helpful the stack trace is now that I understand it!",
+		"exclamatory"
+	],
+	[
+		"How incredibly persuasive this sales copy is!",
+		"exclamatory"
+	],
+	[
+		"How incredibly powerful this transformer model is!",
+		"exclamatory"
+	],
+	[
+		"How incredibly professional your tone is here!",
+		"exclamatory"
+	],
+	[
+		"How incredibly proud I am of your accomplishments!",
+		"exclamatory"
+	],
+	[
+		"How incredibly responsive this UI feels now!",
+		"exclamatory"
+	],
+	[
+		"How incredibly smooth the Docker deployment was!",
+		"exclamatory"
+	],
+	[
+		"How incredibly sore my legs are after squats!",
+		"exclamatory"
+	],
+	[
+		"How incredibly useful this macro is for automation!",
+		"exclamatory"
+	],
+	[
+		"How incredibly valuable your interview tips were!",
+		"exclamatory"
+	],
+	[
+		"How incredibly vivid your world-building description is!",
+		"exclamatory"
+	],
+	[
+		"How infuriating it is to deal with mismatched tensor shapes!",
+		"exclamatory"
+	],
+	[
+		"How infuriating it is to get a stack overflow error in recursion!",
+		"exclamatory"
+	],
+	[
+		"How infuriating it is when Excel crashes on a huge file!",
+		"exclamatory"
+	],
+	[
+		"How infuriating it is when the bug refuses to reproduce!",
+		"exclamatory"
+	],
+	[
+		"How infuriating it is when the server hits capacity!",
+		"exclamatory"
+	],
+	[
+		"How infuriating it is when the site changes its structure without warning!",
+		"exclamatory"
+	],
+	[
+		"How infuriating it is when Word crashes before saving!",
+		"exclamatory"
+	],
+	[
+		"How infuriating it is when writer's block hits!",
+		"exclamatory"
+	],
+	[
+		"How satisfying it is to finally close this ticket!",
+		"exclamatory"
+	],
+	[
+		"How satisfying it is to finally ship this!",
+		"exclamatory"
+	],
+	[
+		"How stupid of me to leave my wallet at home!",
+		"exclamatory"
+	],
+	[
+		"How terrible!",
+		"exclamatory"
+	],
+	[
+		"How terrifying it must have been to experience an earthquake!",
+		"exclamatory"
+	],
+	[
+		"How thrilling it must be to travel in space!",
+		"exclamatory"
+	],
+	[
+		"How utterly ridiculous this situation has become!",
+		"exclamatory"
+	],
+	[
+		"How wonderful the local street food smells!",
+		"exclamatory"
+	],
+	[
+		"How wonderful!",
+		"exclamatory"
+	],
+	[
+		"How wonderfully refreshing it is to hear some good news!",
+		"exclamatory"
+	],
+	[
+		"How wonderfully this all came together!",
+		"exclamatory"
+	],
+	[
+		"How wonderfully you captured the brand's voice!",
+		"exclamatory"
+	],
+	[
+		"How wonderfully your prompts are structured!",
+		"exclamatory"
+	],
+	[
+		"I am absolutely blown away by your dedication to this!",
+		"exclamatory"
+	],
+	[
+		"I am absolutely ecstatic about this new opportunity!",
+		"exclamatory"
+	],
+	[
+		"I am absolutely exhausted after that back-to-back schedule!",
+		"exclamatory"
+	],
+	[
+		"I am absolutely exhausted after that long flight!",
+		"exclamatory"
+	],
+	[
+		"I am absolutely floored by how much support poured in from the community the moment we announced we were struggling, it honestly restored my faith in people!",
+		"exclamatory"
+	],
+	[
+		"I am absolutely furious about how this was handled!",
+		"exclamatory"
+	],
+	[
+		"I am absolutely speechless after hearing that announcement!",
+		"exclamatory"
+	],
+	[
+		"I am absolutely stunned that after everything we discussed, they still went ahead and made the decision without even consulting the rest of the team first!",
+		"exclamatory"
+	],
+	[
+		"I am absolutely thrilled that the scraper finally works!",
+		"exclamatory"
+	],
+	[
+		"I am absolutely thrilled with how this turned out!",
+		"exclamatory"
+	],
+	[
+		"I am beyond excited about this partnership!",
+		"exclamatory"
+	],
+	[
+		"I am beyond frustrated that we're still dealing with the same server issues we reported months ago, and nothing seems to have actually been fixed at all!",
+		"exclamatory"
+	],
+	[
+		"I am completely amazed by how fast the CDK deploys!",
+		"exclamatory"
+	],
+	[
+		"I am completely amazed by your communication skills!",
+		"exclamatory"
+	],
+	[
+		"I am completely blown away by the efficiency of the Sieve of Eratosthenes!",
+		"exclamatory"
+	],
+	[
+		"I am completely blown away by the precision of this model!",
+		"exclamatory"
+	],
+	[
+		"I am completely blown away by the speed of your generation!",
+		"exclamatory"
+	],
+	[
+		"I am completely blown away by this animation library!",
+		"exclamatory"
+	],
+	[
+		"I am completely blown away by this complex formula!",
+		"exclamatory"
+	],
+	[
+		"I am completely blown away by this query performance!",
+		"exclamatory"
+	],
+	[
+		"I am completely hooked on this story idea!",
+		"exclamatory"
+	],
+	[
+		"I am completely overwhelmed by how generous everyone has been, from covering extra shifts to picking up the slack, this team truly goes above and beyond!",
+		"exclamatory"
+	],
+	[
+		"I am completely unprepared for this panel interview!",
+		"exclamatory"
+	],
+	[
+		"I am so annoyed by this inconsistent timing bug!",
+		"exclamatory"
+	],
+	[
+		"I am so annoyed that I forgot to pull the latest changes!",
+		"exclamatory"
+	],
+	[
+		"I am so annoyed that the file corrupted before saving!",
+		"exclamatory"
+	],
+	[
+		"I am so confused by the math behind backpropagation!",
+		"exclamatory"
+	],
+	[
+		"I am so confused by these complex nested queries!",
+		"exclamatory"
+	],
+	[
+		"I am so confused by this combinatorics problem!",
+		"exclamatory"
+	],
+	[
+		"I am so embarrassed that I hit \"Reply All\" by mistake!",
+		"exclamatory"
+	],
+	[
+		"I am so excited for this vacation!",
+		"exclamatory"
+	],
+	[
+		"I am so excited to finally meet the whole team in person!",
+		"exclamatory"
+	],
+	[
+		"I am so exhausted from this high-intensity workout!",
+		"exclamatory"
+	],
+	[
+		"I am so frustrated with how slow this process is!",
+		"exclamatory"
+	],
+	[
+		"I am so frustrated with this anti-bot detection system!",
+		"exclamatory"
+	],
+	[
+		"I am so grateful for everything you've done here!",
+		"exclamatory"
+	],
+	[
+		"I am so impressed by how quickly the team adapted!",
+		"exclamatory"
+	],
+	[
+		"I am so impressed by your reasoning capabilities!",
+		"exclamatory"
+	],
+	[
+		"I am so incredibly grateful for how supportive this team has been throughout what has honestly been one of the most difficult transitions of my entire career!",
+		"exclamatory"
+	],
+	[
+		"I am so nervous about the coding challenge!",
+		"exclamatory"
+	],
+	[
+		"I am so nervous about this presentation, my hands are shaking!",
+		"exclamatory"
+	],
+	[
+		"I am so proud of how this chapter turned out!",
+		"exclamatory"
+	],
+	[
+		"I am so proud of how this team handled that!",
+		"exclamatory"
+	],
+	[
+		"I am so relieved this negotiation is finally over!",
+		"exclamatory"
+	],
+	[
+		"I am so sick of fixing cross-browser compatibility issues!",
+		"exclamatory"
+	],
+	[
+		"I am so thankful for such an understanding team!",
+		"exclamatory"
+	],
+	[
+		"I am so tired of staring at this blank page!",
+		"exclamatory"
+	],
+	[
+		"I am so tired of this!",
+		"exclamatory"
+	],
+	[
+		"I am so touched that you remembered my birthday!",
+		"exclamatory"
+	],
+	[
+		"I am utterly amazed by how much better I feel!",
+		"exclamatory"
+	],
+	[
+		"I am utterly amazed by the architecture in Rome!",
+		"exclamatory"
+	],
+	[
+		"I am utterly amazed by your copywriting skills!",
+		"exclamatory"
+	],
+	[
+		"I am utterly exhausted from chasing down this race condition!",
+		"exclamatory"
+	],
+	[
+		"I can't believe how cold it is outside today!",
+		"exclamatory"
+	],
+	[
+		"I can't believe how fast that year went by!",
+		"exclamatory"
+	],
+	[
+		"I can't believe how generous that offer actually is!",
+		"exclamatory"
+	],
+	[
+		"I can't believe how many mistakes made it into the final draft!",
+		"exclamatory"
+	],
+	[
+		"I can't believe how much progress we made in one sprint!",
+		"exclamatory"
+	],
+	[
+		"I can't believe how much the whole team stepped up during the crisis, working nights and weekends without a single complaint, it was truly inspiring to watch!",
+		"exclamatory"
+	],
+	[
+		"I can't believe how much we accomplished today!",
+		"exclamatory"
+	],
+	[
+		"I can't believe how smoothly that meeting went!",
+		"exclamatory"
+	],
+	[
+		"I can't believe how unprepared everyone was for this!",
+		"exclamatory"
+	],
+	[
+		"I can't believe I passed the certification exam on my first try!",
+		"exclamatory"
+	],
+	[
+		"I can't believe it!",
+		"exclamatory"
+	],
+	[
+		"I can't believe my eyes!",
+		"exclamatory"
+	],
+	[
+		"I can't believe the client doubled their budget with us!",
+		"exclamatory"
+	],
+	[
+		"I can't believe they actually said yes!",
+		"exclamatory"
+	],
+	[
+		"I can't believe this bug took three days!",
+		"exclamatory"
+	],
+	[
+		"I can't believe we actually pulled it off!",
+		"exclamatory"
+	],
+	[
+		"I can't believe we actually pulled this off!",
+		"exclamatory"
+	],
+	[
+		"I can't believe we actually won the championship!",
+		"exclamatory"
+	],
+	[
+		"I can't believe we managed to finish the project on time!",
+		"exclamatory"
+	],
+	[
+		"I can't believe we managed to recover from that outage so quickly, the whole engineering team worked around the clock and it truly paid off in the end!",
+		"exclamatory"
+	],
+	[
+		"I can't believe we missed such an obvious mistake!",
+		"exclamatory"
+	],
+	[
+		"I can't believe we're already halfway through the year!",
+		"exclamatory"
+	],
+	[
+		"I can't believe we're finally launching after all this time!",
+		"exclamatory"
+	],
+	[
+		"I can't believe we're still dealing with this issue!",
+		"exclamatory"
+	],
+	[
+		"I can't get over how good this feedback is!",
+		"exclamatory"
+	],
+	[
+		"I can't wait to tell everyone about this promotion!",
+		"exclamatory"
+	],
+	[
+		"I cannot believe how badly that meeting went, considering how much preparation we put into it, everyone in the room looked completely blindsided by the client's reaction!",
+		"exclamatory"
+	],
+	[
+		"I cannot believe the amount of last-minute changes the client threw at us right before the deadline, and somehow this team still managed to pull it off flawlessly!",
+		"exclamatory"
+	],
+	[
+		"I feel completely crushed!",
+		"exclamatory"
+	],
+	[
+		"I feel so rushed right now!",
+		"exclamatory"
+	],
+	[
+		"I finally fixed the broken CI/CD pipeline!",
+		"exclamatory"
+	],
+	[
+		"I finally got the GPU to work with TensorFlow!",
+		"exclamatory"
+	],
+	[
+		"I have never seen a presentation come together so quickly, and the fact that everyone pulled it off in less than two days is absolutely amazing!",
+		"exclamatory"
+	],
+	[
+		"I honestly cannot believe how far this team has come since we first started this project almost a year ago, it's been an incredible journey!",
+		"exclamatory"
+	],
+	[
+		"I love it!",
+		"exclamatory"
+	],
+	[
+		"I love this new design!",
+		"exclamatory"
+	],
+	[
+		"I'm so frustrated with this!",
+		"exclamatory"
+	],
+	[
+		"I'm so happy for you!",
+		"exclamatory"
+	],
+	[
+		"I'm so happy!",
+		"exclamatory"
+	],
+	[
+		"I'm so hungry!",
+		"exclamatory"
+	],
+	[
+		"I'm so proud of how this turned out!",
+		"exclamatory"
+	],
+	[
+		"I'm so relieved that project is finally finished!",
+		"exclamatory"
+	],
+	[
+		"I'm thrilled!",
+		"exclamatory"
+	],
+	[
+		"Incredible work today!",
+		"exclamatory"
+	],
+	[
+		"Incredible, simply incredible!",
+		"exclamatory"
+	],
+	[
+		"Incredible, this saved me hours of work!",
+		"exclamatory"
+	],
+	[
+		"Leave it alone!",
+		"exclamatory"
+	],
+	[
+		"Look at that incredible view!",
+		"exclamatory"
+	],
+	[
+		"Look at this rapid progress!",
+		"exclamatory"
+	],
+	[
+		"Look out!",
+		"exclamatory"
+	],
+	[
+		"Magnificent effort!",
+		"exclamatory"
+	],
+	[
+		"Man, that error took forever to track down!",
+		"exclamatory"
+	],
+	[
+		"Man, that was swift!",
+		"exclamatory"
+	],
+	[
+		"Marvelous work, team!",
+		"exclamatory"
+	],
+	[
+		"My goodness, that's huge!",
+		"exclamatory"
+	],
+	[
+		"Nice, the pipeline finally passed!",
+		"exclamatory"
+	],
+	[
+		"No way, it actually compiled on the first try!",
+		"exclamatory"
+	],
+	[
+		"No way!",
+		"exclamatory"
+	],
+	[
+		"Oh dear, the server just crashed again!",
+		"exclamatory"
+	],
+	[
+		"Oh dear, what a mess!",
+		"exclamatory"
+	],
+	[
+		"Oh fantastic, the tests are green across the board!",
+		"exclamatory"
+	],
+	[
+		"Oh great, another dependency conflict!",
+		"exclamatory"
+	],
+	[
+		"Oh great, another silent failure!",
+		"exclamatory"
+	],
+	[
+		"Oh great, he's late again!",
+		"exclamatory"
+	],
+	[
+		"Oh man, I totally forgot about that!",
+		"exclamatory"
+	],
+	[
+		"Oh man, the game is postponed!",
+		"exclamatory"
+	],
+	[
+		"Oh man, this is way harder than expected!",
+		"exclamatory"
+	],
+	[
+		"Oh my god, I didn't see you there!",
+		"exclamatory"
+	],
+	[
+		"Oh my god, the evidence is destroyed!",
+		"exclamatory"
+	],
+	[
+		"Oh no, I just overwrote the wrong file!",
+		"exclamatory"
+	],
+	[
+		"Oh no, it's broken!",
+		"exclamatory"
+	],
+	[
+		"Oh no, the system crashed!",
+		"exclamatory"
+	],
+	[
+		"Oh no, the whole database got wiped!",
+		"exclamatory"
+	],
+	[
+		"Oh no, the whole page just went blank!",
+		"exclamatory"
+	],
+	[
+		"Oh no, we lost an hour of work!",
+		"exclamatory"
+	],
+	[
+		"Oh perfect, exactly the data I needed!",
+		"exclamatory"
+	],
+	[
+		"Oh sweet, the API key finally worked!",
+		"exclamatory"
+	],
+	[
+		"Oh wow, I totally missed that edge case!",
+		"exclamatory"
+	],
+	[
+		"Oh, boy!",
+		"exclamatory"
+	],
+	[
+		"Oh, wow!",
+		"exclamatory"
+	],
+	[
+		"Ouch, I dropped it!",
+		"exclamatory"
+	],
+	[
+		"Ouch, that error message is brutal!",
+		"exclamatory"
+	],
+	[
+		"Ouch, that really hurt!",
+		"exclamatory"
+	],
+	[
+		"Outstanding performance!",
+		"exclamatory"
+	],
+	[
+		"Perfect, that's exactly right!",
+		"exclamatory"
+	],
+	[
+		"Phew, that was close!",
+		"exclamatory"
+	],
+	[
+		"Quick, catch him before he runs!",
+		"exclamatory"
+	],
+	[
+		"Seriously, this again?",
+		"exclamatory"
+	],
+	[
+		"Shut up!",
+		"exclamatory"
+	],
+	[
+		"So cool that this actually scales!",
+		"exclamatory"
+	],
+	[
+		"So exciting!",
+		"exclamatory"
+	],
+	[
+		"So frustrating!",
+		"exclamatory"
+	],
+	[
+		"So proud of you!",
+		"exclamatory"
+	],
+	[
+		"So satisfying watching all the tests turn green!",
+		"exclamatory"
+	],
+	[
+		"Splendid job!",
+		"exclamatory"
+	],
+	[
+		"Startling discovery!",
+		"exclamatory"
+	],
+	[
+		"Stop right there!",
+		"exclamatory"
+	],
+	[
+		"Stunning visual design!",
+		"exclamatory"
+	],
+	[
+		"Such a clean implementation!",
+		"exclamatory"
+	],
+	[
+		"Superb effort!",
+		"exclamatory"
+	],
+	[
+		"Sweet, the feature flag worked perfectly!",
+		"exclamatory"
+	],
+	[
+		"Terrific news!",
+		"exclamatory"
+	],
+	[
+		"That client's reaction was priceless, they loved everything!",
+		"exclamatory"
+	],
+	[
+		"That is just perfect!",
+		"exclamatory"
+	],
+	[
+		"That is wonderful news!",
+		"exclamatory"
+	],
+	[
+		"That pitch was flawless, I couldn't find a single flaw!",
+		"exclamatory"
+	],
+	[
+		"That was a close call!",
+		"exclamatory"
+	],
+	[
+		"That was an incredible presentation, seriously well done!",
+		"exclamatory"
+	],
+	[
+		"That was such a disaster from start to finish!",
+		"exclamatory"
+	],
+	[
+		"That was such a relief to hear!",
+		"exclamatory"
+	],
+	[
+		"That was such an awkward moment in the interview!",
+		"exclamatory"
+	],
+	[
+		"That was the fastest turnaround I have ever seen!",
+		"exclamatory"
+	],
+	[
+		"That's a genuinely great question!",
+		"exclamatory"
+	],
+	[
+		"That's absolutely perfect!",
+		"exclamatory"
+	],
+	[
+		"That's absolutely the funniest thing I've heard all day!",
+		"exclamatory"
+	],
+	[
+		"That's brilliant!",
+		"exclamatory"
+	],
+	[
+		"That's crazy!",
+		"exclamatory"
+	],
+	[
+		"That's exactly the answer I was hoping for!",
+		"exclamatory"
+	],
+	[
+		"That's exactly the kind of clarity I needed!",
+		"exclamatory"
+	],
+	[
+		"That's fantastic!",
+		"exclamatory"
+	],
+	[
+		"That's hilarious!",
+		"exclamatory"
+	],
+	[
+		"That's incredible news, congratulations to the entire department!",
+		"exclamatory"
+	],
+	[
+		"That's incredible, thanks a ton!",
+		"exclamatory"
+	],
+	[
+		"That's incredible!",
+		"exclamatory"
+	],
+	[
+		"That's insane how fast this runs now!",
+		"exclamatory"
+	],
+	[
+		"That's just wonderful news!",
+		"exclamatory"
+	],
+	[
+		"That's outrageous!",
+		"exclamatory"
+	],
+	[
+		"That's ridiculous how fast you fixed it!",
+		"exclamatory"
+	],
+	[
+		"That's ridiculous!",
+		"exclamatory"
+	],
+	[
+		"That's so cool!",
+		"exclamatory"
+	],
+	[
+		"That's so much cleaner than before!",
+		"exclamatory"
+	],
+	[
+		"That's such a clever solution!",
+		"exclamatory"
+	],
+	[
+		"That's such a neat trick with destructuring!",
+		"exclamatory"
+	],
+	[
+		"That's such a relief to hear!",
+		"exclamatory"
+	],
+	[
+		"That's such a satisfying commit message!",
+		"exclamatory"
+	],
+	[
+		"That's such a satisfying green checkmark!",
+		"exclamatory"
+	],
+	[
+		"That's such a thoughtful piece of feedback!",
+		"exclamatory"
+	],
+	[
+		"That's such incredible timing, I can't believe it!",
+		"exclamatory"
+	],
+	[
+		"That's terrifying!",
+		"exclamatory"
+	],
+	[
+		"That's the best explanation I've read all week!",
+		"exclamatory"
+	],
+	[
+		"That's the best news I've heard all week!",
+		"exclamatory"
+	],
+	[
+		"That's the biggest applause I've ever heard in this room!",
+		"exclamatory"
+	],
+	[
+		"That's the cleanest code I've seen all month!",
+		"exclamatory"
+	],
+	[
+		"That's wonderful!",
+		"exclamatory"
+	],
+	[
+		"The client just called to say this was the best experience they've ever had working with a vendor, and I am so proud of what we built together!",
+		"exclamatory"
+	],
+	[
+		"The client's reaction to the final designs was priceless, they were speechless for almost a full minute before finally saying it exceeded everything they had imagined!",
+		"exclamatory"
+	],
+	[
+		"The look on her face when we told her about the promotion was priceless, she absolutely deserved every bit of recognition after everything she's done this year!",
+		"exclamatory"
+	],
+	[
+		"This AI summary is absolutely perfect!",
+		"exclamatory"
+	],
+	[
+		"This blog post outline is an absolute masterpiece!",
+		"exclamatory"
+	],
+	[
+		"This cover letter is absolutely perfect!",
+		"exclamatory"
+	],
+	[
+		"This custom hook is absolutely brilliant!",
+		"exclamatory"
+	],
+	[
+		"This dashboard layout is absolutely perfect!",
+		"exclamatory"
+	],
+	[
+		"This data visualization is absolutely stunning!",
+		"exclamatory"
+	],
+	[
+		"This documentation is a lifesaver!",
+		"exclamatory"
+	],
+	[
+		"This error message is an absolute nightmare to read!",
+		"exclamatory"
+	],
+	[
+		"This explanation makes so much more sense now!",
+		"exclamatory"
+	],
+	[
+		"This has been such an emotional rollercoaster of a week!",
+		"exclamatory"
+	],
+	[
+		"This has been the most chaotic launch week I have ever experienced, with everything from server crashes to shipping delays happening all at once, it's been a total nightmare!",
+		"exclamatory"
+	],
+	[
+		"This has to be the single most exhausting quarter I have ever experienced, between the merger, the layoffs, and the product launch, I can barely think straight!",
+		"exclamatory"
+	],
+	[
+		"This infrastructure-as-code template is absolutely brilliant!",
+		"exclamatory"
+	],
+	[
+		"This is awesome!",
+		"exclamatory"
+	],
+	[
+		"This is completely unacceptable behavior from the vendor!",
+		"exclamatory"
+	],
+	[
+		"This is easily the most impressive turnaround I've ever seen from a struggling project, and it's all thanks to how hard everyone pushed these past few weeks!",
+		"exclamatory"
+	],
+	[
+		"This is exactly the breakthrough we needed!",
+		"exclamatory"
+	],
+	[
+		"This is exactly the bug I was looking for!",
+		"exclamatory"
+	],
+	[
+		"This is exactly the kind of bug that keeps me up at night!",
+		"exclamatory"
+	],
+	[
+		"This is exactly the kind of feedback I needed!",
+		"exclamatory"
+	],
+	[
+		"This is exactly the vibe I was going for!",
+		"exclamatory"
+	],
+	[
+		"This is exactly what I needed!",
+		"exclamatory"
+	],
+	[
+		"This is exactly what the client asked for!",
+		"exclamatory"
+	],
+	[
+		"This is exactly what we've been waiting for!",
+		"exclamatory"
+	],
+	[
+		"This is fantastic work!",
+		"exclamatory"
+	],
+	[
+		"This is fantastic!",
+		"exclamatory"
+	],
+	[
+		"This is genuinely impressive work!",
+		"exclamatory"
+	],
+	[
+		"This is going to be a game changer for us!",
+		"exclamatory"
+	],
+	[
+		"This is honestly the best answer I've gotten!",
+		"exclamatory"
+	],
+	[
+		"This is incredible!",
+		"exclamatory"
+	],
+	[
+		"This is so frustrating!",
+		"exclamatory"
+	],
+	[
+		"This is such a beautiful piece of writing!",
+		"exclamatory"
+	],
+	[
+		"This is such a huge milestone for the team!",
+		"exclamatory"
+	],
+	[
+		"This is such a huge time saver!",
+		"exclamatory"
+	],
+	[
+		"This is such a huge win for the whole team!",
+		"exclamatory"
+	],
+	[
+		"This is such a nightmare, everything is falling apart!",
+		"exclamatory"
+	],
+	[
+		"This is such a productive session!",
+		"exclamatory"
+	],
+	[
+		"This is such a relief after all that debugging!",
+		"exclamatory"
+	],
+	[
+		"This is such a relief after months of uncertainty!",
+		"exclamatory"
+	],
+	[
+		"This is such a satisfying refactor!",
+		"exclamatory"
+	],
+	[
+		"This is such a smooth onboarding experience!",
+		"exclamatory"
+	],
+	[
+		"This is such an amazing opportunity, I can't say no!",
+		"exclamatory"
+	],
+	[
+		"This is such an elegant use of recursion!",
+		"exclamatory"
+	],
+	[
+		"This is such an underrated trick!",
+		"exclamatory"
+	],
+	[
+		"This is the best news ever!",
+		"exclamatory"
+	],
+	[
+		"This is unbelievable!",
+		"exclamatory"
+	],
+	[
+		"This is unbelievably slow!",
+		"exclamatory"
+	],
+	[
+		"This is way better than I ever imagined!",
+		"exclamatory"
+	],
+	[
+		"This looks fantastic on mobile too!",
+		"exclamatory"
+	],
+	[
+		"This makes so much sense now, thank you!",
+		"exclamatory"
+	],
+	[
+		"This marketing email is absolutely brilliant!",
+		"exclamatory"
+	],
+	[
+		"This matrix transformation is absolutely flawless!",
+		"exclamatory"
+	],
+	[
+		"This meal prep recipe is absolutely delicious!",
+		"exclamatory"
+	],
+	[
+		"This normalized data structure is absolutely perfect!",
+		"exclamatory"
+	],
+	[
+		"This parsing logic is an absolute lifesaver!",
+		"exclamatory"
+	],
+	[
+		"This project turned out even better than we planned!",
+		"exclamatory"
+	],
+	[
+		"This setting description is absolutely breathtaking!",
+		"exclamatory"
+	],
+	[
+		"This travel itinerary is absolutely perfect!",
+		"exclamatory"
+	],
+	[
+		"This turned out even better than expected!",
+		"exclamatory"
+	],
+	[
+		"This tutorial is fantastic!",
+		"exclamatory"
+	],
+	[
+		"Ugh, another false alarm from the monitoring tool!",
+		"exclamatory"
+	],
+	[
+		"Ugh, another false positive from the linter!",
+		"exclamatory"
+	],
+	[
+		"Ugh, I can't believe I missed that semicolon!",
+		"exclamatory"
+	],
+	[
+		"Ugh, I can't stand this loading spinner!",
+		"exclamatory"
+	],
+	[
+		"Ugh, I forgot to save again!",
+		"exclamatory"
+	],
+	[
+		"Ugh, I hate debugging race conditions!",
+		"exclamatory"
+	],
+	[
+		"Ugh, I hate flaky tests so much!",
+		"exclamatory"
+	],
+	[
+		"Ugh, I hate when the cache goes stale silently!",
+		"exclamatory"
+	],
+	[
+		"Ugh, I keep forgetting to commit!",
+		"exclamatory"
+	],
+	[
+		"Ugh, my flight is delayed!",
+		"exclamatory"
+	],
+	[
+		"Ugh, not again!",
+		"exclamatory"
+	],
+	[
+		"Ugh, not another merge conflict!",
+		"exclamatory"
+	],
+	[
+		"Ugh, the CI pipeline is down again!",
+		"exclamatory"
+	],
+	[
+		"Ugh, the formatting broke everything again!",
+		"exclamatory"
+	],
+	[
+		"Ugh, the internet just died mid-upload!",
+		"exclamatory"
+	],
+	[
+		"Ugh, the spinner just spins forever!",
+		"exclamatory"
+	],
+	[
+		"Ugh, the tooltip covers the whole button!",
+		"exclamatory"
+	],
+	[
+		"Ugh, we were interrupted!",
+		"exclamatory"
+	],
+	[
+		"Ugh, why does this keep asking for permission!",
+		"exclamatory"
+	],
+	[
+		"Ugh, why does this keep timing out!",
+		"exclamatory"
+	],
+	[
+		"Ugh, why is this API so poorly documented!",
+		"exclamatory"
+	],
+	[
+		"Watch out!",
+		"exclamatory"
+	],
+	[
+		"Watch your step!",
+		"exclamatory"
+	],
+	[
+		"We finally fixed the bug that's been haunting us for weeks!",
+		"exclamatory"
+	],
+	[
+		"What a beautiful chart this turned out to be!",
+		"exclamatory"
+	],
+	[
+		"What a breathtaking view from the hotel balcony!",
+		"exclamatory"
+	],
+	[
+		"What a brilliant solution to a complex problem!",
+		"exclamatory"
+	],
+	[
+		"What a brilliant way to conclude that paragraph!",
+		"exclamatory"
+	],
+	[
+		"What a clever optimization for the binary search!",
+		"exclamatory"
+	],
+	[
+		"What a day!",
+		"exclamatory"
+	],
+	[
+		"What a disaster the product launch turned out to be!",
+		"exclamatory"
+	],
+	[
+		"What a disaster this memory leak has caused!",
+		"exclamatory"
+	],
+	[
+		"What a disaster!",
+		"exclamatory"
+	],
+	[
+		"What a fantastic accuracy score we just achieved!",
+		"exclamatory"
+	],
+	[
+		"What a fantastic idea for the layout!",
+		"exclamatory"
+	],
+	[
+		"What a fantastic idea!",
+		"exclamatory"
+	],
+	[
+		"What a fantastic meal we had at the new restaurant!",
+		"exclamatory"
+	],
+	[
+		"What a fantastic turnaround time!",
+		"exclamatory"
+	],
+	[
+		"What a glorious day!",
+		"exclamatory"
+	],
+	[
+		"What a gorgeous day!",
+		"exclamatory"
+	],
+	[
+		"What a great presentation!",
+		"exclamatory"
+	],
+	[
+		"What a huge disappointment it was when the publisher rejected it!",
+		"exclamatory"
+	],
+	[
+		"What a huge improvement this resume format is!",
+		"exclamatory"
+	],
+	[
+		"What a huge improvement!",
+		"exclamatory"
+	],
+	[
+		"What a joke!",
+		"exclamatory"
+	],
+	[
+		"What a lifesaver React Router was for this multi-page layout!",
+		"exclamatory"
+	],
+	[
+		"What a magnificent structure the new bridge is!",
+		"exclamatory"
+	],
+	[
+		"What a massive confidence boost your feedback gave me!",
+		"exclamatory"
+	],
+	[
+		"What a massive disaster it was to lose my passport!",
+		"exclamatory"
+	],
+	[
+		"What a massive headache this prop drilling has become!",
+		"exclamatory"
+	],
+	[
+		"What a mess this codebase is!",
+		"exclamatory"
+	],
+	[
+		"What a mess this detached HEAD state is!",
+		"exclamatory"
+	],
+	[
+		"What a mess this legacy database schema is!",
+		"exclamatory"
+	],
+	[
+		"What a mess!",
+		"exclamatory"
+	],
+	[
+		"What a nightmare it is to parse this unstructured HTML!",
+		"exclamatory"
+	],
+	[
+		"What a nightmare this deployment was!",
+		"exclamatory"
+	],
+	[
+		"What a nightmare this tangled spreadsheet is!",
+		"exclamatory"
+	],
+	[
+		"What a perfectly worded apology that was!",
+		"exclamatory"
+	],
+	[
+		"What a relief it is to clear my inbox!",
+		"exclamatory"
+	],
+	[
+		"What a relief it is to finally fix my posture!",
+		"exclamatory"
+	],
+	[
+		"What a relief it is to finally see the green test suite!",
+		"exclamatory"
+	],
+	[
+		"What a relief it is to find a clean dataset for once!",
+		"exclamatory"
+	],
+	[
+		"What a relief it is to find the missing row!",
+		"exclamatory"
+	],
+	[
+		"What a relief it is to finish the final draft!",
+		"exclamatory"
+	],
+	[
+		"What a relief it is to have an AI that doesn't judge!",
+		"exclamatory"
+	],
+	[
+		"What a relief it is to see the green checkmark on the build!",
+		"exclamatory"
+	],
+	[
+		"What a relief it is to see the replication working!",
+		"exclamatory"
+	],
+	[
+		"What a relief it is to understand recursion finally!",
+		"exclamatory"
+	],
+	[
+		"What a relief that the backup worked!",
+		"exclamatory"
+	],
+	[
+		"What a relief!",
+		"exclamatory"
+	],
+	[
+		"What a rollercoaster this project has been!",
+		"exclamatory"
+	],
+	[
+		"What a shock!",
+		"exclamatory"
+	],
+	[
+		"What a speedy recovery!",
+		"exclamatory"
+	],
+	[
+		"What a stroke of luck that was!",
+		"exclamatory"
+	],
+	[
+		"What a stroke of luck that we ran into each other!",
+		"exclamatory"
+	],
+	[
+		"What a stupid mistake I made in the URL string!",
+		"exclamatory"
+	],
+	[
+		"What a sudden change!",
+		"exclamatory"
+	],
+	[
+		"What a surprise!",
+		"exclamatory"
+	],
+	[
+		"What a terrifying plot twist that would be!",
+		"exclamatory"
+	],
+	[
+		"What a timely arrival!",
+		"exclamatory"
+	],
+	[
+		"What a wild bug that was!",
+		"exclamatory"
+	],
+	[
+		"What a wrecked car!",
+		"exclamatory"
+	],
+	[
+		"What an abandoned building!",
+		"exclamatory"
+	],
+	[
+		"What an abrupt ending!",
+		"exclamatory"
+	],
+	[
+		"What an absolute joke the new policy is!",
+		"exclamatory"
+	],
+	[
+		"What an absolute win this is!",
+		"exclamatory"
+	],
+	[
+		"What an amazing transformation you made!",
+		"exclamatory"
+	],
+	[
+		"What an appalling mistake!",
+		"exclamatory"
+	],
+	[
+		"What an epic failure that marketing campaign turned out to be!",
+		"exclamatory"
+	],
+	[
+		"What an incredible performance that was!",
+		"exclamatory"
+	],
+	[
+		"What an incredibly brave thing to do!",
+		"exclamatory"
+	],
+	[
+		"What an incredibly helpful tool you are!",
+		"exclamatory"
+	],
+	[
+		"What an unexpected surprise!",
+		"exclamatory"
+	],
+	[
+		"Whoa, slow down a minute!",
+		"exclamatory"
+	],
+	[
+		"Whoa, that's a huge improvement in load time!",
+		"exclamatory"
+	],
+	[
+		"Wow, an instant success!",
+		"exclamatory"
+	],
+	[
+		"Wow, his account got suspended!",
+		"exclamatory"
+	],
+	[
+		"Wow, I can't believe how clean this API is!",
+		"exclamatory"
+	],
+	[
+		"Wow, I can't believe how fast that ran!",
+		"exclamatory"
+	],
+	[
+		"Wow, I didn't expect that to work!",
+		"exclamatory"
+	],
+	[
+		"Wow, I didn't think this was possible!",
+		"exclamatory"
+	],
+	[
+		"Wow, I never knew that trick existed!",
+		"exclamatory"
+	],
+	[
+		"Wow, just wow!",
+		"exclamatory"
+	],
+	[
+		"Wow, that fixed it instantly!",
+		"exclamatory"
+	],
+	[
+		"Wow, that refactor cut the file size in half!",
+		"exclamatory"
+	],
+	[
+		"Wow, that was prompt!",
+		"exclamatory"
+	],
+	[
+		"Wow, that's a really thoughtful approach!",
+		"exclamatory"
+	],
+	[
+		"Wow, that's amazing!",
+		"exclamatory"
+	],
+	[
+		"Wow, the new design looks incredible!",
+		"exclamatory"
+	],
+	[
+		"Wow, the numbers came back way better than expected!",
+		"exclamatory"
+	],
+	[
+		"Wow, the record is smashed!",
+		"exclamatory"
+	],
+	[
+		"Wow, the response time dropped dramatically!",
+		"exclamatory"
+	],
+	[
+		"Wow, the view from the top of the mountain is absolutely breathtaking!",
+		"exclamatory"
+	],
+	[
+		"Wow, the whole app feels snappier now!",
+		"exclamatory"
+	],
+	[
+		"Wow, the whole team pulled through!",
+		"exclamatory"
+	],
+	[
+		"Wow, the whole thing just clicked into place!",
+		"exclamatory"
+	],
+	[
+		"Wow, this is exactly what I imagined!",
+		"exclamatory"
+	],
+	[
+		"Wow, you're actually punctual!",
+		"exclamatory"
+	],
+	[
+		"Yay, the migration finished without errors!",
+		"exclamatory"
+	],
+	[
+		"Yes, that's exactly what I mean!",
+		"exclamatory"
+	],
+	[
+		"Yes, that's finally the right output!",
+		"exclamatory"
+	],
+	[
+		"Yes! The tests are finally passing!",
+		"exclamatory"
+	],
+	[
+		"Yikes, that regex is terrifying!",
+		"exclamatory"
+	],
+	[
+		"Yikes, that's a brutal edge case!",
+		"exclamatory"
+	],
+	[
+		"Yikes, that's a huge security hole!",
+		"exclamatory"
+	],
+	[
+		"Yikes, that's a lot of technical debt!",
+		"exclamatory"
+	],
+	[
+		"Yikes, that's a massive memory leak!",
+		"exclamatory"
+	],
+	[
+		"Yikes, that's a scary amount of duplicate code!",
+		"exclamatory"
+	],
+	[
+		"Yikes, the whole team missed that!",
+		"exclamatory"
+	],
+	[
+		"Yikes, the whole thread just crashed!",
+		"exclamatory"
+	],
+	[
+		"You've got to be kidding me!",
+		"exclamatory"
+	],
+	[
+		"Add a docstring to every public function.",
+		"declarative"
+	],
+	[
+		"Add error handling around the fetch call.",
+		"declarative"
+	],
+	[
+		"After going back and forth with the landlord for weeks, we finally agreed on terms that work for both sides, and we should be able to move in by next month.",
+		"declarative"
+	],
+	[
+		"After reviewing everyone's availability for the next few weeks, it looks like the only realistic option is to push the workshop back to sometime in early October.",
+		"declarative"
+	],
+	[
+		"After talking with the client for almost an hour, I realized that most of their concerns were really about communication rather than the actual quality of the work we delivered.",
+		"declarative"
+	],
+	[
+		"After the restructuring last year, a lot of people were worried about job security, but it seems like most teams have actually stabilized and morale has improved since then.",
+		"declarative"
+	],
+	[
+		"Change the font size to match the design spec.",
+		"declarative"
+	],
+	[
+		"Check whether the token has expired.",
+		"declarative"
+	],
+	[
+		"Count me in.",
+		"declarative"
+	],
+	[
+		"Delete the unused imports before committing.",
+		"declarative"
+	],
+	[
+		"Even though the launch had a few hiccups in the first couple of days, overall feedback from users has been far more positive than any of us expected.",
+		"declarative"
+	],
+	[
+		"Fair enough.",
+		"declarative"
+	],
+	[
+		"Format the code according to the style guide.",
+		"declarative"
+	],
+	[
+		"Good day.",
+		"declarative"
+	],
+	[
+		"Good point.",
+		"declarative"
+	],
+	[
+		"He asked me to review the pricing page.",
+		"declarative"
+	],
+	[
+		"He decided to resign from his job to start his own business.",
+		"declarative"
+	],
+	[
+		"He didn't want to come to the party.",
+		"declarative"
+	],
+	[
+		"He drafted a proposal for the new architecture.",
+		"declarative"
+	],
+	[
+		"He explained why the merge conflict happened.",
+		"declarative"
+	],
+	[
+		"He forgot to include the license file.",
+		"declarative"
+	],
+	[
+		"He is leading the initiative for the European market.",
+		"declarative"
+	],
+	[
+		"He mentioned he might be leaving the company next month.",
+		"declarative"
+	],
+	[
+		"He suggested breaking the task into smaller tickets.",
+		"declarative"
+	],
+	[
+		"He wondered if the cache was stale, though nothing confirmed it.",
+		"declarative"
+	],
+	[
+		"He's been a great mentor to the junior developers.",
+		"declarative"
+	],
+	[
+		"He's been working remotely since the start of the year.",
+		"declarative"
+	],
+	[
+		"He's taking a sabbatical starting next month.",
+		"declarative"
+	],
+	[
+		"Here is the updated version of the essay.",
+		"declarative"
+	],
+	[
+		"Honestly, I think we're overthinking this whole situation.",
+		"declarative"
+	],
+	[
+		"I agree.",
+		"declarative"
+	],
+	[
+		"I already replied to that email this morning.",
+		"declarative"
+	],
+	[
+		"I already tried restarting the server twice.",
+		"declarative"
+	],
+	[
+		"I am available to start in two weeks.",
+		"declarative"
+	],
+	[
+		"I am building a budget tracker in Excel.",
+		"declarative"
+	],
+	[
+		"I am building a portfolio website to showcase my projects.",
+		"declarative"
+	],
+	[
+		"I am building a React component that fetches data on mount.",
+		"declarative"
+	],
+	[
+		"I am comfortable working with large datasets.",
+		"declarative"
+	],
+	[
+		"I am constantly amazed by your ability to generate code.",
+		"declarative"
+	],
+	[
+		"I am currently reading a fascinating biography of a historical figure.",
+		"declarative"
+	],
+	[
+		"I am familiar with agile methodologies.",
+		"declarative"
+	],
+	[
+		"I am going to attend a conference on renewable energy next week.",
+		"declarative"
+	],
+	[
+		"I am looking for a collaborative team environment.",
+		"declarative"
+	],
+	[
+		"I am planning a two-week trip to Japan.",
+		"declarative"
+	],
+	[
+		"I am preparing for a behavioral interview.",
+		"declarative"
+	],
+	[
+		"I am querying a PostgreSQL database for monthly sales.",
+		"declarative"
+	],
+	[
+		"I am training a neural network to recognize handwritten digits.",
+		"declarative"
+	],
+	[
+		"I am trying to back up my database to an S3 bucket.",
+		"declarative"
+	],
+	[
+		"I am trying to create a Gantt chart.",
+		"declarative"
+	],
+	[
+		"I am trying to figure out why my array index is out of bounds.",
+		"declarative"
+	],
+	[
+		"I am trying to find the median of two sorted arrays.",
+		"declarative"
+	],
+	[
+		"I am trying to fine-tune a pre-trained BERT model.",
+		"declarative"
+	],
+	[
+		"I am trying to fix a segmentation fault in my C program.",
+		"declarative"
+	],
+	[
+		"I am trying to format a formal business letter.",
+		"declarative"
+	],
+	[
+		"I am trying to improve my sleep quality.",
+		"declarative"
+	],
+	[
+		"I am trying to integrate a third-party charting library.",
+		"declarative"
+	],
+	[
+		"I am trying to learn basic phrases in Japanese.",
+		"declarative"
+	],
+	[
+		"I am trying to lose weight before my wedding.",
+		"declarative"
+	],
+	[
+		"I am trying to resolve a merge conflict in Git.",
+		"declarative"
+	],
+	[
+		"I am trying to scrape a table that requires authentication.",
+		"declarative"
+	],
+	[
+		"I am trying to see if you can pass a Turing test.",
+		"declarative"
+	],
+	[
+		"I am trying to set up a GitHub Action.",
+		"declarative"
+	],
+	[
+		"I am trying to understand the time complexity of this sorting algorithm.",
+		"declarative"
+	],
+	[
+		"I am trying to write a poem in iambic pentameter.",
+		"declarative"
+	],
+	[
+		"I am trying to write a professional cover letter.",
+		"declarative"
+	],
+	[
+		"I am updating my resume for a senior developer role.",
+		"declarative"
+	],
+	[
+		"I am writing a sci-fi novel about time travel.",
+		"declarative"
+	],
+	[
+		"I am writing an email to my boss requesting time off.",
+		"declarative"
+	],
+	[
+		"I am writing an essay on the impact of artificial intelligence.",
+		"declarative"
+	],
+	[
+		"I annotated the diagram with brief explanations.",
+		"declarative"
+	],
+	[
+		"I apologize for the confusion.",
+		"declarative"
+	],
+	[
+		"I appreciate the quick turnaround on this.",
+		"declarative"
+	],
+	[
+		"I appreciate you catching that typo earlier.",
+		"declarative"
+	],
+	[
+		"I appreciate you taking the time to meet with me today.",
+		"declarative"
+	],
+	[
+		"I appreciate your help with the migration.",
+		"declarative"
+	],
+	[
+		"I archived the old branches from the repository.",
+		"declarative"
+	],
+	[
+		"I asked for no onions on my burger.",
+		"declarative"
+	],
+	[
+		"I believe we met at the conference last year.",
+		"declarative"
+	],
+	[
+		"I benchmarked both functions on the same dataset.",
+		"declarative"
+	],
+	[
+		"I can give you a store credit instead.",
+		"declarative"
+	],
+	[
+		"I can have that draft ready by tomorrow.",
+		"declarative"
+	],
+	[
+		"I can hear you pretty clearly now.",
+		"declarative"
+	],
+	[
+		"I can't find my glasses.",
+		"declarative"
+	],
+	[
+		"I closed the ticket after confirming the fix.",
+		"declarative"
+	],
+	[
+		"I compared both algorithms and the second is faster.",
+		"declarative"
+	],
+	[
+		"I compared three pricing plans before deciding.",
+		"declarative"
+	],
+	[
+		"I compiled the results into a single summary.",
+		"declarative"
+	],
+	[
+		"I converted the CSV file into a JSON object.",
+		"declarative"
+	],
+	[
+		"I converted the design mockup into working code.",
+		"declarative"
+	],
+	[
+		"I copied the config from the staging environment.",
+		"declarative"
+	],
+	[
+		"I didn't catch what John said about the timeline.",
+		"declarative"
+	],
+	[
+		"I didn't catch your name earlier.",
+		"declarative"
+	],
+	[
+		"I didn't get a chance to review the code.",
+		"declarative"
+	],
+	[
+		"I didn't know you were coming.",
+		"declarative"
+	],
+	[
+		"I didn't mean to interrupt you.",
+		"declarative"
+	],
+	[
+		"I didn't mean to step on your foot.",
+		"declarative"
+	],
+	[
+		"I didn't order this.",
+		"declarative"
+	],
+	[
+		"I didn't realize you were sitting there.",
+		"declarative"
+	],
+	[
+		"I didn't sleep very well last night.",
+		"declarative"
+	],
+	[
+		"I disagree.",
+		"declarative"
+	],
+	[
+		"I documented the edge cases we discussed.",
+		"declarative"
+	],
+	[
+		"I don't appreciate your tone.",
+		"declarative"
+	],
+	[
+		"I don't drink coffee.",
+		"declarative"
+	],
+	[
+		"I don't feel comfortable doing that.",
+		"declarative"
+	],
+	[
+		"I don't have the receipt with me.",
+		"declarative"
+	],
+	[
+		"I don't know the answer to that.",
+		"declarative"
+	],
+	[
+		"I don't mind waiting a bit longer.",
+		"declarative"
+	],
+	[
+		"I don't think we can match that price.",
+		"declarative"
+	],
+	[
+		"I don't want to go.",
+		"declarative"
+	],
+	[
+		"I double-checked the numbers and everything adds up.",
+		"declarative"
+	],
+	[
+		"I enjoy solving complex problems.",
+		"declarative"
+	],
+	[
+		"I extracted the shared logic into a utility function.",
+		"declarative"
+	],
+	[
+		"I feel like you're not listening to me.",
+		"declarative"
+	],
+	[
+		"I fixed the bug you mentioned earlier.",
+		"declarative"
+	],
+	[
+		"I flagged the section that needs more citations.",
+		"declarative"
+	],
+	[
+		"I forgot to bring my notes to the meeting.",
+		"declarative"
+	],
+	[
+		"I forgot to buy milk on the way home.",
+		"declarative"
+	],
+	[
+		"I forgot to set my alarm.",
+		"declarative"
+	],
+	[
+		"I forgot to sign the contract.",
+		"declarative"
+	],
+	[
+		"I graduated with a degree in computer science.",
+		"declarative"
+	],
+	[
+		"I have a hard stop at four o'clock.",
+		"declarative"
+	],
+	[
+		"I have been trying to extract the text from this div for hours.",
+		"declarative"
+	],
+	[
+		"I have five years of experience in project management.",
+		"declarative"
+	],
+	[
+		"I have to pick up my dry cleaning.",
+		"declarative"
+	],
+	[
+		"I haven't finished the second chapter yet.",
+		"declarative"
+	],
+	[
+		"I haven't seen you in ages.",
+		"declarative"
+	],
+	[
+		"I just want this to be over.",
+		"declarative"
+	],
+	[
+		"I know everyone is tired of hearing about the merger, but once the paperwork is finalized, things should settle down and we can get back to normal operations.",
+		"declarative"
+	],
+	[
+		"I know it feels like we're behind schedule, but if you look at the milestones we've hit so far, we're actually in a pretty reasonable position heading into next month.",
+		"declarative"
+	],
+	[
+		"I labeled each section for easier navigation.",
+		"declarative"
+	],
+	[
+		"I labeled the axes on the chart for clarity.",
+		"declarative"
+	],
+	[
+		"I left my previous role to seek new challenges.",
+		"declarative"
+	],
+	[
+		"I left my umbrella at home.",
+		"declarative"
+	],
+	[
+		"I loaded the model weights from the checkpoint.",
+		"declarative"
+	],
+	[
+		"I lost my keys again.",
+		"declarative"
+	],
+	[
+		"I merged the branches without any conflicts.",
+		"declarative"
+	],
+	[
+		"I need a Python script to scrape pricing data from a retail website.",
+		"declarative"
+	],
+	[
+		"I need help understanding closures in JavaScript.",
+		"declarative"
+	],
+	[
+		"I need this report done by Friday.",
+		"declarative"
+	],
+	[
+		"I need to balance a binary search tree.",
+		"declarative"
+	],
+	[
+		"I need to buy a gift for my mom.",
+		"declarative"
+	],
+	[
+		"I need to charge my phone.",
+		"declarative"
+	],
+	[
+		"I need to convert my PyTorch model to ONNX format.",
+		"declarative"
+	],
+	[
+		"I need to deploy my application to AWS.",
+		"declarative"
+	],
+	[
+		"I need to deploy my frontend to Vercel.",
+		"declarative"
+	],
+	[
+		"I need to do laundry today.",
+		"declarative"
+	],
+	[
+		"I need to exchange some money before the trip.",
+		"declarative"
+	],
+	[
+		"I need to export this chat history.",
+		"declarative"
+	],
+	[
+		"I need to extract the nth element from every list on the page.",
+		"declarative"
+	],
+	[
+		"I need to format this document according to MLA guidelines.",
+		"declarative"
+	],
+	[
+		"I need to get a haircut.",
+		"declarative"
+	],
+	[
+		"I need to implement a hash map from scratch.",
+		"declarative"
+	],
+	[
+		"I need to merge two Excel files.",
+		"declarative"
+	],
+	[
+		"I need to normalize the input features before training.",
+		"declarative"
+	],
+	[
+		"I need to optimize the bundle size of my React application.",
+		"declarative"
+	],
+	[
+		"I need to outline the sequel before finishing the first draft.",
+		"declarative"
+	],
+	[
+		"I need to reduce my daily stress levels.",
+		"declarative"
+	],
+	[
+		"I need to remove duplicate entries from a column.",
+		"declarative"
+	],
+	[
+		"I need to rename a column in a production database.",
+		"declarative"
+	],
+	[
+		"I need to reproduce a bug that only happens on Tuesdays.",
+		"declarative"
+	],
+	[
+		"I need to reschedule our one-on-one.",
+		"declarative"
+	],
+	[
+		"I need to schedule a team meeting for next week.",
+		"declarative"
+	],
+	[
+		"I need to set up a staging environment.",
+		"declarative"
+	],
+	[
+		"I need to shorten this article by 200 words without losing meaning.",
+		"declarative"
+	],
+	[
+		"I need to update a specific record based on a condition.",
+		"declarative"
+	],
+	[
+		"I need to write a resignation letter.",
+		"declarative"
+	],
+	[
+		"I need to write a thank-you note after the interview.",
+		"declarative"
+	],
+	[
+		"I noticed a few typos in the final draft.",
+		"declarative"
+	],
+	[
+		"I noticed a typo on the second page.",
+		"declarative"
+	],
+	[
+		"I noticed the numbers don't quite match what finance reported.",
+		"declarative"
+	],
+	[
+		"I noticed the tests are flaky on CI.",
+		"declarative"
+	],
+	[
+		"I ordered the blue one, but I received the red one.",
+		"declarative"
+	],
+	[
+		"I organized the folder structure for the new repo.",
+		"declarative"
+	],
+	[
+		"I outlined three possible solutions to the problem.",
+		"declarative"
+	],
+	[
+		"I paused the video to take notes.",
+		"declarative"
+	],
+	[
+		"I plan to start a new hobby soon.",
+		"declarative"
+	],
+	[
+		"I prefer tea over coffee.",
+		"declarative"
+	],
+	[
+		"I queued the job to run overnight.",
+		"declarative"
+	],
+	[
+		"I read an article today about the latest advancements in quantum computing.",
+		"declarative"
+	],
+	[
+		"I read through the entire proposal twice last night.",
+		"declarative"
+	],
+	[
+		"I read through your pull request last night.",
+		"declarative"
+	],
+	[
+		"I really appreciate everyone's patience during the transition.",
+		"declarative"
+	],
+	[
+		"I recently switched to a standing desk and my back feels much better.",
+		"declarative"
+	],
+	[
+		"I renamed the variable to something more descriptive.",
+		"declarative"
+	],
+	[
+		"I reviewed the contract before signing it.",
+		"declarative"
+	],
+	[
+		"I saved a backup before making any changes.",
+		"declarative"
+	],
+	[
+		"I sent the draft for feedback last night.",
+		"declarative"
+	],
+	[
+		"I set up a virtual environment for the project.",
+		"declarative"
+	],
+	[
+		"I sketched a rough wireframe for the dashboard.",
+		"declarative"
+	],
+	[
+		"I skimmed the article but didn't finish it.",
+		"declarative"
+	],
+	[
+		"I spent most of yesterday afternoon on the phone with the vendor trying to sort out the shipping delay, and it turns out the issue was on our end all along.",
+		"declarative"
+	],
+	[
+		"I spoke to my manager about adjusting my hours.",
+		"declarative"
+	],
+	[
+		"I spoke with the vendor and they agreed to the discount.",
+		"declarative"
+	],
+	[
+		"I strongly believe we need to pivot our marketing strategy to focus on younger demographics.",
+		"declarative"
+	],
+	[
+		"I switched from React to Vue for this project.",
+		"declarative"
+	],
+	[
+		"I think artificial intelligence will significantly change the healthcare industry in the next decade.",
+		"declarative"
+	],
+	[
+		"I think everyone did a solid job under the circumstances.",
+		"declarative"
+	],
+	[
+		"I think if we take a step back and really look at the data from the last quarter, we'll see that our retention strategy actually worked better than we originally gave it credit for.",
+		"declarative"
+	],
+	[
+		"I think it's time to leave.",
+		"declarative"
+	],
+	[
+		"I think it's time we revisit our onboarding process.",
+		"declarative"
+	],
+	[
+		"I think it's too late.",
+		"declarative"
+	],
+	[
+		"I think part of the reason the last campaign underperformed was that we didn't give ourselves enough time to properly test different messaging before rolling it out widely.",
+		"declarative"
+	],
+	[
+		"I think the biggest lesson from this whole process is that we need to involve stakeholders earlier, instead of waiting until the final review to get their input.",
+		"declarative"
+	],
+	[
+		"I think the design team did a great job on this.",
+		"declarative"
+	],
+	[
+		"I think the meeting is canceled.",
+		"declarative"
+	],
+	[
+		"I think the milk is expired.",
+		"declarative"
+	],
+	[
+		"I think the printer is jammed.",
+		"declarative"
+	],
+	[
+		"I think the recursion is causing a stack overflow.",
+		"declarative"
+	],
+	[
+		"I think the timeline is a bit too aggressive honestly.",
+		"declarative"
+	],
+	[
+		"I think the training session ran a bit longer than planned.",
+		"declarative"
+	],
+	[
+		"I think there's a mistake on my bill.",
+		"declarative"
+	],
+	[
+		"I think this candidate has the right experience for the role.",
+		"declarative"
+	],
+	[
+		"I think we are overcomplicating the solution.",
+		"declarative"
+	],
+	[
+		"I think we can automate most of this process.",
+		"declarative"
+	],
+	[
+		"I think we can wrap this up in the next ten minutes.",
+		"declarative"
+	],
+	[
+		"I think we handled that objection pretty well in the call.",
+		"declarative"
+	],
+	[
+		"I think we have a reservation at eight.",
+		"declarative"
+	],
+	[
+		"I think we should get a second opinion on this.",
+		"declarative"
+	],
+	[
+		"I think we should keep this conversation between the two of us.",
+		"declarative"
+	],
+	[
+		"I think we should loop in the design lead on this.",
+		"declarative"
+	],
+	[
+		"I think we should prioritize the login bug.",
+		"declarative"
+	],
+	[
+		"I think we should push the deadline back a few days.",
+		"declarative"
+	],
+	[
+		"I think we should revisit this topic once we have more data.",
+		"declarative"
+	],
+	[
+		"I think we should take a different approach to solve this problem.",
+		"declarative"
+	],
+	[
+		"I think we underestimated how much coordination this project would require between the different regional teams, which is part of why we're behind on a few deliverables.",
+		"declarative"
+	],
+	[
+		"I think we're finally on the same page about this.",
+		"declarative"
+	],
+	[
+		"I think we're going the wrong way.",
+		"declarative"
+	],
+	[
+		"I think you dropped your wallet.",
+		"declarative"
+	],
+	[
+		"I think you're being unreasonable.",
+		"declarative"
+	],
+	[
+		"I traced the bug back to a race condition.",
+		"declarative"
+	],
+	[
+		"I trimmed the audio file to thirty seconds.",
+		"declarative"
+	],
+	[
+		"I updated the README with installation steps.",
+		"declarative"
+	],
+	[
+		"I usually drink black coffee in the morning to wake myself up.",
+		"declarative"
+	],
+	[
+		"I usually go to the gym after work.",
+		"declarative"
+	],
+	[
+		"I usually prefer working in complete silence to maintain concentration.",
+		"declarative"
+	],
+	[
+		"I usually walk to work.",
+		"declarative"
+	],
+	[
+		"I want to automate the deployment of my static site.",
+		"declarative"
+	],
+	[
+		"I want to build muscle mass in my upper body.",
+		"declarative"
+	],
+	[
+		"I want to build my own custom AI assistant.",
+		"declarative"
+	],
+	[
+		"I want to deploy my machine learning model as an API.",
+		"declarative"
+	],
+	[
+		"I want to implement a dark mode toggle for my application.",
+		"declarative"
+	],
+	[
+		"I want to implement full-text search in my application.",
+		"declarative"
+	],
+	[
+		"I want to introduce two colleagues over email.",
+		"declarative"
+	],
+	[
+		"I want to learn how neural networks work.",
+		"declarative"
+	],
+	[
+		"I want to learn how to do a proper deadlift.",
+		"declarative"
+	],
+	[
+		"I want to learn more about linear algebra for machine learning.",
+		"declarative"
+	],
+	[
+		"I want to log all unhandled promise rejections.",
+		"declarative"
+	],
+	[
+		"I want to rent a car for a road trip across California.",
+		"declarative"
+	],
+	[
+		"I want to save the scraped data into a CSV file.",
+		"declarative"
+	],
+	[
+		"I want to submit my short story to a literary magazine.",
+		"declarative"
+	],
+	[
+		"I want to teach you my specific writing style.",
+		"declarative"
+	],
+	[
+		"I want to track my stock portfolio in real-time.",
+		"declarative"
+	],
+	[
+		"I want to transition from QA to software engineering.",
+		"declarative"
+	],
+	[
+		"I want to visit as many historical temples as possible.",
+		"declarative"
+	],
+	[
+		"I want to write a compelling product description.",
+		"declarative"
+	],
+	[
+		"I want to write a short story about a dystopian future.",
+		"declarative"
+	],
+	[
+		"I was hoping to get your input on the design.",
+		"declarative"
+	],
+	[
+		"I wonder if this approach will scale well.",
+		"declarative"
+	],
+	[
+		"I worked on a similar project at my last job.",
+		"declarative"
+	],
+	[
+		"I'd like to return this sweater.",
+		"declarative"
+	],
+	[
+		"I'll be right back.",
+		"declarative"
+	],
+	[
+		"I'll check with the warehouse team about the shipment delay.",
+		"declarative"
+	],
+	[
+		"I'll check.",
+		"declarative"
+	],
+	[
+		"I'll draft an outline and share it with you tomorrow.",
+		"declarative"
+	],
+	[
+		"I'll follow up with legal about the contract terms.",
+		"declarative"
+	],
+	[
+		"I'll gladly refund your money.",
+		"declarative"
+	],
+	[
+		"I'll have the updated numbers ready by end of day.",
+		"declarative"
+	],
+	[
+		"I'll have to check with my manager.",
+		"declarative"
+	],
+	[
+		"I'll just have a glass of water.",
+		"declarative"
+	],
+	[
+		"I'll just leave my jacket here.",
+		"declarative"
+	],
+	[
+		"I'll loop back with you once I hear from the client.",
+		"declarative"
+	],
+	[
+		"I'll make sure to include the appendix.",
+		"declarative"
+	],
+	[
+		"I'll need another day to finish testing the new build.",
+		"declarative"
+	],
+	[
+		"I'll pass.",
+		"declarative"
+	],
+	[
+		"I'll ping the infrastructure team about the outage.",
+		"declarative"
+	],
+	[
+		"I'll probably just stay in tonight.",
+		"declarative"
+	],
+	[
+		"I'll see you on Monday.",
+		"declarative"
+	],
+	[
+		"I'll send over the calendar invite after this call.",
+		"declarative"
+	],
+	[
+		"I'll send the invoice once the project is complete.",
+		"declarative"
+	],
+	[
+		"I'll take care of it.",
+		"declarative"
+	],
+	[
+		"I'll test this on a different browser later.",
+		"declarative"
+	],
+	[
+		"I'll update the spreadsheet after lunch.",
+		"declarative"
+	],
+	[
+		"I'm allergic to peanuts.",
+		"declarative"
+	],
+	[
+		"I'm confused.",
+		"declarative"
+	],
+	[
+		"I'm drafting an outline for the presentation.",
+		"declarative"
+	],
+	[
+		"I'm exhausted.",
+		"declarative"
+	],
+	[
+		"I'm fine.",
+		"declarative"
+	],
+	[
+		"I'm going to bed early tonight.",
+		"declarative"
+	],
+	[
+		"I'm going to take a quick five-minute break.",
+		"declarative"
+	],
+	[
+		"I'm heading out a bit early today for a doctor's appointment.",
+		"declarative"
+	],
+	[
+		"I'm here.",
+		"declarative"
+	],
+	[
+		"I'm in.",
+		"declarative"
+	],
+	[
+		"I'm leaving now.",
+		"declarative"
+	],
+	[
+		"I'm listening.",
+		"declarative"
+	],
+	[
+		"I'm not confident this solution is optimal.",
+		"declarative"
+	],
+	[
+		"I'm not convinced this is the right software.",
+		"declarative"
+	],
+	[
+		"I'm not entirely convinced this approach will scale well.",
+		"declarative"
+	],
+	[
+		"I'm not familiar with that author.",
+		"declarative"
+	],
+	[
+		"I'm not feeling very hungry.",
+		"declarative"
+	],
+	[
+		"I'm not ready yet.",
+		"declarative"
+	],
+	[
+		"I'm not sure why the loop keeps repeating.",
+		"declarative"
+	],
+	[
+		"I'm on it.",
+		"declarative"
+	],
+	[
+		"I'm reading a really good book right now.",
+		"declarative"
+	],
+	[
+		"I'm ready.",
+		"declarative"
+	],
+	[
+		"I'm responsible for managing the vendor relationships.",
+		"declarative"
+	],
+	[
+		"I'm sorry, I didn't catch what you said.",
+		"declarative"
+	],
+	[
+		"I'm still waiting on approval from finance.",
+		"declarative"
+	],
+	[
+		"I'm thinking about getting a new car.",
+		"declarative"
+	],
+	[
+		"I'm trying to cut back on caffeine.",
+		"declarative"
+	],
+	[
+		"I'm trying to remember the name of that restaurant.",
+		"declarative"
+	],
+	[
+		"I'm working on the payment integration now.",
+		"declarative"
+	],
+	[
+		"I've already flagged this issue to the engineering team.",
+		"declarative"
+	],
+	[
+		"I've already sent the report to the whole team.",
+		"declarative"
+	],
+	[
+		"I've asked HR to clarify the new leave policy.",
+		"declarative"
+	],
+	[
+		"I've been meaning to ask you about the budget cuts.",
+		"declarative"
+	],
+	[
+		"I've been meaning to bring this up for a while, but I think our current approach to onboarding new clients is a bit too rigid for how diverse our customer base has become.",
+		"declarative"
+	],
+	[
+		"I've been tracking our progress in a shared spreadsheet.",
+		"declarative"
+	],
+	[
+		"I've been waiting for twenty minutes.",
+		"declarative"
+	],
+	[
+		"I've been watching a lot of documentaries lately.",
+		"declarative"
+	],
+	[
+		"I've got a follow-up appointment scheduled for next Tuesday.",
+		"declarative"
+	],
+	[
+		"I've noticed that whenever we bring the design and engineering teams together early in the process, the final product tends to require far fewer revisions down the line.",
+		"declarative"
+	],
+	[
+		"It looks like we'll hit our target by Friday.",
+		"declarative"
+	],
+	[
+		"It seems like the API is rate-limited.",
+		"declarative"
+	],
+	[
+		"It took a while to convince finance that this investment would pay off, but after seeing the early results, they're actually the ones pushing to expand the budget now.",
+		"declarative"
+	],
+	[
+		"It's done.",
+		"declarative"
+	],
+	[
+		"It's fine.",
+		"declarative"
+	],
+	[
+		"It's late.",
+		"declarative"
+	],
+	[
+		"It's supposed to rain all weekend.",
+		"declarative"
+	],
+	[
+		"Let's schedule the call for tomorrow morning.",
+		"declarative"
+	],
+	[
+		"Let's table this discussion for now.",
+		"declarative"
+	],
+	[
+		"My back has been hurting all week.",
+		"declarative"
+	],
+	[
+		"My biggest weakness is being too detail-oriented.",
+		"declarative"
+	],
+	[
+		"My camera seems to be malfunctioning.",
+		"declarative"
+	],
+	[
+		"My flight lands at eight PM.",
+		"declarative"
+	],
+	[
+		"My laptop crashed while I was saving the file.",
+		"declarative"
+	],
+	[
+		"My sister is visiting next weekend.",
+		"declarative"
+	],
+	[
+		"No worries.",
+		"declarative"
+	],
+	[
+		"Not really.",
+		"declarative"
+	],
+	[
+		"Once we finished restructuring the onboarding process, new hires started reaching full productivity almost two weeks faster than they had under the old system we used before.",
+		"declarative"
+	],
+	[
+		"Our biggest competitor just announced a similar product.",
+		"declarative"
+	],
+	[
+		"Our conversion rate dropped by two percent last month.",
+		"declarative"
+	],
+	[
+		"Our sales numbers dropped slightly compared to last month.",
+		"declarative"
+	],
+	[
+		"Our team consists of five developers and two designers.",
+		"declarative"
+	],
+	[
+		"Please attach the invoice to the email.",
+		"declarative"
+	],
+	[
+		"Please clarify what you mean by that term.",
+		"declarative"
+	],
+	[
+		"Please double-check the numbers in this table.",
+		"declarative"
+	],
+	[
+		"Please increase the timeout for this request.",
+		"declarative"
+	],
+	[
+		"Please indent this block consistently.",
+		"declarative"
+	],
+	[
+		"Please refactor this file into smaller modules.",
+		"declarative"
+	],
+	[
+		"Please remove the trailing whitespace from this file.",
+		"declarative"
+	],
+	[
+		"Please summarize this document in three sentences.",
+		"declarative"
+	],
+	[
+		"Remove the console logs before pushing to production.",
+		"declarative"
+	],
+	[
+		"Reorganize the slides so the summary comes first.",
+		"declarative"
+	],
+	[
+		"Rewrite the introduction so it sounds more formal.",
+		"declarative"
+	],
+	[
+		"Sarah mentioned she would handle the client call.",
+		"declarative"
+	],
+	[
+		"Send me the notes from yesterday's meeting.",
+		"declarative"
+	],
+	[
+		"She accidentally deleted the final version of the presentation.",
+		"declarative"
+	],
+	[
+		"She asked whether the update was ready, but it wasn't.",
+		"declarative"
+	],
+	[
+		"She didn't text me back yet.",
+		"declarative"
+	],
+	[
+		"She doesn't usually work weekends.",
+		"declarative"
+	],
+	[
+		"She has been with the company for five years.",
+		"declarative"
+	],
+	[
+		"She is planning to move to a new city next month to pursue a career in data science.",
+		"declarative"
+	],
+	[
+		"She mentioned she'd be a few minutes late to the call.",
+		"declarative"
+	],
+	[
+		"She mentioned that the deadline might be flexible.",
+		"declarative"
+	],
+	[
+		"She's covering my shifts while I'm out next week.",
+		"declarative"
+	],
+	[
+		"She's finishing up her degree while working part-time.",
+		"declarative"
+	],
+	[
+		"She's planning to relocate to the new office next spring.",
+		"declarative"
+	],
+	[
+		"She's taking over the project once I go on leave.",
+		"declarative"
+	],
+	[
+		"Sounds good.",
+		"declarative"
+	],
+	[
+		"Split this component into two smaller ones.",
+		"declarative"
+	],
+	[
+		"Take a seat.",
+		"declarative"
+	],
+	[
+		"Thanks for the explanation.",
+		"declarative"
+	],
+	[
+		"That works.",
+		"declarative"
+	],
+	[
+		"That's fair.",
+		"declarative"
+	],
+	[
+		"The accuracy plateaus after only ten epochs.",
+		"declarative"
+	],
+	[
+		"The active voice sounds much better here.",
+		"declarative"
+	],
+	[
+		"The AI sometimes makes up facts.",
+		"declarative"
+	],
+	[
+		"The algorithm works perfectly for positive integers but fails on negatives.",
+		"declarative"
+	],
+	[
+		"The animation stutters on lower-end devices.",
+		"declarative"
+	],
+	[
+		"The API documentation is missing several endpoints.",
+		"declarative"
+	],
+	[
+		"The API keeps returning a 403 error.",
+		"declarative"
+	],
+	[
+		"The app is available for download on both iOS and Android platforms.",
+		"declarative"
+	],
+	[
+		"The application crashes when the input file is empty.",
+		"declarative"
+	],
+	[
+		"The article makes a compelling argument about privacy.",
+		"declarative"
+	],
+	[
+		"The budget for the upcoming fiscal year has been approved.",
+		"declarative"
+	],
+	[
+		"The build takes almost ten minutes to finish.",
+		"declarative"
+	],
+	[
+		"The button doesn't respond on the first click.",
+		"declarative"
+	],
+	[
+		"The CEO is pushing for an earlier release date.",
+		"declarative"
+	],
+	[
+		"The chart axis labels are overlapping.",
+		"declarative"
+	],
+	[
+		"The chart doesn't render properly on mobile screens.",
+		"declarative"
+	],
+	[
+		"The chatbot interface is very user-friendly.",
+		"declarative"
+	],
+	[
+		"The chatbot misunderstood the user's second question.",
+		"declarative"
+	],
+	[
+		"The client asked for a few last-minute changes to the layout.",
+		"declarative"
+	],
+	[
+		"The client hasn't replied to my proposal.",
+		"declarative"
+	],
+	[
+		"The client wants the button color changed to blue.",
+		"declarative"
+	],
+	[
+		"The client wants to see a revised proposal by Friday.",
+		"declarative"
+	],
+	[
+		"The code fails silently without throwing any exceptions.",
+		"declarative"
+	],
+	[
+		"The coffee machine in the breakroom is broken again.",
+		"declarative"
+	],
+	[
+		"The comment doesn't match what the code does.",
+		"declarative"
+	],
+	[
+		"The commit message doesn't describe the actual change.",
+		"declarative"
+	],
+	[
+		"The company culture seems very toxic based on the reviews.",
+		"declarative"
+	],
+	[
+		"The company decided to implement a four-day workweek as a trial.",
+		"declarative"
+	],
+	[
+		"The conditional formatting is hiding the wrong cells.",
+		"declarative"
+	],
+	[
+		"The confusion matrix shows a high false positive rate.",
+		"declarative"
+	],
+	[
+		"The container keeps exiting immediately after starting.",
+		"declarative"
+	],
+	[
+		"The context window is too small for my codebase.",
+		"declarative"
+	],
+	[
+		"The contract is up for renewal in March.",
+		"declarative"
+	],
+	[
+		"The counter-argument section needs more solid evidence.",
+		"declarative"
+	],
+	[
+		"The CSS styling breaks when I view the site on mobile.",
+		"declarative"
+	],
+	[
+		"The CSV file is parsing dates incorrectly.",
+		"declarative"
+	],
+	[
+		"The customer seemed satisfied with how we handled the complaint.",
+		"declarative"
+	],
+	[
+		"The customer support team has been dealing with a much higher volume of tickets than usual, mostly related to the recent changes we made to the billing system.",
+		"declarative"
+	],
+	[
+		"The data suggests a shift in user behavior.",
+		"declarative"
+	],
+	[
+		"The data validation dropdown is not working.",
+		"declarative"
+	],
+	[
+		"The data we pulled from the last three campaigns shows a clear pattern where engagement drops significantly whenever we send more than two emails in the same week.",
+		"declarative"
+	],
+	[
+		"The database connection times out after thirty seconds.",
+		"declarative"
+	],
+	[
+		"The database migration failed halfway through.",
+		"declarative"
+	],
+	[
+		"The dataset contains several missing values.",
+		"declarative"
+	],
+	[
+		"The dataset has a lot of missing values.",
+		"declarative"
+	],
+	[
+		"The default sorting order is not what I expected.",
+		"declarative"
+	],
+	[
+		"The deploy failed because of a missing environment variable.",
+		"declarative"
+	],
+	[
+		"The deployment pipeline is failing on the testing stage.",
+		"declarative"
+	],
+	[
+		"The dialogue sounds too unnatural and stiff.",
+		"declarative"
+	],
+	[
+		"The doctor recommended a low-sodium diet.",
+		"declarative"
+	],
+	[
+		"The document is saved in the shared drive.",
+		"declarative"
+	],
+	[
+		"The documentation for this API is outdated and confusing.",
+		"declarative"
+	],
+	[
+		"The dog needs to go for a walk.",
+		"declarative"
+	],
+	[
+		"The elevator is out of order.",
+		"declarative"
+	],
+	[
+		"The email draft sounds too aggressive.",
+		"declarative"
+	],
+	[
+		"The environment variables are not being loaded correctly.",
+		"declarative"
+	],
+	[
+		"The error message indicates a problem with the database connection.",
+		"declarative"
+	],
+	[
+		"The essay lacks a clear thesis statement.",
+		"declarative"
+	],
+	[
+		"The event listener is not being cleaned up on unmount.",
+		"declarative"
+	],
+	[
+		"The feature importance plot looks very suspicious.",
+		"declarative"
+	],
+	[
+		"The feedback from the beta testers was mostly positive.",
+		"declarative"
+	],
+	[
+		"The feedback from the last round of interviews suggests that candidates are more interested in flexibility and growth opportunities than they are in the actual salary being offered.",
+		"declarative"
+	],
+	[
+		"The feedback from the last round was mostly positive.",
+		"declarative"
+	],
+	[
+		"The fitness tracker says my heart rate is too low.",
+		"declarative"
+	],
+	[
+		"The flight itinerary has a layover in Dubai.",
+		"declarative"
+	],
+	[
+		"The foreign key constraint is preventing me from deleting a row.",
+		"declarative"
+	],
+	[
+		"The form submission is triggering a full page reload.",
+		"declarative"
+	],
+	[
+		"The form validation skips the email field.",
+		"declarative"
+	],
+	[
+		"The fridge is making a weird noise.",
+		"declarative"
+	],
+	[
+		"The function signature changed in the new version.",
+		"declarative"
+	],
+	[
+		"The function throws an error when passed null.",
+		"declarative"
+	],
+	[
+		"The graph has a cycle that needs to be detected.",
+		"declarative"
+	],
+	[
+		"The guidelines for the new policy are clearly outlined in the employee handbook.",
+		"declarative"
+	],
+	[
+		"The gym is too crowded after work hours.",
+		"declarative"
+	],
+	[
+		"The hiring manager hasn't responded to my email in a week.",
+		"declarative"
+	],
+	[
+		"The hotel room wasn't cleaned properly.",
+		"declarative"
+	],
+	[
+		"The instructions were unclear, so I guessed the format.",
+		"declarative"
+	],
+	[
+		"The intern asked how the deployment pipeline works, and I explained it.",
+		"declarative"
+	],
+	[
+		"The interview went better than I expected honestly.",
+		"declarative"
+	],
+	[
+		"The invoice was sent out a couple of days late.",
+		"declarative"
+	],
+	[
+		"The issue seems to be related to timezone conversions.",
+		"declarative"
+	],
+	[
+		"The item arrived damaged.",
+		"declarative"
+	],
+	[
+		"The job description requires experience with Kubernetes.",
+		"declarative"
+	],
+	[
+		"The kids are finally asleep.",
+		"declarative"
+	],
+	[
+		"The kids are staying with their grandparents this weekend.",
+		"declarative"
+	],
+	[
+		"The layout breaks when the sidebar is collapsed.",
+		"declarative"
+	],
+	[
+		"The library's default settings caused the crash.",
+		"declarative"
+	],
+	[
+		"The load balancer is not distributing traffic evenly.",
+		"declarative"
+	],
+	[
+		"The local currency is dropping in value.",
+		"declarative"
+	],
+	[
+		"The main character needs a more compelling motivation.",
+		"declarative"
+	],
+	[
+		"The marketing team needs more resources.",
+		"declarative"
+	],
+	[
+		"The math problem requires finding the greatest common divisor.",
+		"declarative"
+	],
+	[
+		"The meeting agenda is not clear.",
+		"declarative"
+	],
+	[
+		"The meeting got pushed back to next week.",
+		"declarative"
+	],
+	[
+		"The meeting got pushed back to three o'clock.",
+		"declarative"
+	],
+	[
+		"The meeting has been postponed to next Thursday due to a scheduling conflict.",
+		"declarative"
+	],
+	[
+		"The meeting is in conference room B.",
+		"declarative"
+	],
+	[
+		"The model hallucinated a function that doesn't exist.",
+		"declarative"
+	],
+	[
+		"The model is biased towards the majority class.",
+		"declarative"
+	],
+	[
+		"The movie starts at seven.",
+		"declarative"
+	],
+	[
+		"The narrator's voice is inconsistent.",
+		"declarative"
+	],
+	[
+		"The new hire starts on Monday morning.",
+		"declarative"
+	],
+	[
+		"The new policy starts next Monday.",
+		"declarative"
+	],
+	[
+		"The newsletter has a high bounce rate.",
+		"declarative"
+	],
+	[
+		"The nutrition label has a lot of hidden sugars.",
+		"declarative"
+	],
+	[
+		"The office is closed for the holiday next Monday.",
+		"declarative"
+	],
+	[
+		"The onboarding email needs a clearer call to action.",
+		"declarative"
+	],
+	[
+		"The onboarding flow confuses first-time users.",
+		"declarative"
+	],
+	[
+		"The ORM is generating inefficient SQL code.",
+		"declarative"
+	],
+	[
+		"The pacing of the middle section feels very slow.",
+		"declarative"
+	],
+	[
+		"The pagination logic breaks when the page loads asynchronously.",
+		"declarative"
+	],
+	[
+		"The panel seemed genuinely impressed with how the candidate handled the technical questions, even the ones that were clearly designed to be difficult to catch people off guard.",
+		"declarative"
+	],
+	[
+		"The presentation ran ten minutes over schedule.",
+		"declarative"
+	],
+	[
+		"The presentation slides need a bit more polishing before Thursday.",
+		"declarative"
+	],
+	[
+		"The presentation slides need to be revised one more time.",
+		"declarative"
+	],
+	[
+		"The presentation went really well.",
+		"declarative"
+	],
+	[
+		"The presentation went very well.",
+		"declarative"
+	],
+	[
+		"The price tag says it's on sale.",
+		"declarative"
+	],
+	[
+		"The printer on the third floor is out of toner again.",
+		"declarative"
+	],
+	[
+		"The probability calculation seems slightly off.",
+		"declarative"
+	],
+	[
+		"The production server is down.",
+		"declarative"
+	],
+	[
+		"The prompt asks for a personal reflection.",
+		"declarative"
+	],
+	[
+		"The protagonist's arc needs to be more pronounced.",
+		"declarative"
+	],
+	[
+		"The query is timing out when I try to fetch too many rows.",
+		"declarative"
+	],
+	[
+		"The recruiter wants to schedule a call for tomorrow.",
+		"declarative"
+	],
+	[
+		"The report highlights a drop in engagement.",
+		"declarative"
+	],
+	[
+		"The report highlights a few areas we need to improve.",
+		"declarative"
+	],
+	[
+		"The report is due by the end of the week.",
+		"declarative"
+	],
+	[
+		"The report we submitted last week actually understated how much progress we made, mostly because a lot of the backend improvements weren't visible to anyone outside the engineering team.",
+		"declarative"
+	],
+	[
+		"The response was too long and verbose.",
+		"declarative"
+	],
+	[
+		"The scale hasn't moved in two weeks.",
+		"declarative"
+	],
+	[
+		"The script runs perfectly on my local machine but fails in Docker.",
+		"declarative"
+	],
+	[
+		"The server keeps returning a 403 Forbidden error.",
+		"declarative"
+	],
+	[
+		"The server logs show repeated timeout errors.",
+		"declarative"
+	],
+	[
+		"The server migration is scheduled for tonight.",
+		"declarative"
+	],
+	[
+		"The server went down for about twenty minutes this morning.",
+		"declarative"
+	],
+	[
+		"The site loads slowly on a weak connection.",
+		"declarative"
+	],
+	[
+		"The spreadsheet formulas broke after the update.",
+		"declarative"
+	],
+	[
+		"The stack trace points to a library I didn't even import.",
+		"declarative"
+	],
+	[
+		"The structure of my essay is not logically flowing.",
+		"declarative"
+	],
+	[
+		"The subscription renews automatically each month.",
+		"declarative"
+	],
+	[
+		"The sum formula is returning a #VALUE! error.",
+		"declarative"
+	],
+	[
+		"The system automatically generates a report at the end of every month.",
+		"declarative"
+	],
+	[
+		"The team decided to go with the second option instead.",
+		"declarative"
+	],
+	[
+		"The team decided to postpone the launch.",
+		"declarative"
+	],
+	[
+		"The tests pass locally but fail in CI.",
+		"declarative"
+	],
+	[
+		"The third quarter earnings exceeded expectations.",
+		"declarative"
+	],
+	[
+		"The tone of my writing feels too formal for the target audience.",
+		"declarative"
+	],
+	[
+		"The tooltip disappears too quickly to read.",
+		"declarative"
+	],
+	[
+		"The tour group seems very overpriced for what it offers.",
+		"declarative"
+	],
+	[
+		"The train is delayed by fifteen minutes.",
+		"declarative"
+	],
+	[
+		"The training loss stopped decreasing after epoch ten.",
+		"declarative"
+	],
+	[
+		"The training program we rolled out last quarter has already led to a noticeable drop in the number of support escalations we've been receiving from newer employees.",
+		"declarative"
+	],
+	[
+		"The training session will cover basic security protocols and data privacy.",
+		"declarative"
+	],
+	[
+		"The travel insurance policy covers medical emergencies.",
+		"declarative"
+	],
+	[
+		"The two-pointer technique works perfectly here.",
+		"declarative"
+	],
+	[
+		"The TypeScript interface is throwing an inheritance error.",
+		"declarative"
+	],
+	[
+		"The unit tests pass locally but fail in the CI pipeline.",
+		"declarative"
+	],
+	[
+		"The user interface looks very clean and modern.",
+		"declarative"
+	],
+	[
+		"The user reported that the app freezes randomly.",
+		"declarative"
+	],
+	[
+		"The variable name should describe its purpose clearly.",
+		"declarative"
+	],
+	[
+		"The vendor finally agreed to extend our contract terms after we pointed out several instances where their service levels hadn't matched what was originally promised to us.",
+		"declarative"
+	],
+	[
+		"The virtual DOM diffing seems to be causing performance issues.",
+		"declarative"
+	],
+	[
+		"The visa application requires a detailed bank statement.",
+		"declarative"
+	],
+	[
+		"The weather delayed our flight by almost two hours.",
+		"declarative"
+	],
+	[
+		"The weather forecast predicts heavy rain for the entire weekend.",
+		"declarative"
+	],
+	[
+		"The website updated its layout and now my selectors are broken.",
+		"declarative"
+	],
+	[
+		"The whole team has been putting in extra hours this month to make sure the launch goes smoothly, and honestly, it's starting to show in how confident everyone feels.",
+		"declarative"
+	],
+	[
+		"The wifi password is on the back of the router.",
+		"declarative"
+	],
+	[
+		"The workshop covered basic Git commands.",
+		"declarative"
+	],
+	[
+		"There are a few unresolved issues in the ticket.",
+		"declarative"
+	],
+	[
+		"There's a strange car parked outside.",
+		"declarative"
+	],
+	[
+		"They agreed to the terms this morning.",
+		"declarative"
+	],
+	[
+		"They just bought a house downtown.",
+		"declarative"
+	],
+	[
+		"This approach avoids duplicating the state logic.",
+		"declarative"
+	],
+	[
+		"This code is clean but the naming is confusing.",
+		"declarative"
+	],
+	[
+		"This function has too many nested conditionals.",
+		"declarative"
+	],
+	[
+		"This function mutates the array instead of copying it.",
+		"declarative"
+	],
+	[
+		"This function returns undefined instead of the array.",
+		"declarative"
+	],
+	[
+		"This library doesn't support older browsers.",
+		"declarative"
+	],
+	[
+		"This module depends on an outdated package.",
+		"declarative"
+	],
+	[
+		"This paragraph contradicts the one before it.",
+		"declarative"
+	],
+	[
+		"This paragraph feels a bit repetitive.",
+		"declarative"
+	],
+	[
+		"This paragraph needs a stronger transition sentence.",
+		"declarative"
+	],
+	[
+		"This project has taken longer than we originally planned.",
+		"declarative"
+	],
+	[
+		"This project requires a lot of cross-team collaboration.",
+		"declarative"
+	],
+	[
+		"This regex doesn't match multiline strings correctly.",
+		"declarative"
+	],
+	[
+		"This sentence could be shortened without losing meaning.",
+		"declarative"
+	],
+	[
+		"This sentence is grammatically correct but awkward.",
+		"declarative"
+	],
+	[
+		"Update the changelog before tagging the release.",
+		"declarative"
+	],
+	[
+		"We agreed to revisit the design next sprint.",
+		"declarative"
+	],
+	[
+		"We are currently experiencing technical difficulties with the payment gateway.",
+		"declarative"
+	],
+	[
+		"We are currently tracking ahead of schedule.",
+		"declarative"
+	],
+	[
+		"We are out of paper towels.",
+		"declarative"
+	],
+	[
+		"We consolidated the duplicate entries in the database.",
+		"declarative"
+	],
+	[
+		"We covered most of the agenda in today's stand-up.",
+		"declarative"
+	],
+	[
+		"We decided to postpone the launch until all bugs are resolved.",
+		"declarative"
+	],
+	[
+		"We discussed the tradeoffs of each framework.",
+		"declarative"
+	],
+	[
+		"We ended up switching our project management tool halfway through the quarter, which caused some short-term confusion but has already made a noticeable difference in how we track tasks.",
+		"declarative"
+	],
+	[
+		"We finalized the color palette for the landing page.",
+		"declarative"
+	],
+	[
+		"We finally have enough historical data to build a more accurate forecast model, which should help us avoid the kind of budgeting surprises we ran into last year.",
+		"declarative"
+	],
+	[
+		"We had a slight delay with the vendor shipment.",
+		"declarative"
+	],
+	[
+		"We had pizza for dinner last night.",
+		"declarative"
+	],
+	[
+		"We haven't decided on a name for the project yet.",
+		"declarative"
+	],
+	[
+		"We just onboarded three new clients this week.",
+		"declarative"
+	],
+	[
+		"We just wrapped up our quarterly review meeting.",
+		"declarative"
+	],
+	[
+		"We lost two team members to another department last week.",
+		"declarative"
+	],
+	[
+		"We managed to close the deal before the end of the quarter.",
+		"declarative"
+	],
+	[
+		"We migrated the database without any downtime.",
+		"declarative"
+	],
+	[
+		"We must ensure that all user data is encrypted before transmission.",
+		"declarative"
+	],
+	[
+		"We need to circle back on the pricing discussion tomorrow.",
+		"declarative"
+	],
+	[
+		"We need to hire two more developers.",
+		"declarative"
+	],
+	[
+		"We need to update the dependencies before the release.",
+		"declarative"
+	],
+	[
+		"We need to update the documentation before the next release.",
+		"declarative"
+	],
+	[
+		"We ran out of budget for the marketing campaign this quarter.",
+		"declarative"
+	],
+	[
+		"We ran out of time during the sprint review.",
+		"declarative"
+	],
+	[
+		"We reviewed the design and made a few changes.",
+		"declarative"
+	],
+	[
+		"We rolled back the update after users reported crashes.",
+		"declarative"
+	],
+	[
+		"We should log the response time for every request.",
+		"declarative"
+	],
+	[
+		"We should probably cache these results.",
+		"declarative"
+	],
+	[
+		"We should probably revisit the roadmap.",
+		"declarative"
+	],
+	[
+		"We should probably send a reminder email before the event.",
+		"declarative"
+	],
+	[
+		"We should probably table this discussion until next week.",
+		"declarative"
+	],
+	[
+		"We spent a good chunk of the retrospective talking about communication gaps between departments, and most people agreed that a shared dashboard would help address a lot of it.",
+		"declarative"
+	],
+	[
+		"We spent the better part of the morning going through every line item in the budget, and honestly, most of the overspending came from a handful of unexpected vendor fees.",
+		"declarative"
+	],
+	[
+		"We tested the feature across three browsers.",
+		"declarative"
+	],
+	[
+		"We usually spend holidays with my parents.",
+		"declarative"
+	],
+	[
+		"We validated the input before sending the request.",
+		"declarative"
+	],
+	[
+		"We'll need to circle back on that issue.",
+		"declarative"
+	],
+	[
+		"We'll see.",
+		"declarative"
+	],
+	[
+		"We're going to need more resources to hit this deadline.",
+		"declarative"
+	],
+	[
+		"We're planning a team lunch to celebrate the launch.",
+		"declarative"
+	],
+	[
+		"We're planning a trip to Japan next year.",
+		"declarative"
+	],
+	[
+		"We're planning to launch the new feature next month.",
+		"declarative"
+	],
+	[
+		"We're still ironing out the details of the merger.",
+		"declarative"
+	],
+	[
+		"We're still negotiating the terms of the partnership agreement.",
+		"declarative"
+	],
+	[
+		"We're still waiting to hear back from the landlord.",
+		"declarative"
+	],
+	[
+		"We're switching vendors because of the recurring delivery issues.",
+		"declarative"
+	],
+	[
+		"We're waiting on a few more signatures to finalize the contract.",
+		"declarative"
+	],
+	[
+		"We've been tracking engagement across all our channels for the past six months, and it's pretty clear that our audience responds best to shorter, more visual content overall.",
+		"declarative"
+	],
+	[
+		"We've exhausted our budget for this quarter.",
+		"declarative"
+	],
+	[
+		"When we first pitched this idea to leadership, nobody really thought it would go anywhere, but here we are almost a year later with our biggest client to date.",
+		"declarative"
+	]
+]

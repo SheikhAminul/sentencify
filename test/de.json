@@ -1,0 +1,4802 @@
+[
+	[
+		"Iss dein Gemüse auf, bevor du Nachtisch bekommst!",
+		"exclamatory"
+	],
+	[
+		"Mach dir keine Sorgen, alles wird gut!",
+		"exclamatory"
+	],
+	[
+		"Was für ein spannendes Buch du mir empfohlen hast!",
+		"exclamatory"
+	],
+	[
+		"Was für ein herrlicher Tag heute gewesen ist!",
+		"exclamatory"
+	],
+	[
+		"Was bedeutet dieses Wort auf Deutsch?",
+		"interrogative"
+	],
+	[
+		"Vorsicht, die Treppe ist noch nass!",
+		"exclamatory"
+	],
+	[
+		"Ich habe mich heute für den neuen Job entschieden.",
+		"declarative"
+	],
+	[
+		"Kannst du mir bitte kurz helfen?",
+		"interrogative"
+	],
+	[
+		"Wie warmherzig dieser alte Mann doch ist!",
+		"exclamatory"
+	],
+	[
+		"Wie kocht man eigentlich einen guten Kaffee?",
+		"interrogative"
+	],
+	[
+		"Er hat die ganze Nacht an dem Projekt gearbeitet.",
+		"declarative"
+	],
+	[
+		"Wohin ist die Katze eben gerade gelaufen?",
+		"interrogative"
+	],
+	[
+		"Wie erfrischend ein Sprung ins kalte Wasser ist!",
+		"exclamatory"
+	],
+	[
+		"Wie gemütlich es in dieser kleinen Hütte ist!",
+		"exclamatory"
+	],
+	[
+		"Isst du lieber Pizza oder Pasta?",
+		"interrogative"
+	],
+	[
+		"Er hat seine Meinung während der Diskussion geändert.",
+		"declarative"
+	],
+	[
+		"Sei bloß vorsichtig auf der Treppe!",
+		"exclamatory"
+	],
+	[
+		"Wie lange wartest du schon auf den Bus?",
+		"interrogative"
+	],
+	[
+		"Wie geschmackvoll sie die Wohnung eingerichtet hat!",
+		"exclamatory"
+	],
+	[
+		"Gefällt dir die neue Wohnung deiner Eltern?",
+		"interrogative"
+	],
+	[
+		"Pack bitte deine Sachen, wir fahren in einer Stunde!",
+		"exclamatory"
+	],
+	[
+		"Was für ein mutiger Feuerwehrmann er doch war!",
+		"exclamatory"
+	],
+	[
+		"Musst du heute noch länger arbeiten?",
+		"interrogative"
+	],
+	[
+		"Wie wunderbar diese Melodie klingt!",
+		"exclamatory"
+	],
+	[
+		"Sind die Karten für das Konzert noch erhältlich?",
+		"interrogative"
+	],
+	[
+		"Wie leicht diese Aufgabe am Ende war!",
+		"exclamatory"
+	],
+	[
+		"Was für ein trostreicher Brief das von ihr war!",
+		"exclamatory"
+	],
+	[
+		"Kennst du jemanden, der Klavier unterrichtet?",
+		"interrogative"
+	],
+	[
+		"Seit wann wohnst du in dieser Stadt?",
+		"interrogative"
+	],
+	[
+		"Die Firma plant eine Expansion nach Asien.",
+		"declarative"
+	],
+	[
+		"Wie viel wiegt dein Gepäck ungefähr?",
+		"interrogative"
+	],
+	[
+		"Weißt du, wo die nächste Apotheke ist?",
+		"interrogative"
+	],
+	[
+		"Was für ein Geschenk wünschst du dir zum Geburtstag?",
+		"interrogative"
+	],
+	[
+		"Wie kommt man am schnellsten zum Bahnhof?",
+		"interrogative"
+	],
+	[
+		"Der Kaffee ist mir heute Morgen ausgegangen.",
+		"declarative"
+	],
+	[
+		"Wie schaffst du es, so ruhig zu bleiben?",
+		"interrogative"
+	],
+	[
+		"Magst du lieber Berge oder das Meer?",
+		"interrogative"
+	],
+	[
+		"Wie friedlich dieser kleine See im Morgenlicht wirkt!",
+		"exclamatory"
+	],
+	[
+		"Lass das bloß nicht fallen!",
+		"exclamatory"
+	],
+	[
+		"Der Chef ist diese Woche geschäftlich unterwegs.",
+		"declarative"
+	],
+	[
+		"Der Handwerker repariert morgen die kaputte Heizung.",
+		"declarative"
+	],
+	[
+		"Mach sofort das Fenster zu!",
+		"exclamatory"
+	],
+	[
+		"Ich habe das Missverständnis inzwischen aufgeklärt.",
+		"declarative"
+	],
+	[
+		"Was für ein schrecklicher Sturm letzte Nacht tobte!",
+		"exclamatory"
+	],
+	[
+		"Wieso hast du deine Meinung so schnell geändert?",
+		"interrogative"
+	],
+	[
+		"Wir haben das Konzert leider verpasst.",
+		"declarative"
+	],
+	[
+		"Der Wein aus dieser Region schmeckt besonders gut.",
+		"declarative"
+	],
+	[
+		"Hattest du gestern viel Stress auf der Arbeit?",
+		"interrogative"
+	],
+	[
+		"Wie viele Länder hast du schon bereist?",
+		"interrogative"
+	],
+	[
+		"Woher stammt eigentlich diese alte Tradition?",
+		"interrogative"
+	],
+	[
+		"Pass bitte besser auf den Verkehr auf!",
+		"exclamatory"
+	],
+	[
+		"Wollt ihr heute Abend bei uns essen?",
+		"interrogative"
+	],
+	[
+		"Wie gefährlich diese Kurve bei Regen ist!",
+		"exclamatory"
+	],
+	[
+		"Wie spät hast du gestern das Büro verlassen?",
+		"interrogative"
+	],
+	[
+		"Sie hat sich für ein ruhiges Leben auf dem Land entschieden.",
+		"declarative"
+	],
+	[
+		"Darf ich das Fenster kurz öffnen?",
+		"interrogative"
+	],
+	[
+		"Wie lecker dieser Kuchen schmeckt!",
+		"exclamatory"
+	],
+	[
+		"Wie tief ist der See an dieser Stelle?",
+		"interrogative"
+	],
+	[
+		"Meine Kollegen feiern heute den Geburtstag im Büro.",
+		"declarative"
+	],
+	[
+		"Ist die Milch im Kühlschrank noch haltbar?",
+		"interrogative"
+	],
+	[
+		"Wessen Handy klingelt da die ganze Zeit?",
+		"interrogative"
+	],
+	[
+		"Was für ein wohltuender Regen nach dieser Hitze das war!",
+		"exclamatory"
+	],
+	[
+		"Ich habe das Buch in nur zwei Tagen ausgelesen.",
+		"declarative"
+	],
+	[
+		"Nehmt ihr den früheren oder den späteren Flug?",
+		"interrogative"
+	],
+	[
+		"Zieh dir schnell eine Jacke an, es ist kalt!",
+		"exclamatory"
+	],
+	[
+		"Der Sturm hat mehrere Bäume im Park umgeworfen.",
+		"declarative"
+	],
+	[
+		"Die Preise für Strom sind im letzten Jahr gestiegen.",
+		"declarative"
+	],
+	[
+		"Dürfen Kinder hier auch alleine schwimmen?",
+		"interrogative"
+	],
+	[
+		"Er hat sich beim Skifahren das Bein gebrochen.",
+		"declarative"
+	],
+	[
+		"Wie kreativ die Kinder ihre Kostüme gestaltet haben!",
+		"exclamatory"
+	],
+	[
+		"Wie eisig dieser Wintermorgen tatsächlich war!",
+		"exclamatory"
+	],
+	[
+		"Ruh dich jetzt endlich einmal richtig aus!",
+		"exclamatory"
+	],
+	[
+		"Nimm dir bitte noch etwas von dem Kuchen!",
+		"exclamatory"
+	],
+	[
+		"Was für ein loyaler Freund er sich erwiesen hat!",
+		"exclamatory"
+	],
+	[
+		"Ist dieser Platz hier noch frei?",
+		"interrogative"
+	],
+	[
+		"Na endlich hast du angerufen!",
+		"exclamatory"
+	],
+	[
+		"Was für eine gute Nachricht du mir gerade erzählt hast!",
+		"exclamatory"
+	],
+	[
+		"Welches Kleid soll ich zur Party anziehen?",
+		"interrogative"
+	],
+	[
+		"Wie viele Stunden hast du heute gearbeitet?",
+		"interrogative"
+	],
+	[
+		"Wo hast du meinen Schlüssel hingelegt?",
+		"interrogative"
+	],
+	[
+		"Meine Schwester hat sich beruflich völlig neu orientiert.",
+		"declarative"
+	],
+	[
+		"Das neue Restaurant in der Innenstadt ist sehr teuer.",
+		"declarative"
+	],
+	[
+		"Ich habe den ganzen Nachmittag im Garten gearbeitet.",
+		"declarative"
+	],
+	[
+		"Wie vernünftig diese Entscheidung im Nachhinein war!",
+		"exclamatory"
+	],
+	[
+		"Was für ein charmantes kleines Café das ist!",
+		"exclamatory"
+	],
+	[
+		"Der Regen hat die geplante Feier leider verhindert.",
+		"declarative"
+	],
+	[
+		"Ich habe mein Handy zu Hause vergessen.",
+		"declarative"
+	],
+	[
+		"War das Wetter im Urlaub gut?",
+		"interrogative"
+	],
+	[
+		"Was für ein köstliches Dessert die Bäckerei anbietet!",
+		"exclamatory"
+	],
+	[
+		"Was für ein außergewöhnliches Talent dieses Mädchen hat!",
+		"exclamatory"
+	],
+	[
+		"Wie breit ist die Straße vor eurem Haus?",
+		"interrogative"
+	],
+	[
+		"Weshalb wollte er das Angebot nicht annehmen?",
+		"interrogative"
+	],
+	[
+		"Was für ein wunderschöner Garten das ist!",
+		"exclamatory"
+	],
+	[
+		"Meine Nachbarin gießt jeden Abend die Blumen.",
+		"declarative"
+	],
+	[
+		"Wie aufregend dieser Ausflug für die Kinder war!",
+		"exclamatory"
+	],
+	[
+		"So ein Ärgernis, dass der Zug ausgefallen ist!",
+		"exclamatory"
+	],
+	[
+		"Der Chef hat das Meeting kurzfristig abgesagt.",
+		"declarative"
+	],
+	[
+		"Zieh die Handbremse an, bevor du aussteigst!",
+		"exclamatory"
+	],
+	[
+		"Das Baby lächelt zum ersten Mal richtig.",
+		"declarative"
+	],
+	[
+		"Was für ein gewaltiger Applaus am Ende des Konzerts kam!",
+		"exclamatory"
+	],
+	[
+		"Öffne bitte kurz die Tür, meine Hände sind voll!",
+		"exclamatory"
+	],
+	[
+		"Warte kurz, ich komme sofort mit!",
+		"exclamatory"
+	],
+	[
+		"Meine Nichte macht dieses Jahr ihr Abitur.",
+		"declarative"
+	],
+	[
+		"Wie stolz die Eltern auf ihre Tochter sind!",
+		"exclamatory"
+	],
+	[
+		"Kannst du mir zeigen, wie das funktioniert?",
+		"interrogative"
+	],
+	[
+		"Ich habe die Einladung leider zu spät gesehen.",
+		"declarative"
+	],
+	[
+		"Das Restaurant hat wegen Renovierung vorübergehend geschlossen.",
+		"declarative"
+	],
+	[
+		"Ich habe das Fenster über Nacht offen gelassen.",
+		"declarative"
+	],
+	[
+		"Der Zug fährt heute über eine andere Strecke.",
+		"declarative"
+	],
+	[
+		"Renn los, der Zug steht schon am Gleis!",
+		"exclamatory"
+	],
+	[
+		"Weißt du zufällig, wie spät es ist?",
+		"interrogative"
+	],
+	[
+		"Was für ein finsterer Wald das doch gewesen ist!",
+		"exclamatory"
+	],
+	[
+		"Wie spät ist es gerade?",
+		"interrogative"
+	],
+	[
+		"Mach die Musik bitte leiser!",
+		"exclamatory"
+	],
+	[
+		"Er hat sein ganzes Erspartes in die Firma investiert.",
+		"declarative"
+	],
+	[
+		"Wir haben das Bild an die Wand im Wohnzimmer gehängt.",
+		"declarative"
+	],
+	[
+		"Ich putze mir zweimal täglich die Zähne.",
+		"declarative"
+	],
+	[
+		"Der Kurs beginnt Anfang nächsten Monats.",
+		"declarative"
+	],
+	[
+		"Sollten wir den Ausflug lieber verschieben?",
+		"interrogative"
+	],
+	[
+		"Mein Bruder hat die Prüfung erfolgreich bestanden.",
+		"declarative"
+	],
+	[
+		"Wie elegant sie sich gekleidet hat!",
+		"exclamatory"
+	],
+	[
+		"Wessen Auto steht vor unserem Haus?",
+		"interrogative"
+	],
+	[
+		"Das Auto steht seit einer Woche in der Werkstatt.",
+		"declarative"
+	],
+	[
+		"Ich habe mich beim Kochen leicht verbrannt.",
+		"declarative"
+	],
+	[
+		"Meine Schwiegereltern besuchen uns zu Weihnachten.",
+		"declarative"
+	],
+	[
+		"Was für ein Auto möchtest du dir kaufen?",
+		"interrogative"
+	],
+	[
+		"Sie hat den Job wegen der langen Fahrzeit abgelehnt.",
+		"declarative"
+	],
+	[
+		"Warum weinst du gerade so bitterlich?",
+		"interrogative"
+	],
+	[
+		"Ich habe die Fenster im Frühling geputzt.",
+		"declarative"
+	],
+	[
+		"Meine Freundin hat sich ein Tattoo stechen lassen.",
+		"declarative"
+	],
+	[
+		"Zieh dir feste Schuhe an, der Weg ist steinig!",
+		"exclamatory"
+	],
+	[
+		"Herzlichen Glückwunsch zu deinem Examen!",
+		"exclamatory"
+	],
+	[
+		"Bring mir sofort das Erste-Hilfe-Set!",
+		"exclamatory"
+	],
+	[
+		"Zahlt die Versicherung die Reparaturkosten?",
+		"interrogative"
+	],
+	[
+		"Mensch, das war knapp!",
+		"exclamatory"
+	],
+	[
+		"Komm sofort her, das musst du sehen!",
+		"exclamatory"
+	],
+	[
+		"Was für ein leckeres Essen deine Mutter gekocht hat!",
+		"exclamatory"
+	],
+	[
+		"Was für ein energiegeladener Auftritt das war!",
+		"exclamatory"
+	],
+	[
+		"Geh sofort zur Seite, das Auto kommt näher!",
+		"exclamatory"
+	],
+	[
+		"Wohnst du allein oder mit einem Mitbewohner?",
+		"interrogative"
+	],
+	[
+		"Das ist ja wirklich unglaublich!",
+		"exclamatory"
+	],
+	[
+		"Die Rechnung wurde bereits überwiesen.",
+		"declarative"
+	],
+	[
+		"Was für ein aufregendes Abenteuer das gewesen ist!",
+		"exclamatory"
+	],
+	[
+		"Welche Uhrzeit passt dir am besten für das Treffen?",
+		"interrogative"
+	],
+	[
+		"Die Universität hat neue Regeln für Studierende eingeführt.",
+		"declarative"
+	],
+	[
+		"Welcher Wochentag ist heute eigentlich?",
+		"interrogative"
+	],
+	[
+		"Was für ein rätselhafter Fall das für die Polizei ist!",
+		"exclamatory"
+	],
+	[
+		"Gehört dieser Regenschirm dir?",
+		"interrogative"
+	],
+	[
+		"Wir haben letzte Woche eine neue Waschmaschine gekauft.",
+		"declarative"
+	],
+	[
+		"Er hat sich entschieden, die Stadt zu verlassen.",
+		"declarative"
+	],
+	[
+		"Wessen Jacke liegt auf dem Stuhl?",
+		"interrogative"
+	],
+	[
+		"Wir haben den ganzen Tag mit Aufräumen verbracht.",
+		"declarative"
+	],
+	[
+		"Meine Tante hat uns ein wunderschönes Geschenk mitgebracht.",
+		"declarative"
+	],
+	[
+		"Wie kraftvoll diese Rede das Publikum berührt hat!",
+		"exclamatory"
+	],
+	[
+		"Die Straßenbahn fährt heute wegen einer Störung nicht.",
+		"declarative"
+	],
+	[
+		"Wir treffen uns morgen früh am Bahnhof.",
+		"declarative"
+	],
+	[
+		"Die Firma hat einen neuen Standort eröffnet.",
+		"declarative"
+	],
+	[
+		"Ich trage heute wegen der Kälte einen dicken Mantel.",
+		"declarative"
+	],
+	[
+		"Wie leise es plötzlich im Raum wurde!",
+		"exclamatory"
+	],
+	[
+		"Sie hat die Wohnung sehr gemütlich eingerichtet.",
+		"declarative"
+	],
+	[
+		"Woher weißt du das so genau?",
+		"interrogative"
+	],
+	[
+		"Ich habe meine alten Bücher gespendet.",
+		"declarative"
+	],
+	[
+		"Der Supermarkt an der Ecke hat rund um die Uhr geöffnet.",
+		"declarative"
+	],
+	[
+		"Fährt dieser Bus zum Hauptbahnhof?",
+		"interrogative"
+	],
+	[
+		"Wir haben den Urlaub dieses Jahr in den Bergen verbracht.",
+		"declarative"
+	],
+	[
+		"Wohnt ihr zur Miete oder im eigenen Haus?",
+		"interrogative"
+	],
+	[
+		"Nimm dich in Acht vor dem Hund!",
+		"exclamatory"
+	],
+	[
+		"Wie rührend diese kleine Geste doch war!",
+		"exclamatory"
+	],
+	[
+		"Willst du wirklich den ganzen Kuchen essen?",
+		"interrogative"
+	],
+	[
+		"Hör endlich auf, so laut zu schreien!",
+		"exclamatory"
+	],
+	[
+		"Müsst ihr morgen früh aufstehen?",
+		"interrogative"
+	],
+	[
+		"Setz dich hin, bevor du noch hinfällst!",
+		"exclamatory"
+	],
+	[
+		"Sie hat ihren Schlüsselbund im Auto liegen lassen.",
+		"declarative"
+	],
+	[
+		"Studiert deine Cousine noch an der Universität?",
+		"interrogative"
+	],
+	[
+		"Wir haben die alten Möbel auf dem Flohmarkt verkauft.",
+		"declarative"
+	],
+	[
+		"Meine Schwester arbeitet ehrenamtlich im Tierheim.",
+		"declarative"
+	],
+	[
+		"Was hältst du von diesem Vorschlag?",
+		"interrogative"
+	],
+	[
+		"Was für ein chaotisches Zimmer du hast!",
+		"exclamatory"
+	],
+	[
+		"Wie viel Uhrzeit haben wir noch bis zur Abfahrt?",
+		"interrogative"
+	],
+	[
+		"Wie ansteckend ihr Lachen doch ist!",
+		"exclamatory"
+	],
+	[
+		"Er hat den ganzen Tag im Homeoffice gearbeitet.",
+		"declarative"
+	],
+	[
+		"Meine Wohnung liegt im dritten Stock.",
+		"declarative"
+	],
+	[
+		"Sie hat sich letztes Jahr ein neues Fahrrad gekauft.",
+		"declarative"
+	],
+	[
+		"Woran erinnerst du dich noch aus deiner Kindheit?",
+		"interrogative"
+	],
+	[
+		"Meine Mutter kocht sonntags immer für die ganze Familie.",
+		"declarative"
+	],
+	[
+		"Wann öffnet die Bäckerei morgens normalerweise?",
+		"interrogative"
+	],
+	[
+		"Was für eine wundervolle Reise das für uns war!",
+		"exclamatory"
+	],
+	[
+		"Kommst du morgen mit zum Konzert?",
+		"interrogative"
+	],
+	[
+		"Meine Kollegin hat die Präsentation komplett überarbeitet.",
+		"declarative"
+	],
+	[
+		"Fass das bloß nicht an, es ist noch heiß!",
+		"exclamatory"
+	],
+	[
+		"Wie hoch dieser Berg tatsächlich ist!",
+		"exclamatory"
+	],
+	[
+		"Was für eine gewaltige Menschenmenge sich hier versammelt hat!",
+		"exclamatory"
+	],
+	[
+		"Wie mutig dieser kleine Junge war!",
+		"exclamatory"
+	],
+	[
+		"Wie schreibt man dieses Wort richtig?",
+		"interrogative"
+	],
+	[
+		"Was für ein glücklicher Zufall das doch ist!",
+		"exclamatory"
+	],
+	[
+		"Sie studiert Medizin an der Universität Hamburg.",
+		"declarative"
+	],
+	[
+		"Was für ein liebenswerter kleiner Hund das ist!",
+		"exclamatory"
+	],
+	[
+		"Wie schön dieser Sonnenuntergang heute ist!",
+		"exclamatory"
+	],
+	[
+		"Wann hast du das letzte Mal deine Eltern besucht?",
+		"interrogative"
+	],
+	[
+		"Die Blumen im Garten blühen jetzt wunderschön.",
+		"declarative"
+	],
+	[
+		"Wir fahren im Sommer nach Italien.",
+		"declarative"
+	],
+	[
+		"Was für eine turbulente Woche das gewesen ist!",
+		"exclamatory"
+	],
+	[
+		"Meine Eltern feiern dieses Jahr ihre goldene Hochzeit.",
+		"declarative"
+	],
+	[
+		"Donnerwetter, das war eine tolle Leistung!",
+		"exclamatory"
+	],
+	[
+		"Trink bitte etwas Wasser, du siehst blass aus!",
+		"exclamatory"
+	],
+	[
+		"Der Regen hat die Straßen komplett überflutet.",
+		"declarative"
+	],
+	[
+		"Verlass sofort das Gebäude, es brennt!",
+		"exclamatory"
+	],
+	[
+		"Wir kochen heute Abend gemeinsam ein indisches Gericht.",
+		"declarative"
+	],
+	[
+		"Der See ist im Sommer sehr beliebt bei Touristen.",
+		"declarative"
+	],
+	[
+		"Das Ticket für die Ausstellung kostet zwölf Euro.",
+		"declarative"
+	],
+	[
+		"Der Zug hatte heute Morgen zwanzig Minuten Verspätung.",
+		"declarative"
+	],
+	[
+		"Ich habe den Kaffee versehentlich verschüttet.",
+		"declarative"
+	],
+	[
+		"Erinnerst du dich an unseren letzten Urlaub?",
+		"interrogative"
+	],
+	[
+		"Sie fährt jeden Tag mit dem Fahrrad zur Arbeit.",
+		"declarative"
+	],
+	[
+		"Die Katze schläft den ganzen Tag auf dem Sofa.",
+		"declarative"
+	],
+	[
+		"Halt bitte den Mund, der Lehrer erklärt gerade etwas!",
+		"exclamatory"
+	],
+	[
+		"Ich habe die Zeitung heute noch nicht gelesen.",
+		"declarative"
+	],
+	[
+		"Erinnert ihr euch noch an unser erstes Treffen?",
+		"interrogative"
+	],
+	[
+		"Regnet es draußen gerade sehr stark?",
+		"interrogative"
+	],
+	[
+		"Schmeckt dir die Suppe?",
+		"interrogative"
+	],
+	[
+		"Wie schwer ist dieser Koffer eigentlich?",
+		"interrogative"
+	],
+	[
+		"Ich habe den Schlüssel im Büro liegen lassen.",
+		"declarative"
+	],
+	[
+		"Wann wird das neue Krankenhaus eröffnet?",
+		"interrogative"
+	],
+	[
+		"Ich habe mich für den Deutschkurs im Herbst angemeldet.",
+		"declarative"
+	],
+	[
+		"Die Kinder haben im Park einen Schneemann gebaut.",
+		"declarative"
+	],
+	[
+		"Woher kommt eigentlich dieser komische Geruch?",
+		"interrogative"
+	],
+	[
+		"Sie hat sich ein neues Auto geleast.",
+		"declarative"
+	],
+	[
+		"Der Zug nach München fährt um acht Uhr ab.",
+		"declarative"
+	],
+	[
+		"Wohin geht die Reise dieses Jahr im Winter?",
+		"interrogative"
+	],
+	[
+		"Wisch dir bloß die Füße ab, bevor du reinkommst!",
+		"exclamatory"
+	],
+	[
+		"Denk bitte an deine Tabletten heute Abend!",
+		"exclamatory"
+	],
+	[
+		"Der Test hat länger gedauert als erwartet.",
+		"declarative"
+	],
+	[
+		"Meine Schwester hat gerade ihr erstes Kind bekommen.",
+		"declarative"
+	],
+	[
+		"Der Vortrag hat viele interessante Aspekte behandelt.",
+		"declarative"
+	],
+	[
+		"Wir haben den Flug wegen des Sturms verpasst.",
+		"declarative"
+	],
+	[
+		"Hast du den Bericht schon fertig geschrieben?",
+		"interrogative"
+	],
+	[
+		"Welches Fahrrad würdest du mir empfehlen?",
+		"interrogative"
+	],
+	[
+		"Wie großzügig er zu Weihnachten war!",
+		"exclamatory"
+	],
+	[
+		"Mein Onkel züchtet seit Jahren exotische Pflanzen.",
+		"declarative"
+	],
+	[
+		"Lass mich bitte kurz in Ruhe nachdenken!",
+		"exclamatory"
+	],
+	[
+		"Das Kind hat seine Hausaufgaben schon erledigt.",
+		"declarative"
+	],
+	[
+		"Wie freundlich die Menschen hier sind!",
+		"exclamatory"
+	],
+	[
+		"Die Firma hat letztes Jahr viele neue Mitarbeiter eingestellt.",
+		"declarative"
+	],
+	[
+		"Wie sanft der Wind heute Abend über das Feld weht!",
+		"exclamatory"
+	],
+	[
+		"Halt still, ich mache nur schnell ein Foto!",
+		"exclamatory"
+	],
+	[
+		"Wie liebevoll sie sich um die Tiere kümmert!",
+		"exclamatory"
+	],
+	[
+		"Der Winter war dieses Jahr besonders kalt.",
+		"declarative"
+	],
+	[
+		"Was hat der Chef in der Besprechung gesagt?",
+		"interrogative"
+	],
+	[
+		"Die Nachbarn haben sich über den Lärm beschwert.",
+		"declarative"
+	],
+	[
+		"Schau dir bloß dieses Feuerwerk an!",
+		"exclamatory"
+	],
+	[
+		"Meine Kollegen haben mir zum Geburtstag gratuliert.",
+		"declarative"
+	],
+	[
+		"Er trinkt jeden Morgen einen starken Tee.",
+		"declarative"
+	],
+	[
+		"Vergiss bloß nicht deinen Regenschirm!",
+		"exclamatory"
+	],
+	[
+		"Der Vermieter hat die Miete zum Jahresende erhöht.",
+		"declarative"
+	],
+	[
+		"Wie ansprechend diese Werbung gestaltet wurde!",
+		"exclamatory"
+	],
+	[
+		"Halt sofort an, da vorne ist ein Kind!",
+		"exclamatory"
+	],
+	[
+		"Er arbeitet als Ingenieur bei einer großen Firma.",
+		"declarative"
+	],
+	[
+		"Der Bäcker öffnet morgens um sechs Uhr.",
+		"declarative"
+	],
+	[
+		"Wann triffst du dich mit deiner Freundin?",
+		"interrogative"
+	],
+	[
+		"Was für ein hartnäckiger Husten das schon seit Wochen ist!",
+		"exclamatory"
+	],
+	[
+		"Die Firma hat ihre Öffnungszeiten leicht angepasst.",
+		"declarative"
+	],
+	[
+		"Welchen Beruf übt dein Vater eigentlich aus?",
+		"interrogative"
+	],
+	[
+		"Wann beginnt der Film heute Abend?",
+		"interrogative"
+	],
+	[
+		"Wen wollt ihr zu eurer Hochzeit einladen?",
+		"interrogative"
+	],
+	[
+		"Was für ein riesiges Haus die Nachbarn gebaut haben!",
+		"exclamatory"
+	],
+	[
+		"Zahlst du bar oder mit Karte?",
+		"interrogative"
+	],
+	[
+		"Gib sofort Bescheid, wenn etwas Wichtiges passiert!",
+		"exclamatory"
+	],
+	[
+		"Wir haben das Grundstück letztes Jahr gekauft.",
+		"declarative"
+	],
+	[
+		"Meine Kollegen haben das Projekt pünktlich abgeschlossen.",
+		"declarative"
+	],
+	[
+		"Wann kommt der nächste Bus zur Haltestelle?",
+		"interrogative"
+	],
+	[
+		"Trag bitte diese schweren Taschen für mich!",
+		"exclamatory"
+	],
+	[
+		"Warst du schon einmal in Japan?",
+		"interrogative"
+	],
+	[
+		"Wir haben die Wanderung wegen des Regens abgesagt.",
+		"declarative"
+	],
+	[
+		"Achtung, hier ist frisch gestrichen!",
+		"exclamatory"
+	],
+	[
+		"War die Prüfung heute besonders schwer?",
+		"interrogative"
+	],
+	[
+		"Fährt die Fähre auch bei starkem Wind?",
+		"interrogative"
+	],
+	[
+		"Der Zug hält an diesem Bahnhof nur selten.",
+		"declarative"
+	],
+	[
+		"Hilfe, ich stecke im Aufzug fest!",
+		"exclamatory"
+	],
+	[
+		"Wie geduldig sie mit den Kindern umgeht!",
+		"exclamatory"
+	],
+	[
+		"Was für ein süßer kleiner Welpe das ist!",
+		"exclamatory"
+	],
+	[
+		"Meine Großmutter erzählt gerne Geschichten aus ihrer Jugend.",
+		"declarative"
+	],
+	[
+		"Was für ein furchtbares Chaos hier herrscht!",
+		"exclamatory"
+	],
+	[
+		"Nimmst du den Bus oder gehst du zu Fuß?",
+		"interrogative"
+	],
+	[
+		"So ein unglaubliches Glück habt ihr gehabt!",
+		"exclamatory"
+	],
+	[
+		"Wie ideenreich die Schüler ihr Projekt umgesetzt haben!",
+		"exclamatory"
+	],
+	[
+		"Welche Farbe gefällt dir am besten?",
+		"interrogative"
+	],
+	[
+		"Meinst du, wir schaffen den Zug noch?",
+		"interrogative"
+	],
+	[
+		"Welches Hotel habt ihr für den Urlaub gebucht?",
+		"interrogative"
+	],
+	[
+		"Welche Größe brauchst du bei diesen Schuhen?",
+		"interrogative"
+	],
+	[
+		"Ich habe die Rechnung schon vor Wochen bezahlt.",
+		"declarative"
+	],
+	[
+		"Stört es dich, wenn ich das Fenster öffne?",
+		"interrogative"
+	],
+	[
+		"Ist das Geschäft sonntags geöffnet?",
+		"interrogative"
+	],
+	[
+		"Was für eine tolle Überraschung ihr euch ausgedacht habt!",
+		"exclamatory"
+	],
+	[
+		"Der Fluss ist nach dem starken Regen über die Ufer getreten.",
+		"declarative"
+	],
+	[
+		"Wir haben unsere Reisepläne noch einmal geändert.",
+		"declarative"
+	],
+	[
+		"Seid ihr rechtzeitig am Flughafen angekommen?",
+		"interrogative"
+	],
+	[
+		"Wir haben unseren alten Fernseher verkauft.",
+		"declarative"
+	],
+	[
+		"Reicht das Geld für die ganze Reise?",
+		"interrogative"
+	],
+	[
+		"Wie widerlich dieser alte Käse riecht!",
+		"exclamatory"
+	],
+	[
+		"Ruf mich bitte gleich zurück, es ist dringend!",
+		"exclamatory"
+	],
+	[
+		"Wie hilfsbereit die Menschen in dieser Stadt sind!",
+		"exclamatory"
+	],
+	[
+		"Das ist ja eine riesige Überraschung!",
+		"exclamatory"
+	],
+	[
+		"Wie schnell die Zeit heute vergangen ist!",
+		"exclamatory"
+	],
+	[
+		"Wir haben endlich einen Termin beim Notar bekommen.",
+		"declarative"
+	],
+	[
+		"Das darf doch alles nicht wahr sein!",
+		"exclamatory"
+	],
+	[
+		"Sie hat den Preis für ihre Arbeit gewonnen.",
+		"declarative"
+	],
+	[
+		"Wie beeindruckend dieser Wasserfall in Wirklichkeit ist!",
+		"exclamatory"
+	],
+	[
+		"Was für ein unfassbares Talent dieser junge Musiker hat!",
+		"exclamatory"
+	],
+	[
+		"Wer hat die Tür offen gelassen?",
+		"interrogative"
+	],
+	[
+		"Wem gehört das Fahrrad vor der Tür?",
+		"interrogative"
+	],
+	[
+		"Brauchst du heute noch das Auto?",
+		"interrogative"
+	],
+	[
+		"Wen hat der Trainer heute aufgestellt?",
+		"interrogative"
+	],
+	[
+		"Wie schnell fährt dieser neue Zug?",
+		"interrogative"
+	],
+	[
+		"Wir haben die Küche letztes Wochenende renoviert.",
+		"declarative"
+	],
+	[
+		"Melde dich bitte, sobald du angekommen bist!",
+		"exclamatory"
+	],
+	[
+		"Der Lehrer erklärt die Aufgabe noch einmal in Ruhe.",
+		"declarative"
+	],
+	[
+		"Das Wetter war letzte Woche wirklich schlecht.",
+		"declarative"
+	],
+	[
+		"Wessen Vorschlag wurde am Ende angenommen?",
+		"interrogative"
+	],
+	[
+		"Wisch bitte den Tisch ab, bevor wir essen!",
+		"exclamatory"
+	],
+	[
+		"Kommt deine Schwester auch zur Feier?",
+		"interrogative"
+	],
+	[
+		"Wie klug diese Idee eigentlich war!",
+		"exclamatory"
+	],
+	[
+		"Wodurch wurde der Fehler eigentlich verursacht?",
+		"interrogative"
+	],
+	[
+		"Wir haben das Zimmer für drei Nächte gebucht.",
+		"declarative"
+	],
+	[
+		"Wurde die Reparatur schon bezahlt?",
+		"interrogative"
+	],
+	[
+		"Fliegen wir dieses Jahr oder fahren wir mit dem Auto?",
+		"interrogative"
+	],
+	[
+		"Wie viele Teilnehmer erwartet ihr bei der Konferenz?",
+		"interrogative"
+	],
+	[
+		"Die Universität bietet ab nächstem Semester einen neuen Studiengang an.",
+		"declarative"
+	],
+	[
+		"Fahr vorsichtig, die Straße ist spiegelglatt!",
+		"exclamatory"
+	],
+	[
+		"Was für ein spektakulärer Sonnenaufgang das heute war!",
+		"exclamatory"
+	],
+	[
+		"Wobei kann ich dir heute helfen?",
+		"interrogative"
+	],
+	[
+		"Feuer, ruft sofort die Feuerwehr!",
+		"exclamatory"
+	],
+	[
+		"Wie viele Tassen Kaffee trinkst du am Tag?",
+		"interrogative"
+	],
+	[
+		"Sie hat sich entschieden, im Ausland zu studieren.",
+		"declarative"
+	],
+	[
+		"Was für ein trostloser Anblick diese verlassene Fabrik bietet!",
+		"exclamatory"
+	],
+	[
+		"Meine Mutter näht sich gerade ein neues Kleid.",
+		"declarative"
+	],
+	[
+		"Schließ die Tür, es zieht furchtbar!",
+		"exclamatory"
+	],
+	[
+		"Wie lange dauert die Fahrt nach Köln?",
+		"interrogative"
+	],
+	[
+		"Meine Kollegin arbeitet seit heute von zu Hause aus.",
+		"declarative"
+	],
+	[
+		"Mein Kollege kündigt zum Ende des Monats.",
+		"declarative"
+	],
+	[
+		"Bist du mit dem Ergebnis zufrieden?",
+		"interrogative"
+	],
+	[
+		"Sind deine Eltern schon in Rente?",
+		"interrogative"
+	],
+	[
+		"Was für ein makelloser Rasen im Vorgarten wächst!",
+		"exclamatory"
+	],
+	[
+		"Wie erleichtert wir alle nach der Nachricht waren!",
+		"exclamatory"
+	],
+	[
+		"Wie viele Geschwister hast du?",
+		"interrogative"
+	],
+	[
+		"Wie fleißig du in letzter Zeit arbeitest!",
+		"exclamatory"
+	],
+	[
+		"Wir haben das Fahrrad reparieren lassen.",
+		"declarative"
+	],
+	[
+		"Sichere bitte zuerst die Leiter, bevor du hochsteigst!",
+		"exclamatory"
+	],
+	[
+		"Wie ruhig es am frühen Morgen im Wald ist!",
+		"exclamatory"
+	],
+	[
+		"Das Baby schläft endlich seit einer Stunde durch.",
+		"declarative"
+	],
+	[
+		"Ich habe gestern zufällig einen alten Freund getroffen.",
+		"declarative"
+	],
+	[
+		"Wir haben gestern die neuesten Nachrichten verpasst.",
+		"declarative"
+	],
+	[
+		"Wohin fahrt ihr dieses Jahr in den Urlaub?",
+		"interrogative"
+	],
+	[
+		"Wie warm ist das Wasser im See derzeit?",
+		"interrogative"
+	],
+	[
+		"Ich habe die alte Wohnung an einen Studenten vermietet.",
+		"declarative"
+	],
+	[
+		"Kennst du den neuen Nachbarn schon?",
+		"interrogative"
+	],
+	[
+		"Wie oft fährt die Straßenbahn am Wochenende?",
+		"interrogative"
+	],
+	[
+		"Wie groß ist eure neue Wohnung?",
+		"interrogative"
+	],
+	[
+		"Was für eine mutige Entscheidung das von ihr war!",
+		"exclamatory"
+	],
+	[
+		"Wessen Schuhe stehen eigentlich vor der Tür?",
+		"interrogative"
+	],
+	[
+		"Wir haben das Angebot der Firma dankend abgelehnt.",
+		"declarative"
+	],
+	[
+		"Wie traurig diese Geschichte am Ende war!",
+		"exclamatory"
+	],
+	[
+		"Glaubt ihr, dass das Wetter hält?",
+		"interrogative"
+	],
+	[
+		"Wie beruhigend das Rauschen der Wellen wirkt!",
+		"exclamatory"
+	],
+	[
+		"Wir haben den Hund gestern zum Tierarzt gebracht.",
+		"declarative"
+	],
+	[
+		"Welches Fach findest du in der Schule am schwersten?",
+		"interrogative"
+	],
+	[
+		"Wie oft besuchst du deine Großeltern?",
+		"interrogative"
+	],
+	[
+		"Wir haben den Sommer meistens am See verbracht.",
+		"declarative"
+	],
+	[
+		"Ich lese gerade ein spannendes Buch über Geschichte.",
+		"declarative"
+	],
+	[
+		"Ich habe mir den Fuß beim Joggen verletzt.",
+		"declarative"
+	],
+	[
+		"Könntest du das bitte noch einmal erklären?",
+		"interrogative"
+	],
+	[
+		"Was für ein turbulenter Flug das gestern war!",
+		"exclamatory"
+	],
+	[
+		"Was für ein packender Krimi das doch war!",
+		"exclamatory"
+	],
+	[
+		"Was macht ihr am kommenden Wochenende?",
+		"interrogative"
+	],
+	[
+		"Meine Tante besucht uns jedes Jahr im Herbst.",
+		"declarative"
+	],
+	[
+		"Wir haben gestern das ganze Haus geputzt.",
+		"declarative"
+	],
+	[
+		"Was für ein imposantes Gebäude die Stadt gebaut hat!",
+		"exclamatory"
+	],
+	[
+		"Schrei nicht so laut, die Nachbarn schlafen noch!",
+		"exclamatory"
+	],
+	[
+		"Die Sonne scheint heute den ganzen Tag über.",
+		"declarative"
+	],
+	[
+		"Wie tapfer sie sich in dieser Situation verhalten hat!",
+		"exclamatory"
+	],
+	[
+		"Wem hast du das Geheimnis anvertraut?",
+		"interrogative"
+	],
+	[
+		"Unser Nachbar hat einen neuen Hund bekommen.",
+		"declarative"
+	],
+	[
+		"Meine Freunde haben eine Überraschungsparty organisiert.",
+		"declarative"
+	],
+	[
+		"Wie eindrucksvoll diese Rede damals war!",
+		"exclamatory"
+	],
+	[
+		"Wir haben die Wohnung endlich renoviert.",
+		"declarative"
+	],
+	[
+		"Wie fantastisch dieser Ausblick von hier oben ist!",
+		"exclamatory"
+	],
+	[
+		"Meine Freundin arbeitet als Übersetzerin für mehrere Sprachen.",
+		"declarative"
+	],
+	[
+		"Bis wann muss ich die Aufgabe abgeben?",
+		"interrogative"
+	],
+	[
+		"Wo warst du gestern den ganzen Nachmittag?",
+		"interrogative"
+	],
+	[
+		"Was für ein albtraumhaftes Erlebnis das gewesen sein muss!",
+		"exclamatory"
+	],
+	[
+		"Beeil dich, der Bus fährt gleich ab!",
+		"exclamatory"
+	],
+	[
+		"Was für eine erfrischende Limonade das an einem heißen Tag ist!",
+		"exclamatory"
+	],
+	[
+		"Denkst du oft an deine Schulzeit zurück?",
+		"interrogative"
+	],
+	[
+		"Sei bitte still, das Baby schläft gerade!",
+		"exclamatory"
+	],
+	[
+		"Wie taktvoll sie mit der schwierigen Nachricht umgegangen ist!",
+		"exclamatory"
+	],
+	[
+		"Woher hast du diese schönen Ohrringe?",
+		"interrogative"
+	],
+	[
+		"Der Kellner hat uns die falsche Rechnung gebracht.",
+		"declarative"
+	],
+	[
+		"Wie kalt wird es heute Nacht ungefähr?",
+		"interrogative"
+	],
+	[
+		"Wie riskant dieses Manöver im Verkehr war!",
+		"exclamatory"
+	],
+	[
+		"Was für ein rührender Moment das für alle war!",
+		"exclamatory"
+	],
+	[
+		"Was für ein hässliches Wetter wir heute haben!",
+		"exclamatory"
+	],
+	[
+		"Der Arzt hat mir eine Woche Ruhe verordnet.",
+		"declarative"
+	],
+	[
+		"Wie erschöpft die Läufer nach dem Rennen aussahen!",
+		"exclamatory"
+	],
+	[
+		"Warum hast du den Job so plötzlich gekündigt?",
+		"interrogative"
+	],
+	[
+		"Wie schrecklich dieser Unfall gewesen sein muss!",
+		"exclamatory"
+	],
+	[
+		"Das Personal im Hotel war sehr freundlich.",
+		"declarative"
+	],
+	[
+		"Das Paket ist gestern Nachmittag angekommen.",
+		"declarative"
+	],
+	[
+		"Nimm dir Zeit, wir haben es nicht eilig!",
+		"exclamatory"
+	],
+	[
+		"Glaubst du, dass es morgen schneit?",
+		"interrogative"
+	],
+	[
+		"Fliegt ihr direkt oder mit Zwischenstopp?",
+		"interrogative"
+	],
+	[
+		"Ich habe den Termin beim Zahnarzt verschoben.",
+		"declarative"
+	],
+	[
+		"Der Drucker im Büro funktioniert seit gestern nicht mehr.",
+		"declarative"
+	],
+	[
+		"Isst du eigentlich vegetarisch?",
+		"interrogative"
+	],
+	[
+		"Dürfen wir hier eigentlich parken?",
+		"interrogative"
+	],
+	[
+		"Wie enttäuschend das Ende dieses Buches war!",
+		"exclamatory"
+	],
+	[
+		"Das Konzert findet in der Stadthalle statt.",
+		"declarative"
+	],
+	[
+		"Passt dir der Termin am Freitag?",
+		"interrogative"
+	],
+	[
+		"Welche Bücher liest du momentan am liebsten?",
+		"interrogative"
+	],
+	[
+		"Ich habe heute leider keine Zeit für einen Spaziergang.",
+		"declarative"
+	],
+	[
+		"Er hat die Stelle in einem anderen Bundesland angenommen.",
+		"declarative"
+	],
+	[
+		"Wie weit ist es bis zum nächsten Dorf?",
+		"interrogative"
+	],
+	[
+		"Das Wasser im Schwimmbad ist heute besonders kalt.",
+		"declarative"
+	],
+	[
+		"Der Supermarkt hat sonntags geschlossen.",
+		"declarative"
+	],
+	[
+		"Sie hat den Vertrag ohne zu zögern unterschrieben.",
+		"declarative"
+	],
+	[
+		"Wir haben das neue Gesetz noch nicht ganz verstanden.",
+		"declarative"
+	],
+	[
+		"Wie riesig dieses alte Schloss ist!",
+		"exclamatory"
+	],
+	[
+		"Was für ein anstrengender Tag das heute war!",
+		"exclamatory"
+	],
+	[
+		"Endlich ist die Prüfung geschafft!",
+		"exclamatory"
+	],
+	[
+		"Die Bibliothek schließt um achtzehn Uhr.",
+		"declarative"
+	],
+	[
+		"Streng dich bitte ein bisschen mehr an!",
+		"exclamatory"
+	],
+	[
+		"Die Bäckerei um die Ecke backt jeden Morgen frisches Brot.",
+		"declarative"
+	],
+	[
+		"Wohin bringt dich dieser Zug am Ende?",
+		"interrogative"
+	],
+	[
+		"Ich gehe heute Abend ins Kino.",
+		"declarative"
+	],
+	[
+		"Wie eindringlich seine Worte damals waren!",
+		"exclamatory"
+	],
+	[
+		"Welche Universität hat dir das beste Angebot gemacht?",
+		"interrogative"
+	],
+	[
+		"Was für ein prächtiger Regenbogen gerade am Himmel steht!",
+		"exclamatory"
+	],
+	[
+		"Ich habe mir für den Winter neue Stiefel gekauft.",
+		"declarative"
+	],
+	[
+		"Steig schnell ein, der Zug fährt ab!",
+		"exclamatory"
+	],
+	[
+		"Meine Nachbarn sind letzte Woche verreist.",
+		"declarative"
+	],
+	[
+		"Wie erstaunlich schnell sich das Kind entwickelt hat!",
+		"exclamatory"
+	],
+	[
+		"Meine Freunde ziehen nächsten Monat in eine größere Wohnung.",
+		"declarative"
+	],
+	[
+		"Wieso reagierst du auf diese Nachricht gar nicht?",
+		"interrogative"
+	],
+	[
+		"Sag mir sofort die Wahrheit!",
+		"exclamatory"
+	],
+	[
+		"Möchtet ihr lieber draußen oder drinnen sitzen?",
+		"interrogative"
+	],
+	[
+		"Was für eine peinliche Situation das war!",
+		"exclamatory"
+	],
+	[
+		"Er hat sich für ein Studium im Ausland entschieden.",
+		"declarative"
+	],
+	[
+		"Kannst du kurz das Licht ausmachen?",
+		"interrogative"
+	],
+	[
+		"Räum dein Zimmer endlich auf!",
+		"exclamatory"
+	],
+	[
+		"Ich habe meine Meinung nach dem Gespräch geändert.",
+		"declarative"
+	],
+	[
+		"Wem gehört dieser Koffer am Gate?",
+		"interrogative"
+	],
+	[
+		"Wir sind letzten Sommer nach Portugal gereist.",
+		"declarative"
+	],
+	[
+		"Studierst du Medizin oder Jura?",
+		"interrogative"
+	],
+	[
+		"Welcher Zug fährt direkt nach Frankfurt?",
+		"interrogative"
+	],
+	[
+		"Iss endlich etwas, du hast den ganzen Tag nichts gegessen!",
+		"exclamatory"
+	],
+	[
+		"Warum hat sie die Einladung abgelehnt?",
+		"interrogative"
+	],
+	[
+		"Gib mir sofort das Telefon!",
+		"exclamatory"
+	],
+	[
+		"Ach du meine Güte, das habe ich total vergessen!",
+		"exclamatory"
+	],
+	[
+		"Meine Schwester wohnt seit drei Jahren in Berlin.",
+		"declarative"
+	],
+	[
+		"Ab wann gilt die neue Regelung?",
+		"interrogative"
+	],
+	[
+		"Was für eine peinliche Panne bei der Übertragung passiert ist!",
+		"exclamatory"
+	],
+	[
+		"Wie oft gehst du in der Woche joggen?",
+		"interrogative"
+	],
+	[
+		"Der Lärm von der Baustelle stört uns jeden Morgen.",
+		"declarative"
+	],
+	[
+		"Was für ein friedlicher Ort dieses kleine Dorf ist!",
+		"exclamatory"
+	],
+	[
+		"Der Techniker hat den Fehler schnell gefunden.",
+		"declarative"
+	],
+	[
+		"Habt ihr schon über den Umzug gesprochen?",
+		"interrogative"
+	],
+	[
+		"Trinkst du gerne Rotwein zum Essen?",
+		"interrogative"
+	],
+	[
+		"Ich habe die Pflanzen während des Urlaubs gegossen.",
+		"declarative"
+	],
+	[
+		"Sind die Blumen im Garten schon verblüht?",
+		"interrogative"
+	],
+	[
+		"Was für ein herzerwärmendes Video das ist!",
+		"exclamatory"
+	],
+	[
+		"Bleib stehen, du hast etwas verloren!",
+		"exclamatory"
+	],
+	[
+		"Brauchst du noch Hilfe mit den Kisten?",
+		"interrogative"
+	],
+	[
+		"Wir haben das alte Sofa endlich entsorgt.",
+		"declarative"
+	],
+	[
+		"Wieso hast du den Termin nicht abgesagt?",
+		"interrogative"
+	],
+	[
+		"Wie geschickt er das Problem gelöst hat!",
+		"exclamatory"
+	],
+	[
+		"Die Kinder spielen jeden Nachmittag im Garten.",
+		"declarative"
+	],
+	[
+		"Was für ein trauriges Schicksal diese Familie erlitten hat!",
+		"exclamatory"
+	],
+	[
+		"Schneit es dieses Jahr schon zu Weihnachten?",
+		"interrogative"
+	],
+	[
+		"Er hat den Test ohne jede Vorbereitung bestanden.",
+		"declarative"
+	],
+	[
+		"Klopf bitte an, bevor du das Zimmer betrittst!",
+		"exclamatory"
+	],
+	[
+		"Klingelt gerade dein Telefon?",
+		"interrogative"
+	],
+	[
+		"Wie liebevoll sie das Zimmer dekoriert hat!",
+		"exclamatory"
+	],
+	[
+		"Das Gebäude wurde vor über hundert Jahren errichtet.",
+		"declarative"
+	],
+	[
+		"Meine Eltern haben ihre Reise nach Japan gebucht.",
+		"declarative"
+	],
+	[
+		"Was für ein kunstvolles Gemälde der Künstler geschaffen hat!",
+		"exclamatory"
+	],
+	[
+		"Wo hast du dein Deutsch eigentlich gelernt?",
+		"interrogative"
+	],
+	[
+		"Wie ordentlich er sein Zimmer immer hält!",
+		"exclamatory"
+	],
+	[
+		"Wie feierlich die Zeremonie gestern gestaltet war!",
+		"exclamatory"
+	],
+	[
+		"Wie mühsam dieser Weg bergauf gewesen ist!",
+		"exclamatory"
+	],
+	[
+		"Wie beeindruckend seine Sammlung alter Münzen ist!",
+		"exclamatory"
+	],
+	[
+		"Kann ich dir bei den Umzugskisten helfen?",
+		"interrogative"
+	],
+	[
+		"Der Vortrag über den Klimawandel dauerte fast zwei Stunden.",
+		"declarative"
+	],
+	[
+		"Das Hotel liegt direkt am Strand.",
+		"declarative"
+	],
+	[
+		"Lauf schneller, wir kommen sonst zu spät!",
+		"exclamatory"
+	],
+	[
+		"Mein Vater repariert am Wochenende das Auto.",
+		"declarative"
+	],
+	[
+		"Waren eure Nachbarn auch auf der Feier?",
+		"interrogative"
+	],
+	[
+		"Was für eine bittere Enttäuschung das für uns alle war!",
+		"exclamatory"
+	],
+	[
+		"Weshalb wurde das Meeting verschoben?",
+		"interrogative"
+	],
+	[
+		"Wen hast du gestern auf der Feier getroffen?",
+		"interrogative"
+	],
+	[
+		"Das Restaurant serviert nur an den Wochenenden Frühstück.",
+		"declarative"
+	],
+	[
+		"Ich habe mir gestern einen neuen Laptop bestellt.",
+		"declarative"
+	],
+	[
+		"Meine Kollegin hat gerade ihre Stelle gewechselt.",
+		"declarative"
+	],
+	[
+		"Was möchtest du heute zu Mittag essen?",
+		"interrogative"
+	],
+	[
+		"Welchen Film wollt ihr euch heute Abend ansehen?",
+		"interrogative"
+	],
+	[
+		"Wie originell diese Deko für die Feier ist!",
+		"exclamatory"
+	],
+	[
+		"Möchtest du noch etwas Kaffee?",
+		"interrogative"
+	],
+	[
+		"Welche Schuhe passen am besten zu diesem Kleid?",
+		"interrogative"
+	],
+	[
+		"Hast du dein Zimmer schon aufgeräumt?",
+		"interrogative"
+	],
+	[
+		"Sie hat ihr Studium nach fünf Jahren abgeschlossen.",
+		"declarative"
+	],
+	[
+		"Habt ihr schon eine Wohnung gefunden?",
+		"interrogative"
+	],
+	[
+		"Trinkst du morgens lieber Kaffee oder Tee?",
+		"interrogative"
+	],
+	[
+		"Habt ihr die Rechnung schon überwiesen?",
+		"interrogative"
+	],
+	[
+		"Der Bus kommt normalerweise alle zehn Minuten.",
+		"declarative"
+	],
+	[
+		"Schließ bitte den Kofferraum, bevor wir losfahren!",
+		"exclamatory"
+	],
+	[
+		"Könntest du bitte etwas leiser sein?",
+		"interrogative"
+	],
+	[
+		"Sie hat den Führerschein letzten Monat gemacht.",
+		"declarative"
+	],
+	[
+		"Gott sei Dank ist niemandem etwas passiert!",
+		"exclamatory"
+	],
+	[
+		"Wie herrlich der Duft dieser Blumen ist!",
+		"exclamatory"
+	],
+	[
+		"Wie kompliziert dieses Formular doch ist!",
+		"exclamatory"
+	],
+	[
+		"Wird es morgen den ganzen Tag regnen?",
+		"interrogative"
+	],
+	[
+		"Könnt ihr morgen früh schon da sein?",
+		"interrogative"
+	],
+	[
+		"Habt ihr das neue Café schon ausprobiert?",
+		"interrogative"
+	],
+	[
+		"Der Film hat mir überhaupt nicht gefallen.",
+		"declarative"
+	],
+	[
+		"Müssen wir die Prüfung wirklich morgen schreiben?",
+		"interrogative"
+	],
+	[
+		"Wie kalt es heute Nacht draußen war!",
+		"exclamatory"
+	],
+	[
+		"Dürfte ich dich kurz etwas fragen?",
+		"interrogative"
+	],
+	[
+		"Was für eine ruhige und friedliche Nacht das war!",
+		"exclamatory"
+	],
+	[
+		"Wie alt ist deine kleine Schwester?",
+		"interrogative"
+	],
+	[
+		"Er hat den Marathon in vier Stunden geschafft.",
+		"declarative"
+	],
+	[
+		"Wird das Projekt bis Freitag fertig?",
+		"interrogative"
+	],
+	[
+		"Welche Sprache lernst du gerade?",
+		"interrogative"
+	],
+	[
+		"Hast du dein Passwort schon geändert?",
+		"interrogative"
+	],
+	[
+		"Schneit es in den Bergen schon im Oktober?",
+		"interrogative"
+	],
+	[
+		"Junge, wie du gewachsen bist!",
+		"exclamatory"
+	],
+	[
+		"Meine Eltern haben mir bei dem Umzug geholfen.",
+		"declarative"
+	],
+	[
+		"Steck das Handy weg, wir sind gleich dran!",
+		"exclamatory"
+	],
+	[
+		"Wir haben das Sofa online günstig gekauft.",
+		"declarative"
+	],
+	[
+		"Der Vertrag läuft Ende des Jahres aus.",
+		"declarative"
+	],
+	[
+		"Sollen wir heute Abend ins Kino gehen?",
+		"interrogative"
+	],
+	[
+		"Ist der Zug pünktlich angekommen?",
+		"interrogative"
+	],
+	[
+		"Wo trefft ihr euch normalerweise nach der Arbeit?",
+		"interrogative"
+	],
+	[
+		"Sollen wir das Fenster über Nacht offen lassen?",
+		"interrogative"
+	],
+	[
+		"Ich habe die Prüfungsvorbereitung heute endlich beendet.",
+		"declarative"
+	],
+	[
+		"Wie viel Zeit brauchst du noch für das Projekt?",
+		"interrogative"
+	],
+	[
+		"Alles Gute zum Geburtstag, meine Liebe!",
+		"exclamatory"
+	],
+	[
+		"Wie hartnäckig er trotz aller Rückschläge geblieben ist!",
+		"exclamatory"
+	],
+	[
+		"Trag den Helm, bevor du aufs Rad steigst!",
+		"exclamatory"
+	],
+	[
+		"Wir haben die Tickets für das Konzert schon bestellt.",
+		"declarative"
+	],
+	[
+		"Was für ein strahlendes Lächeln sie hat!",
+		"exclamatory"
+	],
+	[
+		"Die Katze hat heute Nacht die ganze Wohnung durchstreift.",
+		"declarative"
+	],
+	[
+		"Wie lange bleibst du dieses Mal in Berlin?",
+		"interrogative"
+	],
+	[
+		"Wie heißt der neue Kollege eigentlich?",
+		"interrogative"
+	],
+	[
+		"Sie hat den Brief noch nicht beantwortet.",
+		"declarative"
+	],
+	[
+		"Ich habe die Unterlagen bereits per E-Mail geschickt.",
+		"declarative"
+	],
+	[
+		"Ich habe den Vortrag sehr aufschlussreich gefunden.",
+		"declarative"
+	],
+	[
+		"Weshalb dauert die Lieferung diesmal so lange?",
+		"interrogative"
+	],
+	[
+		"Wessen Idee war es, die Party zu verschieben?",
+		"interrogative"
+	],
+	[
+		"Er hat die Prüfung leider zum zweiten Mal nicht bestanden.",
+		"declarative"
+	],
+	[
+		"Regnet es in dieser Gegend häufig?",
+		"interrogative"
+	],
+	[
+		"Wir haben letzten Monat unsere Küche neu gestrichen.",
+		"declarative"
+	],
+	[
+		"Wie bezaubernd diese kleine Melodie klingt!",
+		"exclamatory"
+	],
+	[
+		"Zum Glück haben wir den Flug noch erreicht!",
+		"exclamatory"
+	],
+	[
+		"Die Straße wird momentan wegen Bauarbeiten gesperrt.",
+		"declarative"
+	],
+	[
+		"Kannst du mir das Rezept aufschreiben?",
+		"interrogative"
+	],
+	[
+		"Wie teuer war die Reparatur am Auto?",
+		"interrogative"
+	],
+	[
+		"Wann hast du deinen Führerschein gemacht?",
+		"interrogative"
+	],
+	[
+		"Der Zahnarzt hat mir einen neuen Termin gegeben.",
+		"declarative"
+	],
+	[
+		"Arbeitest du auch am Wochenende manchmal?",
+		"interrogative"
+	],
+	[
+		"Ich habe das Rezept von meiner Großmutter übernommen.",
+		"declarative"
+	],
+	[
+		"Wärme bitte das Essen noch einmal auf!",
+		"exclamatory"
+	],
+	[
+		"Interessierst du dich für klassische Musik?",
+		"interrogative"
+	],
+	[
+		"Hast du meine Nachricht gestern gelesen?",
+		"interrogative"
+	],
+	[
+		"Das Kind hat sich beim Spielen leicht verletzt.",
+		"declarative"
+	],
+	[
+		"Wie zuverlässig dieser alte Wecker immer noch funktioniert!",
+		"exclamatory"
+	],
+	[
+		"Hilfst du mir morgen beim Umzug?",
+		"interrogative"
+	],
+	[
+		"Zieh bitte die Vorhänge zu, die Sonne blendet!",
+		"exclamatory"
+	],
+	[
+		"Wir haben gestern Abend spät gegessen.",
+		"declarative"
+	],
+	[
+		"Meine Eltern kommen am Wochenende zu Besuch.",
+		"declarative"
+	],
+	[
+		"Arbeitet dein Bruder immer noch bei dieser Firma?",
+		"interrogative"
+	],
+	[
+		"So eine Frechheit habe ich lange nicht erlebt!",
+		"exclamatory"
+	],
+	[
+		"Wozu brauchst du so viel Geld?",
+		"interrogative"
+	],
+	[
+		"Was für ein trauriger Anblick das gewesen ist!",
+		"exclamatory"
+	],
+	[
+		"Gib mir bitte kurz den Hammer aus dem Schrank!",
+		"exclamatory"
+	],
+	[
+		"Warum bist du gestern nicht gekommen?",
+		"interrogative"
+	],
+	[
+		"Wie behutsam der Arzt mit dem Patienten sprach!",
+		"exclamatory"
+	],
+	[
+		"Das Museum zeigt derzeit eine Ausstellung über moderne Kunst.",
+		"declarative"
+	],
+	[
+		"Wie überraschend die Wendung in diesem Film war!",
+		"exclamatory"
+	],
+	[
+		"Hat jemand meinen Stift gesehen?",
+		"interrogative"
+	],
+	[
+		"Wie viel kostet dieses Buch im Laden?",
+		"interrogative"
+	],
+	[
+		"Meine Eltern haben ihr Haus vor zehn Jahren gebaut.",
+		"declarative"
+	],
+	[
+		"Ich rufe dich später auf jeden Fall zurück.",
+		"declarative"
+	],
+	[
+		"Wir haben gestern lange über die Zukunft gesprochen.",
+		"declarative"
+	],
+	[
+		"Was für ein herrliches Konzert das gestern war!",
+		"exclamatory"
+	],
+	[
+		"Meine Tochter lernt seit einem Jahr Klavier.",
+		"declarative"
+	],
+	[
+		"Was für ein aufwendiges Kostüm sie sich genäht hat!",
+		"exclamatory"
+	],
+	[
+		"Er spielt seit seiner Kindheit Gitarre.",
+		"declarative"
+	],
+	[
+		"Ich habe den Termin mit dem Kunden verschoben.",
+		"declarative"
+	],
+	[
+		"Womit hast du das Zimmer gestrichen?",
+		"interrogative"
+	],
+	[
+		"Wie funktioniert dieses neue Gerät genau?",
+		"interrogative"
+	],
+	[
+		"Waren die Kinder heute artig in der Schule?",
+		"interrogative"
+	],
+	[
+		"Die Vorlesung beginnt pünktlich um zehn Uhr.",
+		"declarative"
+	],
+	[
+		"Das Café an der Ecke wechselt nächsten Monat den Besitzer.",
+		"declarative"
+	],
+	[
+		"Der Hund bellt.",
+		"declarative"
+	],
+	[
+		"Gehst du heute ins Kino?",
+		"interrogative"
+	],
+	[
+		"Wie schön das Wetter ist!",
+		"exclamatory"
+	],
+	[
+		"Die Katze schläft.",
+		"declarative"
+	],
+	[
+		"Hast du das Buch gelesen?",
+		"interrogative"
+	],
+	[
+		"Wie schnell der Zug fährt!",
+		"exclamatory"
+	],
+	[
+		"Ich gehe zur Arbeit.",
+		"declarative"
+	],
+	[
+		"Ist sie zu Hause?",
+		"interrogative"
+	],
+	[
+		"Wie laut die Kinder spielen!",
+		"exclamatory"
+	],
+	[
+		"Wir essen Pizza.",
+		"declarative"
+	],
+	[
+		"Kannst du mir helfen?",
+		"interrogative"
+	],
+	[
+		"Wie leise die Katze schleicht!",
+		"exclamatory"
+	],
+	[
+		"Sie trinkt Kaffee.",
+		"declarative"
+	],
+	[
+		"Magst du Eis?",
+		"interrogative"
+	],
+	[
+		"Wie hell die Sonne scheint!",
+		"exclamatory"
+	],
+	[
+		"Er liest ein Buch.",
+		"declarative"
+	],
+	[
+		"Kommst du morgen?",
+		"interrogative"
+	],
+	[
+		"Wie dunkel der Keller ist!",
+		"exclamatory"
+	],
+	[
+		"Das Wetter ist schön.",
+		"declarative"
+	],
+	[
+		"Willst du etwas trinken?",
+		"interrogative"
+	],
+	[
+		"Wie warm das Wasser ist!",
+		"exclamatory"
+	],
+	[
+		"Die Sonne scheint.",
+		"declarative"
+	],
+	[
+		"Darf ich hereinkommen?",
+		"interrogative"
+	],
+	[
+		"Wie kalt der Winter ist!",
+		"exclamatory"
+	],
+	[
+		"Es regnet.",
+		"declarative"
+	],
+	[
+		"Soll ich das Fenster öffnen?",
+		"interrogative"
+	],
+	[
+		"Wie hoch der Berg ist!",
+		"exclamatory"
+	],
+	[
+		"Der Zug kommt pünktlich.",
+		"declarative"
+	],
+	[
+		"Muss ich das noch mal machen?",
+		"interrogative"
+	],
+	[
+		"Wie tief der See ist!",
+		"exclamatory"
+	],
+	[
+		"Ich habe Hunger.",
+		"declarative"
+	],
+	[
+		"Weißt du die Antwort?",
+		"interrogative"
+	],
+	[
+		"Wie weit die Reise ist!",
+		"exclamatory"
+	],
+	[
+		"Wir haben einen Hund.",
+		"declarative"
+	],
+	[
+		"Kennst du ihn?",
+		"interrogative"
+	],
+	[
+		"Wie eng die Straße ist!",
+		"exclamatory"
+	],
+	[
+		"Sie ist Lehrerin.",
+		"declarative"
+	],
+	[
+		"Findest du das schön?",
+		"interrogative"
+	],
+	[
+		"Wie bitter der Kaffee schmeckt!",
+		"exclamatory"
+	],
+	[
+		"Er arbeitet im Büro.",
+		"declarative"
+	],
+	[
+		"Glaubst du mir?",
+		"interrogative"
+	],
+	[
+		"Wie süß der Kuchen ist!",
+		"exclamatory"
+	],
+	[
+		"Das Kind spielt im Garten.",
+		"declarative"
+	],
+	[
+		"Hoffst du auf gutes Wetter?",
+		"interrogative"
+	],
+	[
+		"Wie sauer die Zitrone schmeckt!",
+		"exclamatory"
+	],
+	[
+		"Die Blumen blühen.",
+		"declarative"
+	],
+	[
+		"Denkst du an mich?",
+		"interrogative"
+	],
+	[
+		"Wie salzig die Suppe ist!",
+		"exclamatory"
+	],
+	[
+		"Der Kuchen riecht gut.",
+		"declarative"
+	],
+	[
+		"Fährst du mit dem Fahrrad?",
+		"interrogative"
+	],
+	[
+		"Wie scharf der Pfeffer ist!",
+		"exclamatory"
+	],
+	[
+		"Ich mag Schokolade.",
+		"declarative"
+	],
+	[
+		"Nimmst du den Zug?",
+		"interrogative"
+	],
+	[
+		"Wie weich das Bett ist!",
+		"exclamatory"
+	],
+	[
+		"Wir fahren nach Berlin.",
+		"declarative"
+	],
+	[
+		"Triffst du dich mit Freunden?",
+		"interrogative"
+	],
+	[
+		"Wie hart der Boden ist!",
+		"exclamatory"
+	],
+	[
+		"Sie wohnt in München.",
+		"declarative"
+	],
+	[
+		"Spielst du Klavier?",
+		"interrogative"
+	],
+	[
+		"Wie glatt die Oberfläche ist!",
+		"exclamatory"
+	],
+	[
+		"Er kauft ein Auto.",
+		"declarative"
+	],
+	[
+		"Kochst du gerne?",
+		"interrogative"
+	],
+	[
+		"Wie rau die Stimme klingt!",
+		"exclamatory"
+	],
+	[
+		"Der Film beginnt um acht.",
+		"declarative"
+	],
+	[
+		"Liest du die Zeitung?",
+		"interrogative"
+	],
+	[
+		"Wie sauber das Haus ist!",
+		"exclamatory"
+	],
+	[
+		"Die Schule endet um zwei.",
+		"declarative"
+	],
+	[
+		"Schreibst du einen Brief?",
+		"interrogative"
+	],
+	[
+		"Wie schmutzig die Straße ist!",
+		"exclamatory"
+	],
+	[
+		"Ich lese die Zeitung.",
+		"declarative"
+	],
+	[
+		"Telefonierst du mit deiner Mutter?",
+		"interrogative"
+	],
+	[
+		"Wie neu das Auto ist!",
+		"exclamatory"
+	],
+	[
+		"Wir kochen Abendessen.",
+		"declarative"
+	],
+	[
+		"Ist das dein Hund?",
+		"interrogative"
+	],
+	[
+		"Wie alt das Gebäude ist!",
+		"exclamatory"
+	],
+	[
+		"Sie schreibt einen Brief.",
+		"declarative"
+	],
+	[
+		"Sind das deine Kinder?",
+		"interrogative"
+	],
+	[
+		"Wie jung die Studenten sind!",
+		"exclamatory"
+	],
+	[
+		"Er telefoniert mit seiner Mutter.",
+		"declarative"
+	],
+	[
+		"Bist du sicher?",
+		"interrogative"
+	],
+	[
+		"Wie groß der Hund ist!",
+		"exclamatory"
+	],
+	[
+		"Das Baby weint.",
+		"declarative"
+	],
+	[
+		"Seid ihr bereit?",
+		"interrogative"
+	],
+	[
+		"Wie klein die Katze ist!",
+		"exclamatory"
+	],
+	[
+		"Die Vögel singen.",
+		"declarative"
+	],
+	[
+		"Sind sie angekommen?",
+		"interrogative"
+	],
+	[
+		"Wie schnell er rennt!",
+		"exclamatory"
+	],
+	[
+		"Der Wind weht stark.",
+		"declarative"
+	],
+	[
+		"Wann kommst du?",
+		"interrogative"
+	],
+	[
+		"Wie langsam sie geht!",
+		"exclamatory"
+	],
+	[
+		"Ich muss arbeiten.",
+		"declarative"
+	],
+	[
+		"Was machst du?",
+		"interrogative"
+	],
+	[
+		"Wie laut er schreit!",
+		"exclamatory"
+	],
+	[
+		"Wir können schwimmen.",
+		"declarative"
+	],
+	[
+		"Wer ist das?",
+		"interrogative"
+	],
+	[
+		"Wie leise sie flüstert!",
+		"exclamatory"
+	],
+	[
+		"Sie darf ausgehen.",
+		"declarative"
+	],
+	[
+		"Wo wohnst du?",
+		"interrogative"
+	],
+	[
+		"Wie gut sie singt!",
+		"exclamatory"
+	],
+	[
+		"Er will lernen.",
+		"declarative"
+	],
+	[
+		"Warum lacht sie?",
+		"interrogative"
+	],
+	[
+		"Wie schlecht er tanzt!",
+		"exclamatory"
+	],
+	[
+		"Das Auto ist rot.",
+		"declarative"
+	],
+	[
+		"Wie heißt du?",
+		"interrogative"
+	],
+	[
+		"Wie schön sie aussieht!",
+		"exclamatory"
+	],
+	[
+		"Die Tür ist geschlossen.",
+		"declarative"
+	],
+	[
+		"Welches Buch liest du?",
+		"interrogative"
+	],
+	[
+		"Wie hässlich das Bild ist!",
+		"exclamatory"
+	],
+	[
+		"Das Fenster ist offen.",
+		"declarative"
+	],
+	[
+		"Wohin gehst du?",
+		"interrogative"
+	],
+	[
+		"Wie klug er ist!",
+		"exclamatory"
+	],
+	[
+		"Der Tisch ist gedeckt.",
+		"declarative"
+	],
+	[
+		"Woher kommst du?",
+		"interrogative"
+	],
+	[
+		"Wie dumm sie ist!",
+		"exclamatory"
+	],
+	[
+		"Die Lampe leuchtet.",
+		"declarative"
+	],
+	[
+		"Wie viel kostet das?",
+		"interrogative"
+	],
+	[
+		"Wie mutig er ist!",
+		"exclamatory"
+	],
+	[
+		"Der Kühlschrank ist voll.",
+		"declarative"
+	],
+	[
+		"Wie alt bist du?",
+		"interrogative"
+	],
+	[
+		"Wie feige sie ist!",
+		"exclamatory"
+	],
+	[
+		"Ich habe Durst.",
+		"declarative"
+	],
+	[
+		"Wie lange dauert der Film?",
+		"interrogative"
+	],
+	[
+		"Wie reich er ist!",
+		"exclamatory"
+	],
+	[
+		"Wir brauchen Milch.",
+		"declarative"
+	],
+	[
+		"Wie oft gehst du ins Kino?",
+		"interrogative"
+	],
+	[
+		"Wie arm sie ist!",
+		"exclamatory"
+	],
+	[
+		"Sie sieht fern.",
+		"declarative"
+	],
+	[
+		"Was für ein Auto hast du?",
+		"interrogative"
+	],
+	[
+		"Wie glücklich sie sind!",
+		"exclamatory"
+	],
+	[
+		"Er hört Musik.",
+		"declarative"
+	],
+	[
+		"Mit wem sprichst du?",
+		"interrogative"
+	],
+	[
+		"Wie traurig er ist!",
+		"exclamatory"
+	],
+	[
+		"Die Kinder lachen.",
+		"declarative"
+	],
+	[
+		"Über wen lachst du?",
+		"interrogative"
+	],
+	[
+		"Wie wütend sie ist!",
+		"exclamatory"
+	],
+	[
+		"Der Lehrer erklärt die Aufgabe.",
+		"declarative"
+	],
+	[
+		"Worauf wartest du?",
+		"interrogative"
+	],
+	[
+		"Wie ruhig er bleibt!",
+		"exclamatory"
+	],
+	[
+		"Die Schüler schreiben einen Test.",
+		"declarative"
+	],
+	[
+		"Woran denkst du?",
+		"interrogative"
+	],
+	[
+		"Wie aufgeregt sie ist!",
+		"exclamatory"
+	],
+	[
+		"Ich habe einen Termin.",
+		"declarative"
+	],
+	[
+		"Wofür interessierst du dich?",
+		"interrogative"
+	],
+	[
+		"Wie neugierig er ist!",
+		"exclamatory"
+	],
+	[
+		"Wir machen einen Ausflug.",
+		"declarative"
+	],
+	[
+		"Wogegen protestierst du?",
+		"interrogative"
+	],
+	[
+		"Wie geduldig sie ist!",
+		"exclamatory"
+	],
+	[
+		"Sie besucht ihre Oma.",
+		"declarative"
+	],
+	[
+		"Womit spielst du?",
+		"interrogative"
+	],
+	[
+		"Wie ungeduldig er ist!",
+		"exclamatory"
+	],
+	[
+		"Er putzt seine Zähne.",
+		"declarative"
+	],
+	[
+		"Geht er heute zur Arbeit?",
+		"interrogative"
+	],
+	[
+		"Was für ein schönes Haus!",
+		"exclamatory"
+	],
+	[
+		"Ich wasche meine Hände.",
+		"declarative"
+	],
+	[
+		"Fährt sie nach Berlin?",
+		"interrogative"
+	],
+	[
+		"Was für ein großer Baum!",
+		"exclamatory"
+	],
+	[
+		"Wir räumen das Zimmer auf.",
+		"declarative"
+	],
+	[
+		"Kommen wir pünktlich?",
+		"interrogative"
+	],
+	[
+		"Was für eine tolle Aussicht!",
+		"exclamatory"
+	],
+	[
+		"Sie stellt die Vase auf den Tisch.",
+		"declarative"
+	],
+	[
+		"Habt ihr das gesehen?",
+		"interrogative"
+	],
+	[
+		"Was für ein interessantes Buch!",
+		"exclamatory"
+	],
+	[
+		"Er legt das Buch ins Regal.",
+		"declarative"
+	],
+	[
+		"Haben Sie einen Moment?",
+		"interrogative"
+	],
+	[
+		"Was für eine leckere Torte!",
+		"exclamatory"
+	],
+	[
+		"Der Hund läuft im Park.",
+		"declarative"
+	],
+	[
+		"Kann er gut kochen?",
+		"interrogative"
+	],
+	[
+		"Was für ein schnelles Auto!",
+		"exclamatory"
+	],
+	[
+		"Die Katze springt auf den Tisch.",
+		"declarative"
+	],
+	[
+		"Darf sie das?",
+		"interrogative"
+	],
+	[
+		"Was für eine moderne Wohnung!",
+		"exclamatory"
+	],
+	[
+		"Ich trinke gerne Tee.",
+		"declarative"
+	],
+	[
+		"Sollen wir gehen?",
+		"interrogative"
+	],
+	[
+		"Was für ein gemütliches Zimmer!",
+		"exclamatory"
+	],
+	[
+		"Wir spielen Fußball.",
+		"declarative"
+	],
+	[
+		"Möchten Sie Kaffee?",
+		"interrogative"
+	],
+	[
+		"Was für eine aufregende Reise!",
+		"exclamatory"
+	],
+	[
+		"Sie tanzt gern.",
+		"declarative"
+	],
+	[
+		"Mögt ihr Schokolade?",
+		"interrogative"
+	],
+	[
+		"Was für ein lustiger Film!",
+		"exclamatory"
+	],
+	[
+		"Er malt ein Bild.",
+		"declarative"
+	],
+	[
+		"Ist der Film spannend?",
+		"interrogative"
+	],
+	[
+		"Was für eine traurige Geschichte!",
+		"exclamatory"
+	],
+	[
+		"Das Mädchen singt ein Lied.",
+		"declarative"
+	],
+	[
+		"Sind die Kinder im Garten?",
+		"interrogative"
+	],
+	[
+		"Was für ein lautes Konzert!",
+		"exclamatory"
+	],
+	[
+		"Der Junge lacht laut.",
+		"declarative"
+	],
+	[
+		"Wird es regnen?",
+		"interrogative"
+	],
+	[
+		"Was für eine wundervolle Stimme!",
+		"exclamatory"
+	],
+	[
+		"Die Frau kocht das Abendessen.",
+		"declarative"
+	],
+	[
+		"Hat es geschneit?",
+		"interrogative"
+	],
+	[
+		"Was für ein herrlicher Tag!",
+		"exclamatory"
+	],
+	[
+		"Der Mann repariert das Auto.",
+		"declarative"
+	],
+	[
+		"Warst du schon in München?",
+		"interrogative"
+	],
+	[
+		"Was für eine schreckliche Nacht!",
+		"exclamatory"
+	],
+	[
+		"Die Oma backt einen Kuchen.",
+		"declarative"
+	],
+	[
+		"Seid ihr oft im Kino?",
+		"interrogative"
+	],
+	[
+		"Was für ein verrückter Kerl!",
+		"exclamatory"
+	],
+	[
+		"Der Opa liest die Zeitung.",
+		"declarative"
+	],
+	[
+		"Könnt ihr mir helfen?",
+		"interrogative"
+	],
+	[
+		"Was für eine nette Frau!",
+		"exclamatory"
+	],
+	[
+		"Die Kinder spielen im Sandkasten.",
+		"declarative"
+	],
+	[
+		"Wollen wir zusammen essen?",
+		"interrogative"
+	],
+	[
+		"Was für ein freundlicher Hund!",
+		"exclamatory"
+	],
+	[
+		"Ich fahre mit dem Fahrrad.",
+		"declarative"
+	],
+	[
+		"Soll ich das machen?",
+		"interrogative"
+	],
+	[
+		"Was für eine faule Katze!",
+		"exclamatory"
+	],
+	[
+		"Wir nehmen den Bus.",
+		"declarative"
+	],
+	[
+		"Muss ich das unterschreiben?",
+		"interrogative"
+	],
+	[
+		"Was für ein fleißiger Student!",
+		"exclamatory"
+	],
+	[
+		"Sie fährt mit der U-Bahn.",
+		"declarative"
+	],
+	[
+		"Darf ich das fragen?",
+		"interrogative"
+	],
+	[
+		"Was für eine gute Idee!",
+		"exclamatory"
+	],
+	[
+		"Er geht zu Fuß.",
+		"declarative"
+	],
+	[
+		"Kann ich das haben?",
+		"interrogative"
+	],
+	[
+		"Was für ein dummes Problem!",
+		"exclamatory"
+	],
+	[
+		"Der Vogel baut ein Nest.",
+		"declarative"
+	],
+	[
+		"Magst du das?",
+		"interrogative"
+	],
+	[
+		"Was für eine kluge Entscheidung!",
+		"exclamatory"
+	],
+	[
+		"Die Biene sammelt Nektar.",
+		"declarative"
+	],
+	[
+		"Findest du das gut?",
+		"interrogative"
+	],
+	[
+		"Was für ein gefährlicher Ort!",
+		"exclamatory"
+	],
+	[
+		"Der Baum trägt Früchte.",
+		"declarative"
+	],
+	[
+		"Glaubst du an Gott?",
+		"interrogative"
+	],
+	[
+		"Was für eine sichere Methode!",
+		"exclamatory"
+	],
+	[
+		"Die Blume duftet wunderbar.",
+		"declarative"
+	],
+	[
+		"Hofft ihr auf Besserung?",
+		"interrogative"
+	],
+	[
+		"So ein Pech!",
+		"exclamatory"
+	],
+	[
+		"Der See ist ruhig.",
+		"declarative"
+	],
+	[
+		"Denkt er an sie?",
+		"interrogative"
+	],
+	[
+		"So eine Überraschung!",
+		"exclamatory"
+	],
+	[
+		"Die Berge sind schneebedeckt.",
+		"declarative"
+	],
+	[
+		"Fühlt ihr euch wohl?",
+		"interrogative"
+	],
+	[
+		"So ein Glück!",
+		"exclamatory"
+	],
+	[
+		"Die Stadt ist laut.",
+		"declarative"
+	],
+	[
+		"Seht ihr den Vogel?",
+		"interrogative"
+	],
+	[
+		"So ein Ärger!",
+		"exclamatory"
+	],
+	[
+		"Das Dorf ist klein.",
+		"declarative"
+	],
+	[
+		"Hört ihr die Musik?",
+		"interrogative"
+	],
+	[
+		"So eine Freude!",
+		"exclamatory"
+	],
+	[
+		"Ich habe einen Bruder.",
+		"declarative"
+	],
+	[
+		"Riechst du den Kuchen?",
+		"interrogative"
+	],
+	[
+		"So ein Schreck!",
+		"exclamatory"
+	],
+	[
+		"Sie hat zwei Schwestern.",
+		"declarative"
+	],
+	[
+		"Schmeckst du den Pfeffer?",
+		"interrogative"
+	],
+	[
+		"So eine Katastrophe!",
+		"exclamatory"
+	],
+	[
+		"Wir haben viele Freunde.",
+		"declarative"
+	],
+	[
+		"Fühlst du den Wind?",
+		"interrogative"
+	],
+	[
+		"So ein Wunder!",
+		"exclamatory"
+	],
+	[
+		"Er hat einen Hund.",
+		"declarative"
+	],
+	[
+		"Begreifst du das?",
+		"interrogative"
+	],
+	[
+		"So eine Schande!",
+		"exclamatory"
+	],
+	[
+		"Das Haus hat drei Stockwerke.",
+		"declarative"
+	],
+	[
+		"Verstehst du mich?",
+		"interrogative"
+	],
+	[
+		"So ein Durcheinander!",
+		"exclamatory"
+	],
+	[
+		"Die Wohnung ist hell.",
+		"declarative"
+	],
+	[
+		"Hörst du mir zu?",
+		"interrogative"
+	],
+	[
+		"So eine Sauerei!",
+		"exclamatory"
+	],
+	[
+		"Der Garten ist groß.",
+		"declarative"
+	],
+	[
+		"Siehst du den Film?",
+		"interrogative"
+	],
+	[
+		"So ein Zufall!",
+		"exclamatory"
+	],
+	[
+		"Die Garage ist voll.",
+		"declarative"
+	],
+	[
+		"Spielst du Tennis?",
+		"interrogative"
+	],
+	[
+		"So eine Blamage!",
+		"exclamatory"
+	],
+	[
+		"Der Keller ist dunkel.",
+		"declarative"
+	],
+	[
+		"Läufst du jeden Tag?",
+		"interrogative"
+	],
+	[
+		"So ein Erfolg!",
+		"exclamatory"
+	],
+	[
+		"Das Dach ist neu.",
+		"declarative"
+	],
+	[
+		"Schwimmst du gerne?",
+		"interrogative"
+	],
+	[
+		"So eine Niederlage!",
+		"exclamatory"
+	],
+	[
+		"Ich studiere Medizin.",
+		"declarative"
+	],
+	[
+		"Tauchst du im Meer?",
+		"interrogative"
+	],
+	[
+		"So ein Genie!",
+		"exclamatory"
+	],
+	[
+		"Sie arbeitet als Ärztin.",
+		"declarative"
+	],
+	[
+		"Springst du hoch?",
+		"interrogative"
+	],
+	[
+		"So eine Idiotin!",
+		"exclamatory"
+	],
+	[
+		"Er ist Ingenieur.",
+		"declarative"
+	],
+	[
+		"Stehst du früh auf?",
+		"interrogative"
+	],
+	[
+		"So ein Held!",
+		"exclamatory"
+	],
+	[
+		"Wir sind Studenten.",
+		"declarative"
+	],
+	[
+		"Gehst du spät ins Bett?",
+		"interrogative"
+	],
+	[
+		"So eine Heldin!",
+		"exclamatory"
+	],
+	[
+		"Ihr seid fleißig.",
+		"declarative"
+	],
+	[
+		"Isst du Fleisch?",
+		"interrogative"
+	],
+	[
+		"So ein Kindskopf!",
+		"exclamatory"
+	],
+	[
+		"Sie sind pünktlich.",
+		"declarative"
+	],
+	[
+		"Trinkst du Wein?",
+		"interrogative"
+	],
+	[
+		"So eine Träumerin!",
+		"exclamatory"
+	],
+	[
+		"Ich bin müde.",
+		"declarative"
+	],
+	[
+		"Rauchst du?",
+		"interrogative"
+	],
+	[
+		"So ein Prahlhans!",
+		"exclamatory"
+	],
+	[
+		"Du bist fröhlich.",
+		"declarative"
+	],
+	[
+		"Tanzt du gern?",
+		"interrogative"
+	],
+	[
+		"So eine Zicke!",
+		"exclamatory"
+	],
+	[
+		"Er ist krank.",
+		"declarative"
+	],
+	[
+		"Singst du im Chor?",
+		"interrogative"
+	],
+	[
+		"So ein Schatz!",
+		"exclamatory"
+	],
+	[
+		"Sie ist glücklich.",
+		"declarative"
+	],
+	[
+		"Zeichnest du gern?",
+		"interrogative"
+	],
+	[
+		"So eine Perle!",
+		"exclamatory"
+	],
+	[
+		"Wir sind zufrieden.",
+		"declarative"
+	],
+	[
+		"Wer kommt heute?",
+		"interrogative"
+	],
+	[
+		"Dass du das sagst!",
+		"exclamatory"
+	],
+	[
+		"Ihr seid laut.",
+		"declarative"
+	],
+	[
+		"Was passiert morgen?",
+		"interrogative"
+	],
+	[
+		"Dass sie das schafft!",
+		"exclamatory"
+	],
+	[
+		"Die Tasse ist leer.",
+		"declarative"
+	],
+	[
+		"Wo findet das Konzert statt?",
+		"interrogative"
+	],
+	[
+		"Dass wir das erleben!",
+		"exclamatory"
+	],
+	[
+		"Der Kaffee ist heiß.",
+		"declarative"
+	],
+	[
+		"Wann öffnet die Bibliothek?",
+		"interrogative"
+	],
+	[
+		"Dass er das wagt!",
+		"exclamatory"
+	],
+	[
+		"Das Eis ist kalt.",
+		"declarative"
+	],
+	[
+		"Warum ist er traurig?",
+		"interrogative"
+	],
+	[
+		"Dass ihr das macht!",
+		"exclamatory"
+	],
+	[
+		"Die Suppe schmeckt salzig.",
+		"declarative"
+	],
+	[
+		"Wie funktioniert das?",
+		"interrogative"
+	],
+	[
+		"Dass ich das sehe!",
+		"exclamatory"
+	],
+	[
+		"Der Kuchen ist süß.",
+		"declarative"
+	],
+	[
+		"Welche Farbe hat dein Auto?",
+		"interrogative"
+	],
+	[
+		"Dass du mich besuchst!",
+		"exclamatory"
+	],
+	[
+		"Die Zitrone ist sauer.",
+		"declarative"
+	],
+	[
+		"Wohin fahren wir im Urlaub?",
+		"interrogative"
+	],
+	[
+		"Dass sie mir hilft!",
+		"exclamatory"
+	],
+	[
+		"Der Pfeffer ist scharf.",
+		"declarative"
+	],
+	[
+		"Woher hast du das Geld?",
+		"interrogative"
+	],
+	[
+		"Dass wir gewinnen!",
+		"exclamatory"
+	],
+	[
+		"Die Milch ist frisch.",
+		"declarative"
+	],
+	[
+		"Wie viel Zeit haben wir?",
+		"interrogative"
+	],
+	[
+		"Dass er verliert!",
+		"exclamatory"
+	],
+	[
+		"Ich putze das Fenster.",
+		"declarative"
+	],
+	[
+		"Wie viele Leute kommen?",
+		"interrogative"
+	],
+	[
+		"Dass du so schnell läufst!",
+		"exclamatory"
+	],
+	[
+		"Wir kehren die Straße.",
+		"declarative"
+	],
+	[
+		"Was für ein Wetter wird es?",
+		"interrogative"
+	],
+	[
+		"Dass sie so laut singt!",
+		"exclamatory"
+	],
+	[
+		"Sie bügelt die Wäsche.",
+		"declarative"
+	],
+	[
+		"Mit wem gehst du ins Kino?",
+		"interrogative"
+	],
+	[
+		"Dass wir so viel Spaß haben!",
+		"exclamatory"
+	],
+	[
+		"Er wäscht das Auto.",
+		"declarative"
+	],
+	[
+		"Über was redest du?",
+		"interrogative"
+	],
+	[
+		"Dass er so gemein ist!",
+		"exclamatory"
+	],
+	[
+		"Die Mutter füttert das Baby.",
+		"declarative"
+	],
+	[
+		"Worüber lacht ihr?",
+		"interrogative"
+	],
+	[
+		"Dass sie so lieb ist!",
+		"exclamatory"
+	],
+	[
+		"Der Vater liest eine Geschichte vor.",
+		"declarative"
+	],
+	[
+		"Worauf freust du dich?",
+		"interrogative"
+	],
+	[
+		"Dass das Wetter so schön ist!",
+		"exclamatory"
+	],
+	[
+		"Die Großmutter strickt einen Pullover.",
+		"declarative"
+	],
+	[
+		"Wovor hast du Angst?",
+		"interrogative"
+	],
+	[
+		"Dass der Kuchen so gut schmeckt!",
+		"exclamatory"
+	],
+	[
+		"Der Großvater gießt die Blumen.",
+		"declarative"
+	],
+	[
+		"Wofür bist du dankbar?",
+		"interrogative"
+	],
+	[
+		"Dass der Film so langweilig ist!",
+		"exclamatory"
+	],
+	[
+		"Die Tante backt Kekse.",
+		"declarative"
+	],
+	[
+		"Woran erkennst du ihn?",
+		"interrogative"
+	],
+	[
+		"Dass das Konzert so laut war!",
+		"exclamatory"
+	],
+	[
+		"Der Onkel grillt Würstchen.",
+		"declarative"
+	],
+	[
+		"Womit schreibst du?",
+		"interrogative"
+	],
+	[
+		"Dass die Party so toll war!",
+		"exclamatory"
+	],
+	[
+		"Ich schreibe einen Aufsatz.",
+		"declarative"
+	],
+	[
+		"Kommst du heute oder morgen?",
+		"interrogative"
+	],
+	[
+		"Wie gut du kochst!",
+		"exclamatory"
+	],
+	[
+		"Wir lernen Vokabeln.",
+		"declarative"
+	],
+	[
+		"Möchtest du Tee oder Kaffee?",
+		"interrogative"
+	],
+	[
+		"Wie schlecht er fährt!",
+		"exclamatory"
+	],
+	[
+		"Sie übt Klavier.",
+		"declarative"
+	],
+	[
+		"Fährst du mit dem Bus oder dem Zug?",
+		"interrogative"
+	],
+	[
+		"Wie schön sie malt!",
+		"exclamatory"
+	],
+	[
+		"Er spielt Gitarre.",
+		"declarative"
+	],
+	[
+		"Ist das Buch interessant oder langweilig?",
+		"interrogative"
+	],
+	[
+		"Wie hässlich er zeichnet!",
+		"exclamatory"
+	],
+	[
+		"Die Band probt im Keller.",
+		"declarative"
+	],
+	[
+		"Willst du Pizza oder Pasta?",
+		"interrogative"
+	],
+	[
+		"Wie schnell sie liest!",
+		"exclamatory"
+	],
+	[
+		"Der Chor singt im Konzert.",
+		"declarative"
+	],
+	[
+		"Gehst du ins Kino oder ins Theater?",
+		"interrogative"
+	],
+	[
+		"Wie langsam er schreibt!",
+		"exclamatory"
+	],
+	[
+		"Die Trompete klingt laut.",
+		"declarative"
+	],
+	[
+		"Soll ich das Fenster öffnen oder schließen?",
+		"interrogative"
+	],
+	[
+		"Wie oft sie übt!",
+		"exclamatory"
+	],
+	[
+		"Die Geige klingt sanft.",
+		"declarative"
+	],
+	[
+		"Hast du Zeit oder nicht?",
+		"interrogative"
+	],
+	[
+		"Wie selten er kommt!",
+		"exclamatory"
+	],
+	[
+		"Der Bass brummt.",
+		"declarative"
+	],
+	[
+		"Bist du sicher oder unsicher?",
+		"interrogative"
+	],
+	[
+		"Wie viel sie arbeitet!",
+		"exclamatory"
+	],
+	[
+		"Das Schlagzeug ist laut.",
+		"declarative"
+	],
+	[
+		"Ist es warm oder kalt?",
+		"interrogative"
+	],
+	[
+		"Wie wenig er schläft!",
+		"exclamatory"
+	],
+	[
+		"Ich nehme ein Bad.",
+		"declarative"
+	],
+	[
+		"Hat er den Schlüssel?",
+		"interrogative"
+	],
+	[
+		"Was für ein Tag!",
+		"exclamatory"
+	],
+	[
+		"Wir duschen kalt.",
+		"declarative"
+	],
+	[
+		"Hat sie das Buch?",
+		"interrogative"
+	],
+	[
+		"Was für eine Nacht!",
+		"exclamatory"
+	],
+	[
+		"Sie schminkt sich.",
+		"declarative"
+	],
+	[
+		"Haben wir genug Zeit?",
+		"interrogative"
+	],
+	[
+		"Was für ein Geschenk!",
+		"exclamatory"
+	],
+	[
+		"Er rasiert sich.",
+		"declarative"
+	],
+	[
+		"Habt ihr den Tisch gedeckt?",
+		"interrogative"
+	],
+	[
+		"Was für eine Blume!",
+		"exclamatory"
+	],
+	[
+		"Die Kinder waschen sich.",
+		"declarative"
+	],
+	[
+		"Haben Sie die Rechnung?",
+		"interrogative"
+	],
+	[
+		"Was für ein Baum!",
+		"exclamatory"
+	],
+	[
+		"Wir treffen uns am Bahnhof.",
+		"declarative"
+	],
+	[
+		"Kann er Spanisch?",
+		"interrogative"
+	],
+	[
+		"Was für ein Tier!",
+		"exclamatory"
+	],
+	[
+		"Sie verabreden sich zum Essen.",
+		"declarative"
+	],
+	[
+		"Kann sie tanzen?",
+		"interrogative"
+	],
+	[
+		"Was für ein Geruch!",
+		"exclamatory"
+	],
+	[
+		"Er entschuldigt sich.",
+		"declarative"
+	],
+	[
+		"Können wir das schaffen?",
+		"interrogative"
+	],
+	[
+		"Was für eine Musik!",
+		"exclamatory"
+	],
+	[
+		"Ich freue mich auf den Urlaub.",
+		"declarative"
+	],
+	[
+		"Könnt ihr das verstehen?",
+		"interrogative"
+	],
+	[
+		"Was für ein Tanz!",
+		"exclamatory"
+	],
+	[
+		"Wir fürchten uns vor dem Gewitter.",
+		"declarative"
+	],
+	[
+		"Können Sie mir den Weg zeigen?",
+		"interrogative"
+	],
+	[
+		"Was für ein Spiel!",
+		"exclamatory"
+	],
+	[
+		"Sie ärgert sich über den Lärm.",
+		"declarative"
+	],
+	[
+		"Darf er ausgehen?",
+		"interrogative"
+	],
+	[
+		"So schön!",
+		"exclamatory"
+	],
+	[
+		"Er wundert sich über das Geschenk.",
+		"declarative"
+	],
+	[
+		"Darf sie das Auto nehmen?",
+		"interrogative"
+	],
+	[
+		"So traurig!",
+		"exclamatory"
+	],
+	[
+		"Ich langweile mich.",
+		"declarative"
+	],
+	[
+		"Dürfen wir hier parken?",
+		"interrogative"
+	],
+	[
+		"So lustig!",
+		"exclamatory"
+	],
+	[
+		"Wir amüsieren uns gut.",
+		"declarative"
+	],
+	[
+		"Dürft ihr das?",
+		"interrogative"
+	],
+	[
+		"So dumm!",
+		"exclamatory"
+	],
+	[
+		"Sie beeilt sich.",
+		"declarative"
+	],
+	[
+		"Darf ich bitten?",
+		"interrogative"
+	],
+	[
+		"So klug!",
+		"exclamatory"
+	],
+	[
+		"Er erkundigt sich nach dem Weg.",
+		"declarative"
+	],
+	[
+		"Soll ich dich abholen?",
+		"interrogative"
+	],
+	[
+		"So mutig!",
+		"exclamatory"
+	],
+	[
+		"Ich bedanke mich.",
+		"declarative"
+	],
+	[
+		"Soll er das sagen?",
+		"interrogative"
+	],
+	[
+		"So feige!",
+		"exclamatory"
+	],
+	[
+		"Wir verabschieden uns.",
+		"declarative"
+	],
+	[
+		"Sollen wir gehen?",
+		"interrogative"
+	],
+	[
+		"So reich!",
+		"exclamatory"
+	],
+	[
+		"Sie setzt sich auf den Stuhl.",
+		"declarative"
+	],
+	[
+		"Sollt ihr das machen?",
+		"interrogative"
+	],
+	[
+		"So arm!",
+		"exclamatory"
+	],
+	[
+		"Er legt sich auf das Bett.",
+		"declarative"
+	],
+	[
+		"Sollen sie warten?",
+		"interrogative"
+	],
+	[
+		"So schnell!",
+		"exclamatory"
+	],
+	[
+		"Ich stelle mich vor.",
+		"declarative"
+	],
+	[
+		"Muss ich das lesen?",
+		"interrogative"
+	],
+	[
+		"So langsam!",
+		"exclamatory"
+	],
+	[
+		"Wir unterhalten uns.",
+		"declarative"
+	],
+	[
+		"Muss er kommen?",
+		"interrogative"
+	],
+	[
+		"So laut!",
+		"exclamatory"
+	],
+	[
+		"Sie beschwert sich.",
+		"declarative"
+	],
+	[
+		"Müssen wir so früh aufstehen?",
+		"interrogative"
+	],
+	[
+		"So leise!",
+		"exclamatory"
+	],
+	[
+		"Er beschäftigt sich mit dem Problem.",
+		"declarative"
+	],
+	[
+		"Musst du das tun?",
+		"interrogative"
+	],
+	[
+		"So hell!",
+		"exclamatory"
+	],
+	[
+		"Ich konzentriere mich.",
+		"declarative"
+	],
+	[
+		"Müsst ihr das lernen?",
+		"interrogative"
+	],
+	[
+		"So dunkel!",
+		"exclamatory"
+	],
+	[
+		"Wir entspannen uns.",
+		"declarative"
+	],
+	[
+		"Mag er Kaffee?",
+		"interrogative"
+	],
+	[
+		"So warm!",
+		"exclamatory"
+	],
+	[
+		"Sie erholt sich.",
+		"declarative"
+	],
+	[
+		"Mag sie Milch?",
+		"interrogative"
+	],
+	[
+		"So kalt!",
+		"exclamatory"
+	],
+	[
+		"Er bewegt sich.",
+		"declarative"
+	],
+	[
+		"Mögt ihr Sport?",
+		"interrogative"
+	],
+	[
+		"So hoch!",
+		"exclamatory"
+	],
+	[
+		"Ich wasche mich.",
+		"declarative"
+	],
+	[
+		"Mögen Sie klassische Musik?",
+		"interrogative"
+	],
+	[
+		"So tief!",
+		"exclamatory"
+	],
+	[
+		"Wir kämpfen gegen die Zeit.",
+		"declarative"
+	],
+	[
+		"Will er mitkommen?",
+		"interrogative"
+	],
+	[
+		"So weit!",
+		"exclamatory"
+	],
+	[
+		"Sie lacht über den Witz.",
+		"declarative"
+	],
+	[
+		"Will sie das Geschenk?",
+		"interrogative"
+	],
+	[
+		"Wie froh ich bin!",
+		"exclamatory"
+	],
+	[
+		"Er weint vor Glück.",
+		"declarative"
+	],
+	[
+		"Wollt ihr etwas essen?",
+		"interrogative"
+	],
+	[
+		"Wie stolz sie ist!",
+		"exclamatory"
+	],
+	[
+		"Die Kinder toben im Haus.",
+		"declarative"
+	],
+	[
+		"Wollen Sie uns helfen?",
+		"interrogative"
+	],
+	[
+		"Wie müde er aussieht!",
+		"exclamatory"
+	],
+	[
+		"Der Hund wedelt mit dem Schwanz.",
+		"declarative"
+	],
+	[
+		"Wisst ihr die Antwort?",
+		"interrogative"
+	],
+	[
+		"Wie hungrig sie ist!",
+		"exclamatory"
+	],
+	[
+		"Die Katze leckt sich die Pfote.",
+		"declarative"
+	],
+	[
+		"Weiß er Bescheid?",
+		"interrogative"
+	],
+	[
+		"Wie durstig er ist!",
+		"exclamatory"
+	],
+	[
+		"Der Hahn kräht am Morgen.",
+		"declarative"
+	],
+	[
+		"Weiß sie, wo wir sind?",
+		"interrogative"
+	],
+	[
+		"Wie neugierig sie sind!",
+		"exclamatory"
+	],
+	[
+		"Die Kuh gibt Milch.",
+		"declarative"
+	],
+	[
+		"Kennt ihr den Weg?",
+		"interrogative"
+	],
+	[
+		"Wie geduldig er wartet!",
+		"exclamatory"
+	],
+	[
+		"Das Pferd galoppiert über die Wiese.",
+		"declarative"
+	],
+	[
+		"Kennt sie den Autor?",
+		"interrogative"
+	],
+	[
+		"Wie ungeduldig sie drängelt!",
+		"exclamatory"
+	],
+	[
+		"Das Schaf blökt.",
+		"declarative"
+	],
+	[
+		"Findet er das lustig?",
+		"interrogative"
+	],
+	[
+		"Wie vorsichtig er fährt!",
+		"exclamatory"
+	],
+	[
+		"Die Ziege frisst Gras.",
+		"declarative"
+	],
+	[
+		"Findet sie das wichtig?",
+		"interrogative"
+	],
+	[
+		"Wie rücksichtslos sie parkt!",
+		"exclamatory"
+	],
+	[
+		"Ich schalte den Fernseher ein.",
+		"declarative"
+	],
+	[
+		"Glaubt er an Wunder?",
+		"interrogative"
+	],
+	[
+		"Wie pünktlich er kommt!",
+		"exclamatory"
+	],
+	[
+		"Wir machen die Musik an.",
+		"declarative"
+	],
+	[
+		"Glaubt sie an Glück?",
+		"interrogative"
+	],
+	[
+		"Wie unpünktlich sie ist!",
+		"exclamatory"
+	],
+	[
+		"Sie stellt die Heizung höher.",
+		"declarative"
+	],
+	[
+		"Hofft er auf Regen?",
+		"interrogative"
+	],
+	[
+		"Wie fleißig er arbeitet!",
+		"exclamatory"
+	],
+	[
+		"Er öffnet das Fenster.",
+		"declarative"
+	],
+	[
+		"Hofft sie auf Erfolg?",
+		"interrogative"
+	],
+	[
+		"Wie faul sie ist!",
+		"exclamatory"
+	],
+	[
+		"Ich schließe die Tür.",
+		"declarative"
+	],
+	[
+		"Denkt er an Arbeit?",
+		"interrogative"
+	],
+	[
+		"Wie ordentlich er aufräumt!",
+		"exclamatory"
+	],
+	[
+		"Wir drehen das Licht aus.",
+		"declarative"
+	],
+	[
+		"Denkt sie an Familie?",
+		"interrogative"
+	],
+	[
+		"Wie unordentlich sie lebt!",
+		"exclamatory"
+	],
+	[
+		"Sie räumt den Tisch ab.",
+		"declarative"
+	],
+	[
+		"Fühlt er sich wohl?",
+		"interrogative"
+	],
+	[
+		"Wie großzügig er ist!",
+		"exclamatory"
+	],
+	[
+		"Er spült das Geschirr.",
+		"declarative"
+	],
+	[
+		"Fühlt sie sich krank?",
+		"interrogative"
+	],
+	[
+		"Wie geizig sie ist!",
+		"exclamatory"
+	],
+	[
+		"Ich trockne das Besteck.",
+		"declarative"
+	],
+	[
+		"Sieht er den Fehler?",
+		"interrogative"
+	],
+	[
+		"Wie ehrlich er ist!",
+		"exclamatory"
+	],
+	[
+		"Wir decken den Tisch.",
+		"declarative"
+	],
+	[
+		"Sieht sie das Problem?",
+		"interrogative"
+	],
+	[
+		"Wie unehrlich sie ist!",
+		"exclamatory"
+	],
+	[
+		"Sie schneidet das Brot.",
+		"declarative"
+	],
+	[
+		"Hört er das Geräusch?",
+		"interrogative"
+	],
+	[
+		"Was für ein Unsinn!",
+		"exclamatory"
+	],
+	[
+		"Er streicht die Butter auf.",
+		"declarative"
+	],
+	[
+		"Hört sie meine Stimme?",
+		"interrogative"
+	],
+	[
+		"Was für eine Frechheit!",
+		"exclamatory"
+	],
+	[
+		"Ich esse ein Brötchen.",
+		"declarative"
+	],
+	[
+		"Riecht er den Rauch?",
+		"interrogative"
+	],
+	[
+		"Was für eine Sauerei!",
+		"exclamatory"
+	],
+	[
+		"Wir trinken Milch.",
+		"declarative"
+	],
+	[
+		"Riecht sie die Blumen?",
+		"interrogative"
+	],
+	[
+		"Was für ein Glückspilz!",
+		"exclamatory"
+	],
+	[
+		"Sie nimmt ein Stück Kuchen.",
+		"declarative"
+	],
+	[
+		"Schmeckt er die Schärfe?",
+		"interrogative"
+	],
+	[
+		"Was für eine Pechvogel!",
+		"exclamatory"
+	],
+	[
+		"Er beißt in den Apfel.",
+		"declarative"
+	],
+	[
+		"Schmeckt sie die Süße?",
+		"interrogative"
+	],
+	[
+		"Was für ein Meisterwerk!",
+		"exclamatory"
+	],
+	[
+		"Ich kaue langsam.",
+		"declarative"
+	],
+	[
+		"Fühlt er den Schmerz?",
+		"interrogative"
+	],
+	[
+		"Was für eine Katastrophe!",
+		"exclamatory"
+	],
+	[
+		"Wir schlucken.",
+		"declarative"
+	],
+	[
+		"Fühlt sie die Wärme?",
+		"interrogative"
+	],
+	[
+		"Was für ein Abenteuer!",
+		"exclamatory"
+	],
+	[
+		"Sie niest laut.",
+		"declarative"
+	],
+	[
+		"Versteht er die Aufgabe?",
+		"interrogative"
+	],
+	[
+		"Was für eine Enttäuschung!",
+		"exclamatory"
+	],
+	[
+		"Er hustet.",
+		"declarative"
+	],
+	[
+		"Versteht sie den Witz?",
+		"interrogative"
+	],
+	[
+		"Was für eine Überraschung!",
+		"exclamatory"
+	],
+	[
+		"Ich gähne.",
+		"declarative"
+	],
+	[
+		"Begreift er die Situation?",
+		"interrogative"
+	],
+	[
+		"So ein Theater!",
+		"exclamatory"
+	],
+	[
+		"Wir flüstern.",
+		"declarative"
+	],
+	[
+		"Begreift sie das Konzept?",
+		"interrogative"
+	],
+	[
+		"So eine Panik!",
+		"exclamatory"
+	],
+	[
+		"Sie schreit.",
+		"declarative"
+	],
+	[
+		"Weiß er, wann der Zug kommt?",
+		"interrogative"
+	],
+	[
+		"So ein Chaos!",
+		"exclamatory"
+	],
+	[
+		"Er flucht.",
+		"declarative"
+	],
+	[
+		"Weiß sie, wo der Bahnhof ist?",
+		"interrogative"
+	],
+	[
+		"So eine Ruhe!",
+		"exclamatory"
+	],
+	[
+		"Ich singe.",
+		"declarative"
+	],
+	[
+		"Kann er mir das erklären?",
+		"interrogative"
+	],
+	[
+		"So ein Lärm!",
+		"exclamatory"
+	],
+	[
+		"Wir pfeifen.",
+		"declarative"
+	],
+	[
+		"Kann sie das bitte wiederholen?",
+		"interrogative"
+	],
+	[
+		"So eine Stille!",
+		"exclamatory"
+	],
+	[
+		"Sie klatscht.",
+		"declarative"
+	],
+	[
+		"Darf ich Sie etwas fragen?",
+		"interrogative"
+	],
+	[
+		"So ein Durst!",
+		"exclamatory"
+	],
+	[
+		"Er stampft mit dem Fuß.",
+		"declarative"
+	],
+	[
+		"Können wir das später besprechen?",
+		"interrogative"
+	],
+	[
+		"So eine Hitze!",
+		"exclamatory"
+	],
+	[
+		"Ich nicke.",
+		"declarative"
+	],
+	[
+		"Möchten Sie noch etwas?",
+		"interrogative"
+	],
+	[
+		"So eine Kälte!",
+		"exclamatory"
+	],
+	[
+		"Wir schütteln den Kopf.",
+		"declarative"
+	],
+	[
+		"Ist das alles?",
+		"interrogative"
+	],
+	[
+		"So ein Wind!",
+		"exclamatory"
+	]
+]
