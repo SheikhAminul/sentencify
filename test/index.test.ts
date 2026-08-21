@@ -3,8 +3,8 @@ import { describe, it } from 'node:test'
 import { correctSentence, detectSentenceType, expressionsByLanguage, isPunctuationAvailable } from '../src/index.js'
 
 describe('expressionsByLanguage', () => {
-	it('exposes exactly the five supported language rule sets', () => {
-		assert.deepEqual(Object.keys(expressionsByLanguage).sort(), ['de', 'en', 'es', 'fr', 'ja'])
+	it('exposes exactly the six supported language rule sets', () => {
+		assert.deepEqual(Object.keys(expressionsByLanguage).sort(), ['de', 'en', 'es', 'fr', 'ja', 'pt'])
 	})
 
 	it('orders every rule set with a catch-all declarative rule last', () => {

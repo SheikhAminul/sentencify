@@ -1,6 +1,6 @@
 {
 	"name": "sentencify",
-	"version": "1.3.5",
+	"version": "1.3.6",
 	"description": "Detects sentence types and fixes punctuation in English, Japanese, German, Spanish, and French.",
 	"keywords": [
 		"sentence",
