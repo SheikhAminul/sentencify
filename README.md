@@ -1,6 +1,6 @@
 # sentencify
 
-**Detect sentence type and auto-fix punctuation and capitalization** — for English, Japanese, German, Spanish, and French. Zero dependencies, fully typed, ESM-only, under 40&nbsp;KB unpacked.
+**Detect sentence type and auto-fix punctuation and capitalization** — for English, Japanese, German, Spanish, French, and Portuguese. Zero dependencies, fully typed, ESM-only, under 40&nbsp;KB unpacked.
 
 [![npm version](https://img.shields.io/npm/v/sentencify.svg)](https://www.npmjs.com/package/sentencify)
 [![npm downloads](https://img.shields.io/npm/dm/sentencify.svg)](https://www.npmjs.com/package/sentencify)
@@ -16,6 +16,7 @@ correctSentence('cuál es tu nombre', 'es')    // → '¿Cuál es tu nombre?'
 correctSentence('comment vas-tu', 'fr')       // → 'Comment vas-tu ?'
 correctSentence('kannst du mir helfen', 'de') // → 'Kannst du mir helfen?'
 correctSentence('すごい', 'ja')                 // → 'すごい！'
+correctSentence('qual é o seu nome', 'pt')    // → 'Qual é o seu nome?'
 ```
 
 One function call turns raw, lowercase, unpunctuated text into a properly capitalized, correctly punctuated sentence — without an LLM call, a model download, or a network round-trip.
@@ -26,7 +27,7 @@ Text coming out of speech-to-text pipelines, chat inputs, streamed LLM tokens, a
 
 - 🧠 **Detects sentence type** — classifies text as `declarative`, `interrogative`, or `exclamatory`.
 - ✍️ **Auto-corrects sentences** — capitalizes the first letter and appends the right punctuation mark(s) for the detected type.
-- 🌍 **Multilingual punctuation rules** — English, Japanese, German, Spanish (`¿…?` / `¡…!`), and French (with the pre-punctuation space French typography requires).
+- 🌍 **Multilingual punctuation rules** — English, Japanese, German, Spanish (`¿…?` / `¡…!`), French (with the pre-punctuation space French typography requires), and Portuguese.
 - 🪶 **Zero runtime dependencies** — pure regex-based logic, nothing to download or initialize.
 - 📦 **ESM-only, tree-shakeable, side-effect free** — `"sideEffects": false` in `package.json`.
 - 🔒 **Fully typed** — written in TypeScript, ships hand-written JSDoc on every export so hovers and AI coding assistants get real documentation, not just signatures.
@@ -89,7 +90,7 @@ The main entry point. Capitalizes the first letter and appends the correct termi
 | Parameter  | Type                              | Default | Description |
 |------------|------------------------------------|---------|-------------|
 | `sentence` | `string`                          | —       | The raw sentence to correct. |
-| `language` | `'en' \| 'ja' \| 'de' \| 'es' \| 'fr'` | `'en'`  | Target language for punctuation rules. |
+| `language` | `'en' \| 'ja' \| 'de' \| 'es' \| 'fr' \| 'pt'` | `'en'`  | Target language for punctuation rules. |
 
 **Returns:** `string` — the corrected sentence, or `''` for empty/whitespace-only input.
 
@@ -107,7 +108,7 @@ Classifies a sentence without rewriting it. Useful if you want the label alone �
 | Parameter  | Type                              | Description |
 |------------|------------------------------------|-------------|
 | `sentence` | `string`                          | The sentence to classify. Rules are tuned for lowercase, unpunctuated input (how `correctSentence` calls it internally), but any string works. |
-| `language` | `'en' \| 'ja' \| 'de' \| 'es' \| 'fr'` | Which rule set to test against. |
+| `language` | `'en' \| 'ja' \| 'de' \| 'es' \| 'fr' \| 'pt'` | Which rule set to test against. |
 
 **Returns:** `'declarative' | 'interrogative' | 'exclamatory'`
 
@@ -123,7 +124,7 @@ Checks whether punctuation rules exist for a language code before calling `corre
 
 ### `expressionsByLanguage`
 
-The raw, ordered rule sets (`RegExp` + sentence type) used internally, keyed by language code (`en`, `ja`, `de`, `es`, `fr`). Exported for advanced use cases — e.g. building a custom classifier, debugging why a sentence was classified a certain way, or contributing new rules.
+The raw, ordered rule sets (`RegExp` + sentence type) used internally, keyed by language code (`en`, `ja`, `de`, `es`, `fr`, `pt`). Exported for advanced use cases — e.g. building a custom classifier, debugging why a sentence was classified a certain way, or contributing new rules.
 
 ### Types
 
@@ -143,6 +144,7 @@ type SentenceTypeDetectExpressionSets = {
 | German   | `de` | `Die sonne scheint.` | `Kannst du mir helfen?` | `Das ist toll!` |
 | Spanish  | `es` | `El clima es agradable.` | `¿Cuál es tu nombre?` | `¡Excelente trabajo!` |
 | French   | `fr` | `Le temps est agréable.` | `Comment vas-tu ?` | `C'est incroyable !` |
+| Portuguese | `pt` | `O tempo está agradável.` | `Qual é o seu nome?` | `Que trabalho excelente!` |
 
 Don't see your language? [Open an issue](https://github.com/SheikhAminul/sentencify/issues) or contribute a rule set — see [Contributing](#contributing).
 
